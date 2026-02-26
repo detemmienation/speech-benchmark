@@ -3,16 +3,20 @@ speech-benchmark for 11-777 project
 
 ## overview
 This project benchmarks speech-to-text translation models on:
-- Dataset: CoVoST2 (en → zh-CN, test split)
+- Dataset: CoVoST2 (en → zh-CN, test split) https://huggingface.co/datasets/fixie-ai/covost2/viewer/en_zh-CN/test
 -	Task: English speech → Chinese text
 - Metrics: BLEU, COMET, Latency
 
-### Current Models
+## Current Models
+### Unimodels
+- whisper_large(english audio -> english text) + qwen-2.5 (english text -> chinese text)
+- ....
+### multimodels
+- qwen3_omni(english audio + chinese prompt text -> chinese audio)
+- ...
+### Competitive Models
 - seamless_large/ → facebook/seamless-m4t-v2-large
-- whisper_large/
-
-### Future models (planned):
--	qwen3_omni/
+- ...
 
 Each model has its own folder containing:
 ```
@@ -40,16 +44,25 @@ sudo apt update
 sudo apt install -y libsndfile1 ffmpeg
 ```
 
-## How to Run (Example: Seamless)
+## How to Run 
+### Competitive/Mutimodal (Example: Seamless)
 ```
 cd seamless
-
-python3 -m venv seamless-env
-source seamless-env/bin/activate
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 python run_seamless.py
 ```
+### Unimodal (Example: whisper + qwen-2.5)
+```
+cd whisper_large
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+# english audio -> english text 
+# outputs/latency_summary.json
+python run_whisper.py
+# english text -> chinese text
+# outputs_mt/latency_summary.json  -> the total latency will be the sum of the two steps
+python qwen_translate.py
 
+```
 
 
 ## Evaluation
