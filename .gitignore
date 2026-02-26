@@ -1,0 +1,22 @@
+# env
+seamless-env/
+comet-env/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# huggingface cache
+.cache/
+**/.cache/
+
+# outputs / large artifacts
+seamless/outputs/
+seamless/**/outputs/
+*.jsonl
+*.safetensors
+*.bin
+
+# aws keys
+*.pem
