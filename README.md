@@ -1,2 +1,60 @@
 # speech-benchmark
 speech-benchmark for 11-777 project
+
+## overview
+This project benchmarks speech-to-text translation models on:
+- Dataset: CoVoST2 (en → zh-CN, test split)
+-	Task: English speech → Chinese text
+- Metrics: BLEU, COMET, Latency
+
+### Current Models
+- seamless_large/ → facebook/seamless-m4t-v2-large
+
+### Future models (planned):
+- whisper_large/
+-	qwen3_omni/
+
+Each model has its own folder containing:
+```
+run.py
+eval_bleu.py
+eval_comet.py
+outputs/
+```
+
+## How to Run (Example: Seamless)
+```
+cd seamless
+
+python3 -m venv seamless-env
+source seamless-env/bin/activate
+
+pip install -r requirements.txt
+
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+python run_seamless.py
+```
+
+
+
+## Evaluation
+
+BLEU:
+
+```python eval_bleu.py```
+
+COMET:
+
+```python eval_comet.py```
+
+Latency results are saved to:
+
+```outputs/latency_summary.json```
+
+
+## Environment
+
+Tested on:
+	•	GPU: NVIDIA A10G (24GB)
+	•	PyTorch 2.5.1
+	•	Transformers 4.41+
