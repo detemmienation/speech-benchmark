@@ -4,7 +4,7 @@ import evaluate
 bleu = evaluate.load("sacrebleu")
 
 preds, refs = [], []
-for fp in sorted(glob.glob("outputs_mt/pred_*.jsonl")):    
+for fp in sorted(glob.glob("outputs/pred_*.jsonl")):
     with open(fp, "r", encoding="utf-8") as f:
         for line in f:
             r = json.loads(line)
