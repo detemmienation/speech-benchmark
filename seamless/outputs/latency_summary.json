@@ -1,0 +1,14 @@
+{
+  "model": "facebook/seamless-m4t-v2-large",
+  "split": "test",
+  "tgt_lang": "cmn",
+  "batch_size": 2,
+  "shard_size": 500,
+  "max_new_tokens": 256,
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "examples_done": 1000,
+  "infer_seconds_total": 483.91303181648254,
+  "avg_seconds_per_example": 0.48391303181648254,
+  "avg_examples_per_second": 2.0664870219474403
+}
