@@ -1,0 +1,38 @@
+{
+  "model": "facebook/wav2vec2-base-960h",
+  "device": "cuda",
+  "dtype": "torch.float32",
+  "batch_size": 8,
+  "total_examples": 1000,
+  "shards": [
+    {
+      "start": 0,
+      "end": 249,
+      "count": 250,
+      "shard_time_sec": 29.33525037765503,
+      "avg_sec_per_ex": 0.11734100151062012
+    },
+    {
+      "start": 250,
+      "end": 499,
+      "count": 250,
+      "shard_time_sec": 27.634389638900757,
+      "avg_sec_per_ex": 0.11053755855560303
+    },
+    {
+      "start": 500,
+      "end": 749,
+      "count": 250,
+      "shard_time_sec": 30.271154165267944,
+      "avg_sec_per_ex": 0.12108461666107177
+    },
+    {
+      "start": 750,
+      "end": 999,
+      "count": 250,
+      "shard_time_sec": 25.85116934776306,
+      "avg_sec_per_ex": 0.10340467739105225
+    }
+  ],
+  "total_time_sec": 113.10023236274719
+}

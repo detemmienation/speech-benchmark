@@ -1,0 +1,7 @@
+{
+  "model": "openai/whisper-large-v3",
+  "device": "cuda",
+  "examples_done": 1000,
+  "infer_seconds_total": 588.6669862270355,
+  "avg_seconds_per_example": 0.5886669862270355
+}

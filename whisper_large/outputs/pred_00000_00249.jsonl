@@ -1,0 +1,250 @@
+{"idx": 0, "src_en": "\"She'll be all right.\"", "ref_zh": "她会没事的。", "pred_zh": " She'll be alright."}
+{"idx": 1, "src_en": "\"All's well that ends well.\"", "ref_zh": "皆大欢喜。", "pred_zh": " All is well that ends well."}
+{"idx": 2, "src_en": "Do you mean it?", "ref_zh": "是这个意思吗？", "pred_zh": " Do you mean it?"}
+{"idx": 3, "src_en": "The new patch is less invasive than the old one, but still causes regressions.", "ref_zh": "新型贴片相比旧款更具微创效果，但仍可导致机能退化。", "pred_zh": " The new patch is less invasive than the old one, but still causes regression."}
+{"idx": 4, "src_en": "How is Mozilla going to handle ambiguities like queue and cue?", "ref_zh": "Mozilla 打算如何处理“queue”和“cue”这类易混淆的字词呢？", "pred_zh": " How is Mozilla going to handle ambiguities like Q and Q?"}
+{"idx": 5, "src_en": "\"I guess you must think I'm kinda batty.\"", "ref_zh": "我想你一定会觉得我有些古怪吧。", "pred_zh": " What should we say about the party?"}
+{"idx": 6, "src_en": "No one near the remote machine you could ring?", "ref_zh": "无法联系到远程机器附近的人员？", "pred_zh": " No one near the remote machine you could ring"}
+{"idx": 7, "src_en": "Sauce for the goose is sauce for the gander.", "ref_zh": "凡事应一视同仁。", "pred_zh": " Sauce for the goose is sauce for the gander."}
+{"idx": 8, "src_en": "Groves started writing songs when she was four years old.", "ref_zh": "Groves 从四岁起就开始写歌了。", "pred_zh": " Graf started writing songs when she was four years old."}
+{"idx": 9, "src_en": "The long-lived bridge still stands today.", "ref_zh": "这座历史悠久的桥至今仍屹立不倒。", "pred_zh": " The long lived blidge still stands today."}
+{"idx": 10, "src_en": "There was nothing to hold him back except himself.", "ref_zh": "除了他自己，没人能劝住他。", "pred_zh": " There was nothing to hold him back except himself."}
+{"idx": 11, "src_en": "We spoke often.", "ref_zh": "我们经常这样说。", "pred_zh": " We spoke often"}
+{"idx": 12, "src_en": "The electrician looked puzzled.", "ref_zh": "电工看起来一脸茫然。", "pred_zh": " This is the depression loop puzzle"}
+{"idx": 13, "src_en": "The ladder on the fire truck was not long enough.", "ref_zh": "消防车上的梯子不够长。", "pred_zh": " The ladder on the fire truck was not long enough."}
+{"idx": 14, "src_en": "I will tell her what we decided.", "ref_zh": "我会告诉她我们的决定。", "pred_zh": " I will tell her what we decided"}
+{"idx": 15, "src_en": "Good things come in small packages.", "ref_zh": "浓缩就是精华。", "pred_zh": " Good things come in small packages."}
+{"idx": 16, "src_en": "It is a member theater of the Union of the Theatres of Europe.", "ref_zh": "该剧院是欧洲剧院联盟的成员。", "pred_zh": " It is a member theater of the Union of the Theaters of Europe."}
+{"idx": 17, "src_en": "YOU WANNA TAKE THIS OUTSIDE?", "ref_zh": "想出去谈谈吗？", "pred_zh": " You wanna take this outside"}
+{"idx": 18, "src_en": "The immersion in hot water also kills the silkworm pupa.", "ref_zh": "浸泡在热水中也会让蚕蛹失去生命。", "pred_zh": " The immersion in hot water also kills the sick worm, Huba."}
+{"idx": 19, "src_en": "The attack on our root server overstrained our senior administrator.", "ref_zh": "针对根服务器的攻击让我们的高级管理员相当紧张。", "pred_zh": " The attack on your road surface overstrained our senior administrator."}
+{"idx": 20, "src_en": "Do you want me?", "ref_zh": "你希望我这样吗？", "pred_zh": " Do you want me?"}
+{"idx": 21, "src_en": "That would be funny if he did.", "ref_zh": "要是他这样做了就好玩了。", "pred_zh": " That would be funny if he did."}
+{"idx": 22, "src_en": "Although she had flowers and applause, Mavis said she was not content.", "ref_zh": "即便拥有鲜花和掌声，Mavis 仍然不满足。", "pred_zh": " Although she had flowers and applause, maybe said she was not content."}
+{"idx": 23, "src_en": "Add the column and put the sum here.", "ref_zh": "添加列，将总和记录在这里。", "pred_zh": " Add the column and put the sum here."}
+{"idx": 24, "src_en": "\"Alston commented that he felt the cartoonist \"\"might have had some racial intent\"\".\"", "ref_zh": "Alston 评论称，他觉得这位漫画家“可能存在种族歧视”。", "pred_zh": " Alstone commented that he felt the cartoonist might have had some racial intent."}
+{"idx": 25, "src_en": "Doing a handstand needs a lot of practice to learn.", "ref_zh": "倒立需要勤加练习才能学会。", "pred_zh": " Doing a handstand needs a lot of practice to learn."}
+{"idx": 26, "src_en": "Man in red tshirt and baseball cap viewed from above he is has a pile of posters", "ref_zh": "从上方俯视身穿红色 T 恤、带着棒球帽的男士，他有一大堆海报。", "pred_zh": " Man in red t-shirt and baseball cap viewed from above he is has a pile of posture"}
+{"idx": 27, "src_en": "The two films were then released within one day of each other.", "ref_zh": "两部电影相继在同一天内发布。", "pred_zh": " The two films were then released within one day of each other."}
+{"idx": 28, "src_en": "After experiencing a mind-blowing sensual orgy, Mike was sure he had taken an overdose.", "ref_zh": "经历过放飞自我的感官放纵后，Mike 确信自己吸毒过量了。", "pred_zh": " After experiencing a mind-blowing sensual allergy, Mike was sure he had taken an overdose."}
+{"idx": 29, "src_en": "Religious festivals include the Muslim Eids and the Christian Christmas and Easter.", "ref_zh": "宗教节日包括伊斯兰教的开斋节，以及基督教的圣诞节和复活节。", "pred_zh": " Religious festivals include the Muslim, Eid, and the Christian Christmas and Easter."}
+{"idx": 30, "src_en": "What do you advise, sir?", "ref_zh": "你有什么建议吗，先生？", "pred_zh": " What do you advise, sir?"}
+{"idx": 31, "src_en": "Charles looked on, angry that there was nothing he could do.", "ref_zh": "Charles 旁观着，因为无能为力而感到非常生气。", "pred_zh": " Charles looked on, angry that there was nothing he could do."}
+{"idx": 32, "src_en": "Port-de-Paix is served by Port-de-Paix Airport.", "ref_zh": "和平港机场为和平港提供服务。", "pred_zh": " Porto Pigs is served by Porto Pigs Airport"}
+{"idx": 33, "src_en": "It is inhibited by the pneumotaxic centre.", "ref_zh": "呼吸调节中枢对其产生抑制作用。", "pred_zh": " It is inhibited by the pneumotoxic center."}
+{"idx": 34, "src_en": "His wide grin earned many friends.", "ref_zh": "他的灿烂笑容为他带来了许多朋友。", "pred_zh": " He's white, green and many friends."}
+{"idx": 35, "src_en": "It connects Sibi with Quetta both by road and railway.", "ref_zh": "锡比和奎达通过公路和铁路相连。", "pred_zh": " It connects CB with Quetta both by road and railway."}
+{"idx": 36, "src_en": "In spite of this, I still believed that there were men in Mars.", "ref_zh": "尽管如此，我仍然相信火星上存在人类。", "pred_zh": " in spite of this I still believe that there were men in Mars"}
+{"idx": 37, "src_en": "The land was ruined, and I had to find some other way to earn a living.", "ref_zh": "土地遭到了破坏，我必须寻找其他营生方式。", "pred_zh": " The land was ruined, I had to find some other way to earn a living."}
+{"idx": 38, "src_en": "Footprints of mud and clay were on the floor.", "ref_zh": "地板上有沾着泥浆的足迹。", "pred_zh": " Footprints of mud and clay were on the floor."}
+{"idx": 39, "src_en": "I pointed out Mars, a bright dot of light.", "ref_zh": "我指出了火星，那是一个明亮的光点。", "pred_zh": " I pointed out Mars, a bright dot of light."}
+{"idx": 40, "src_en": "I know why I want to get back to my flock, he thought.", "ref_zh": "他想，我知道自己为什么想要回到同类人之中。", "pred_zh": " I know why I want to get back to my flock, he thought."}
+{"idx": 41, "src_en": "You should see the other guy, specifically, how good at fighting he is.", "ref_zh": "你应该特别关注另一个家伙，看看他多么擅长格斗。", "pred_zh": " You should see the other guy, specifically how good at fighting he is."}
+{"idx": 42, "src_en": "He is of African-American and Italian descent.", "ref_zh": "他有着非裔美国人和意大利人血统。", "pred_zh": " He is of African American and Italian descent."}
+{"idx": 43, "src_en": "\"That's not Carson Sphinx.\"", "ref_zh": "那并不是 Carson Sphinx。", "pred_zh": " That's not Carson Spinks."}
+{"idx": 44, "src_en": "Lorenz is listed as a Swiss heritage site of national significance.", "ref_zh": "Lorenz 被列为瑞士具有国家影响力的遗产。", "pred_zh": " Lawrence is listed as a Swiss Heritage Site of National Significance."}
+{"idx": 45, "src_en": "We should not take for granted how fortunate we have been.", "ref_zh": "我们不应将自己的幸运视为理所当然。", "pred_zh": " We should not take for granted how fortunate we have been."}
+{"idx": 46, "src_en": "The farmer works the soil and produces grain.", "ref_zh": "农民辛勤耕耘，种植粮食。", "pred_zh": " The farmer works the soil and produces grain."}
+{"idx": 47, "src_en": "\"Since I've gotten a dog, the regular visits of the fox have stopped.\"", "ref_zh": "自从养了狗，狐狸就不再经常出现了。", "pred_zh": " Since I've gotten a dog, the regular visits of the fox have stopped."}
+{"idx": 48, "src_en": "His speech ended with a standing ovation.", "ref_zh": "他演讲结束后，观众纷纷起立鼓掌。", "pred_zh": " His speech ended with a standing ovation."}
+{"idx": 49, "src_en": "\"\"\"The wind told me that you know about love\"\" the boy said to the sun.\"", "ref_zh": "男孩对太阳说：“风告诉我，你知道什么是爱”。", "pred_zh": " The wind told me that you know about love, the boy said to the sun."}
+{"idx": 50, "src_en": "The little pink ones are so cute.", "ref_zh": "那些粉红色的小东西真可爱。", "pred_zh": " The little pink ones are so cute."}
+{"idx": 51, "src_en": "The students colored with their crayons.", "ref_zh": "学生们用蜡笔涂颜色。", "pred_zh": " The students colored with their crayons."}
+{"idx": 52, "src_en": "It seemed to him that it fell to earth about one hundred miles east of here.", "ref_zh": "在他看来，它似乎落在了离这儿以东一百英里的地方。", "pred_zh": " It seemed to him that it fell to earth about 100 miles east here."}
+{"idx": 53, "src_en": "He took the fourth part and handed it to the monk.", "ref_zh": "他拿起第四部分，交给了和尚。", "pred_zh": " He took the first pot and handed it to the monk."}
+{"idx": 54, "src_en": "He is a right-handed batsman and a left-arm slow bowler.", "ref_zh": "他是右撇子击球手和左手慢投球手。", "pred_zh": " He is a right handed batsman and a left arm slow bowler."}
+{"idx": 55, "src_en": "Where will you go?", "ref_zh": "你要去哪儿？", "pred_zh": " Where will you go?"}
+{"idx": 56, "src_en": "The owner of the dwelling was not amused.", "ref_zh": "房子的主人并不觉得好笑。", "pred_zh": " The owner of the dwelling was not amused."}
+{"idx": 57, "src_en": "All of this activity in Milwaukee was in no way unique.", "ref_zh": "所有这些活动在密尔沃基都不是独一无二的。", "pred_zh": " All of this activity in Milwaukee was in no way unique."}
+{"idx": 58, "src_en": "Thai dancers happily going through their steps in unison.", "ref_zh": "泰国舞者愉快地齐步走着。", "pred_zh": " Five dancers happily going through their steps in unison."}
+{"idx": 59, "src_en": "\"I'm so glad to see you.\"", "ref_zh": "很高兴见到你。", "pred_zh": " I'm so glad to see you."}
+{"idx": 60, "src_en": "Then she looked up.", "ref_zh": "然后她向上看去。", "pred_zh": " Hello everyone"}
+{"idx": 61, "src_en": "What was he like?", "ref_zh": "他是个什么样的人？", "pred_zh": " What was he like?"}
+{"idx": 62, "src_en": "\"Luckily, the dagger couldn't penetrate the bullet proof vest.\"", "ref_zh": "幸运的是，匕首没有穿透防弹背心。", "pred_zh": " Luckily, the dagger couldn't penetrate the bulletproof vest."}
+{"idx": 63, "src_en": "\"The borough was named for the area's terrain.\"", "ref_zh": "这个区是根据地形命名的。", "pred_zh": " The tower was named after the Airstream"}
+{"idx": 64, "src_en": "\"\"\"Like everybody learns,\"\" he said.\"", "ref_zh": "“好像每个人都在学习，”他说。", "pred_zh": " Like everybody learns, he said."}
+{"idx": 65, "src_en": "This has become a bit of a cult in Romania.", "ref_zh": "在罗马尼亚，这有点邪教的味道。", "pred_zh": " This has become a bit of a cult in Romania."}
+{"idx": 66, "src_en": "How often has the train been late?", "ref_zh": "火车多久晚点一次?", "pred_zh": " How often has the train been late?"}
+{"idx": 67, "src_en": "\"He is currently a member of investment bank Jefferies' Global Senior Advisory Board.\"", "ref_zh": "他目前是 Jefferies 投资银行全球高级顾问委员会的成员。", "pred_zh": " He is currently a member of investment bank Jefferies Global Senior Accessory Board"}
+{"idx": 68, "src_en": "To increase his popularity in public-opinion polls, the politician started a campaign.", "ref_zh": "这位政治家发起了一场运动来提高他在民意调查中的支持率。", "pred_zh": " To increase popularity in public opinion polls, the politicians started a campaign."}
+{"idx": 69, "src_en": "Unique designs and color combinations have been used to commemorate special competitions.", "ref_zh": "独特的设计和颜色组合用来纪念特殊的比赛。", "pred_zh": " Unique designs and color combinations have been used in some of our special competitions."}
+{"idx": 70, "src_en": "The cemetery is now managed by three trusts.", "ref_zh": "现在，墓地由三个信托基金管理。", "pred_zh": " The cemetery is now managed by three trusts"}
+{"idx": 71, "src_en": "Where is it, then?", "ref_zh": "那么，它在哪儿呢?", "pred_zh": " Where is it then?"}
+{"idx": 72, "src_en": "Always ask an objective question.", "ref_zh": "提问题始终应该客观一些。", "pred_zh": " Always ask an objective question"}
+{"idx": 73, "src_en": "rate the current book two stars", "ref_zh": "给当前这本书打两颗星", "pred_zh": " I'm going to the airport to buy some food."}
+{"idx": 74, "src_en": "More discussion is needed on how it will be financed.", "ref_zh": "需要多讨论一下如何筹措资金。", "pred_zh": " More discussion is needed on how it will be financed."}
+{"idx": 75, "src_en": "The move was made effective immediately.", "ref_zh": "此举立即生效。", "pred_zh": " The move was made effective immediately."}
+{"idx": 76, "src_en": "A soldier wearing a pink scarf peers out of the top of a vehicle.", "ref_zh": "一名戴粉色围巾的士兵从车顶向外张望。", "pred_zh": " A soldier wearing a pink scarf peers out of the top of a vehicle."}
+{"idx": 77, "src_en": "\"\"\"Bambalio\"\" refers to a tendency to stammer.\"", "ref_zh": "“Bambalio”是指有点结巴的意思。", "pred_zh": " Compilio refers to a coincident drama."}
+{"idx": 78, "src_en": "\"\"\"I can work for the rest of today,\"\" the boy answered.\"", "ref_zh": "“今天剩下的时间我都可以工作，”男孩回答说。", "pred_zh": " I can't work for the restaurant today, the boy answered."}
+{"idx": 79, "src_en": "\"I'd like to order some cinnamon pretzels, please.\"", "ref_zh": "我想点一些肉桂椒盐卷饼。", "pred_zh": " I would like to order some cinnamon pretzels please"}
+{"idx": 80, "src_en": "The boy was also saddened; his friend was in pursuit of his destiny.", "ref_zh": "男孩也很伤心；他的朋友在追求自己的梦想。", "pred_zh": " The boy was also saddened. His friend was in pursuit of his destiny."}
+{"idx": 81, "src_en": "Women form less than half of the group.", "ref_zh": "这群人中女性不到一半。", "pred_zh": " Women form less than half of the group."}
+{"idx": 82, "src_en": "Men play football as a crowd watches.", "ref_zh": "男人们踢足球，一群人在围观。", "pred_zh": " Men play football as the crowd watches."}
+{"idx": 83, "src_en": "How about once more around the park?", "ref_zh": "再绕公园转一圈怎么样?", "pred_zh": " How about once more around the park?"}
+{"idx": 84, "src_en": "A song, a Girl, a maid.", "ref_zh": "歌、女孩、伴娘。", "pred_zh": " A song is a god image"}
+{"idx": 85, "src_en": "The line appears today on the Tube Map as an orange stripe.", "ref_zh": "今天，地铁图上的这条线显示为橙色条纹。", "pred_zh": " The line appears today on the tube map as an orange stripe."}
+{"idx": 86, "src_en": "What kind of a proof is that?", "ref_zh": "这是什么样的证据？", "pred_zh": " What kind of proof is that?"}
+{"idx": 87, "src_en": "That application was rejected.", "ref_zh": "申请被拒绝了。", "pred_zh": " This is the subject of the day."}
+{"idx": 88, "src_en": "They had a lot to divulge.", "ref_zh": "他们有很多事情要讲。", "pred_zh": " They had a lot to divulge."}
+{"idx": 89, "src_en": "\"Every day was there to be lived or to mark one's departure from this world.\"", "ref_zh": "日子天天要过，或标志着一个人离开了这个世界。", "pred_zh": " Every day was there to be lived, our two marks one's departure from this world."}
+{"idx": 90, "src_en": "Potato crisps are thinly sliced fried potatoes, eaten as a snack", "ref_zh": "薯片是油炸土豆片，当零食吃", "pred_zh": " Potato Crips are thinly sliced fried potatoes eaten as a snack."}
+{"idx": 91, "src_en": "We are giving them no rest.", "ref_zh": "我们不让他们休息。", "pred_zh": " We are going to the North-East!"}
+{"idx": 92, "src_en": "Throughout the entire day we will be on the lookout for our enemies.", "ref_zh": "我们整天都在提防着敌人。", "pred_zh": " Throughout the entire day, we will be on the lookout for our enemies."}
+{"idx": 93, "src_en": "Plastic surgery has become more popular.", "ref_zh": "整形手术越来越流行。", "pred_zh": " Plastic surgery has become more popular."}
+{"idx": 94, "src_en": "The tracking reference did not work.", "ref_zh": "跟踪参考不起作用。", "pred_zh": " The tracking reference did not work."}
+{"idx": 95, "src_en": "But you are joking.", "ref_zh": "你在开玩笑吧。", "pred_zh": " But you are joking."}
+{"idx": 96, "src_en": "With no weapons, the only attack option open to him was aerial ramming.", "ref_zh": "由于没有武器，他唯一可以选择的攻击方式就是空中撞击。", "pred_zh": " With no weapons, the only attack option open to him was aerial rimming."}
+{"idx": 97, "src_en": "Touchscreens do not provide haptic feedback.", "ref_zh": "触摸屏没有触觉反馈。", "pred_zh": " The screens do not provide headache feedback."}
+{"idx": 98, "src_en": "It was a tent like many at the oasis.", "ref_zh": "这是一个帐篷，就像绿洲中的许多帐篷一样。", "pred_zh": " It was a tent like many at the Oasis"}
+{"idx": 99, "src_en": "\"This blurry tomography doesn't help me a lot with the diagnosis.\"", "ref_zh": "这种模糊的断层扫描对我的诊断帮助不大。", "pred_zh": " This blurry tomography doesn't help me a lot with the diagnosis."}
+{"idx": 100, "src_en": "Sunburn can be avoided by applying sunscreen or by staying in the shadows.", "ref_zh": "涂防晒霜或呆在阴凉的地方可以避免晒伤。", "pred_zh": " Sunburn can be avoided by applying sunscreen or by staying in the shadows."}
+{"idx": 101, "src_en": "Since leaving office, he has also attended a number of other events of significance.", "ref_zh": "离职后，他还参加了一些其他重要活动。", "pred_zh": " Since leaving office, he has attended a number of other events of significance."}
+{"idx": 102, "src_en": "\"\"\"Fatima,\"\" the girl said, averting her eyes.\"", "ref_zh": "“Fatima。”女孩转过头说。", "pred_zh": " Fatima the girl said, averting her eyes."}
+{"idx": 103, "src_en": "She also taught journalism at the University of California at Berkeley.", "ref_zh": "她还在加州大学伯克利分校教授新闻学。", "pred_zh": " She also taught journalism at the University of California at Berkeley."}
+{"idx": 104, "src_en": "Still waters run deep.", "ref_zh": "大智若愚。", "pred_zh": " Still waters run deep."}
+{"idx": 105, "src_en": "The University is a member of several organizations of colleges and universities.", "ref_zh": "这所大学是几个高校组织的成员。", "pred_zh": " The University is a member of several organizations of colleges and universities."}
+{"idx": 106, "src_en": "These chimes have a mellow sound.", "ref_zh": "钟声悠扬。", "pred_zh": " These charms have a mellow sound"}
+{"idx": 107, "src_en": "No one has ever done it before.", "ref_zh": "以前从没有人这样做过。", "pred_zh": " No one has ever done it before."}
+{"idx": 108, "src_en": "What game do you want to play?", "ref_zh": "你想玩什么游戏?", "pred_zh": " What game do you want to play?"}
+{"idx": 109, "src_en": "The completed chartering contract is known as a charter party.", "ref_zh": "已签署租船合同的称为租船方。", "pred_zh": " The completed chartering contract is known as the Charter Party."}
+{"idx": 110, "src_en": "Maybe the church, with the sycamore growing from within, had been haunted.", "ref_zh": "也许那座长着梧桐树的教堂一直闹鬼。", "pred_zh": " Maybe the church with the sycamore growing from within had been haunted."}
+{"idx": 111, "src_en": "\"I'll go right after it.\"", "ref_zh": "我马上就去。", "pred_zh": " I will go right after it"}
+{"idx": 112, "src_en": "With the change in ownership, the company ceased most of its book publishing efforts.", "ref_zh": "随着所有权变更，该公司停止了大部分图书出版工作。", "pred_zh": " With the change in ownership, the company seized most of its book publishing efforts."}
+{"idx": 113, "src_en": "You will need to know to build your own custom environment.", "ref_zh": "您需要了解如何构建自己的自定义环境。", "pred_zh": " You will need to know to build your own custom environment."}
+{"idx": 114, "src_en": "An awesome picture of a young woman jumping in the air", "ref_zh": "一名年轻女子在空中跳跃的精彩画面", "pred_zh": " An awesome picture of a young woman jumping in the air."}
+{"idx": 115, "src_en": "Sure, see you there!", "ref_zh": "当然，不见不散！", "pred_zh": " Sure, see you there."}
+{"idx": 116, "src_en": "Some concurrent programming models include coprocesses and deterministic concurrency.", "ref_zh": "一些并行编程模型包括协进程和确定性并行。", "pred_zh": " Some concurrent programming models include core processes and deterministic concurrency."}
+{"idx": 117, "src_en": "Some storms are worth the wreckage.", "ref_zh": "有些风暴不得不付出代价。", "pred_zh": " Some storms are worth the wreckage"}
+{"idx": 118, "src_en": "This convention is a natural.", "ref_zh": "这种约定是自然的。", "pred_zh": " This convention is a natural."}
+{"idx": 119, "src_en": "The final medal tally was led by host Vietnam, followed by Thailand and Indonesia.", "ref_zh": "最终奖牌总数东道主越南获得冠军，泰国和印度尼西亚为亚军和第三。", "pred_zh": " The final medal tally was led by host Vietnam followed by Thailand and Indonesia. Full stop."}
+{"idx": 120, "src_en": "The tea was a little bit too hot.", "ref_zh": "茶有点太烫了。", "pred_zh": " The tea was a little bit too hot."}
+{"idx": 121, "src_en": "Sisters Kimberly and Tiffany, and brother Ryan.", "ref_zh": "Kimberly 和 Tiffany 姐妹，以及 Ryan 兄弟。", "pred_zh": " Sisters Kimberly and Tiffany and Brother Ryan"}
+{"idx": 122, "src_en": "Clams are small, round, soft, and tasty.", "ref_zh": "蛤蜊又小又圆，嫩滑且美味。", "pred_zh": " Clams are small, round, soft and tasty."}
+{"idx": 123, "src_en": "\"Her mom took her to the judo class at four o'clock.\"", "ref_zh": "她妈妈四点钟带她去上柔道课。", "pred_zh": " I'm going to the bathroom."}
+{"idx": 124, "src_en": "Thailand turned out to be a very satisfying holiday.", "ref_zh": "泰国成为了度假胜地。", "pred_zh": " Thailand turned out to be a very satisfying holiday"}
+{"idx": 125, "src_en": "Like an old fire horse.", "ref_zh": "像匹老火马。", "pred_zh": " Like an old fire horse"}
+{"idx": 126, "src_en": "Originally, the finale for the sixth season was promoted as a cliff-hanger.", "ref_zh": "最初，第六季的结局被宣传为惊险片。", "pred_zh": " Originally, the finale for the sixth season was promoted as a cliffhanger."}
+{"idx": 127, "src_en": "I notice you still remember it.", "ref_zh": "我注意到你还记得。", "pred_zh": " I'm not sure."}
+{"idx": 128, "src_en": "At these dimensions, it is large enough to be seen from space.", "ref_zh": "它在这些维度上足够大，可以从太空中看到。", "pred_zh": " At these dimensions, it is large enough to be seen from space."}
+{"idx": 129, "src_en": "The Internet is built upon many protocols which complement each other perfectly.", "ref_zh": "互联网建立在许多完美互补的协议之上。", "pred_zh": " The Internet is built upon many protocols which complement each other perfectly."}
+{"idx": 130, "src_en": "Wait for the end of the war.", "ref_zh": "等待战争结束。", "pred_zh": " Wait for the end of the world"}
+{"idx": 131, "src_en": "Finally, the Beatles began playing at the Jac on occasions.", "ref_zh": "最后，甲壳虫乐队开始偶尔在 Jac 演奏。", "pred_zh": " Finally, the Beatles began playing at the jack on occasions."}
+{"idx": 132, "src_en": "Pencils down, time is over.", "ref_zh": "请放下铅笔，时间到了。", "pred_zh": " 20 down Time is over"}
+{"idx": 133, "src_en": "\"\"\"This desert was once a sea,\"\" he said.\"", "ref_zh": "“这片沙漠曾经是一片海，”他说。", "pred_zh": " This desert was once a sea, he said."}
+{"idx": 134, "src_en": "A handsome shoe often pinches the foot.", "ref_zh": "好看的鞋往往夹脚。", "pred_zh": " A handsome shoe often pinches the foot."}
+{"idx": 135, "src_en": "He voyaged on a ship called The Beagle.", "ref_zh": "他乘坐一艘名为“小猎犬号”的船航行。", "pred_zh": " He voyaged on a ship called the Beagle."}
+{"idx": 136, "src_en": "\"I can reassure you, that we won't retreat until the oil until the peace is secured.\"", "ref_zh": "我可以向你保证，在石油安全与和平得到保障之前，我们不会撤退。", "pred_zh": " I can reassure you that we won't retreat until the oil until the peace is secured"}
+{"idx": 137, "src_en": "And the big Persian knew of his existence before he did of hers.", "ref_zh": "那个大波斯人比她更早知道他的存在。", "pred_zh": " And the big Persian knew of his existence before he did of hers."}
+{"idx": 138, "src_en": "But after Musial injured his pitching arm, his career was in serious jeopardy.", "ref_zh": "但是，Musial 的投球手臂伤了之后，他的职业生涯就岌岌可危了。", "pred_zh": " But after a new style injured his pitching arm, his career was in serious jeopardy."}
+{"idx": 139, "src_en": "\"Toby said, he's gonna sue his ex-wife.\"", "ref_zh": "Toby 说要起诉他的前妻", "pred_zh": " Toby said he's gonna sue his ex-wife"}
+{"idx": 140, "src_en": "\"I can reassure you, that we won't retreat until the peace is secured.\"", "ref_zh": "我可以向你保证，在和平得到保障之前，我们不会撤退。", "pred_zh": " I can reassure you that we won't retreat until the peace is secured."}
+{"idx": 141, "src_en": "\"I don't blame you.\"", "ref_zh": "我不怪你。", "pred_zh": " I don't blame you"}
+{"idx": 142, "src_en": "\"He jumped up and turned quickly to face the imagined terror screaming \"\"Get back!\"\"\"", "ref_zh": "他跳了起来，迅速转过身去，面对着想象中的恐怖，尖叫着“回来!”", "pred_zh": " He jumped up and turned to face the imaginary terror screaming, get back!"}
+{"idx": 143, "src_en": "He is reserved and serious, which is a further mark of respectability.", "ref_zh": "他内敛而认真，这是受人尊敬的另一个标志。", "pred_zh": " He is reserved and serious, which is a further mark of respectability."}
+{"idx": 144, "src_en": "It is a member of the plastocyanin family of copper-binding proteins.", "ref_zh": "它是铜结合蛋白质体蓝素家族中的一员。", "pred_zh": " This is a member of the blastophyclin family of copper binding proteins"}
+{"idx": 145, "src_en": "My dad is a Republican.", "ref_zh": "我爸爸是共和党人。", "pred_zh": " My dad is a Republican."}
+{"idx": 146, "src_en": "Red-Eye never committed a more outrageous deed.", "ref_zh": "“红眼”从来没有做过比这更无耻的事。", "pred_zh": " Red Eye never committed a more outrageous deed."}
+{"idx": 147, "src_en": "Good playgrounds have much more to offer than swings and slides.", "ref_zh": "除了秋千和滑梯，好操场还提供更多的东西。", "pred_zh": " Good playground have much more to offer than streams and slides."}
+{"idx": 148, "src_en": "The massacre site was later visited by the Interior Minister, Mostefa Bensamour.", "ref_zh": "内政部长 Mostefa Bensamour 后来视察了屠杀现场。", "pred_zh": " The massacre site was later visited by the Interior Minister, Mostafa Ben Sama."}
+{"idx": 149, "src_en": "Sorry, the test period expired.", "ref_zh": "抱歉，测试期已过。", "pred_zh": " Sorry, the test period expired."}
+{"idx": 150, "src_en": "The forest burned for thirteen days.", "ref_zh": "森林燃烧了 13 天。", "pred_zh": " The forest born for 13 days"}
+{"idx": 151, "src_en": "He kept driving at full speed, totally unfazed by the flap, flap, flap of the burst tyre.", "ref_zh": "他一直全速行驶，完全没有被爆胎的拍打声吓到。", "pred_zh": " He came driving at high speed totally un-fazed by the flat flat flat of the bus"}
+{"idx": 152, "src_en": "I accuse this man of being a faker!", "ref_zh": "我指控这个人是个骗子！", "pred_zh": " I accuse this man of being a faker"}
+{"idx": 153, "src_en": "There was a loud shriek from a woman standing behind us.", "ref_zh": "站在我们身后的一个女人发出一声尖叫。", "pred_zh": " There was a loud shriek from a woman standing behind us."}
+{"idx": 154, "src_en": "\"It's Not Dylan!\"", "ref_zh": "不是迪伦！", "pred_zh": " It's not Dylan"}
+{"idx": 155, "src_en": "Home is where the heart is.", "ref_zh": "心在哪儿，家就在哪儿。", "pred_zh": " Home is where the heart is."}
+{"idx": 156, "src_en": "His hands began to tremble, and the woman sensed it.", "ref_zh": "他的手开始颤抖，女人感觉到了。", "pred_zh": " His hands began to tremble and the woman sensed it."}
+{"idx": 157, "src_en": "\"You might hear \"\"font families\"\" more than \"\"typefaces\"\", even though they could mean the same thing.\"", "ref_zh": "您可能会更多地听到“字型设置”，而不是“字体”，即使它们可能意味着相同的意思。", "pred_zh": " You might hear families more than typefaces even though they mean the same thing."}
+{"idx": 158, "src_en": "A man with a white beard is writing in a book while two women look on", "ref_zh": "一个留着白胡子的男人正在写书，两个女人在一旁看着", "pred_zh": " A man with white belt is writing in a book while two women look on."}
+{"idx": 159, "src_en": "I wrote my bachelor thesis with latex.", "ref_zh": "我的学士论文写的是乳胶。", "pred_zh": " I wrote my bachelor thesis with latex."}
+{"idx": 160, "src_en": "\"I've stuck it back together.\"", "ref_zh": "我把它们重新粘在一起了。", "pred_zh": " I have stuck it back together"}
+{"idx": 161, "src_en": "It is the most valuable stamp in the world.", "ref_zh": "它是世界上最有价值的邮票。", "pred_zh": " It is the most valuable stamp in the world."}
+{"idx": 162, "src_en": "Further, there is no mention of the comet in Chinese literature of the time.", "ref_zh": "此外，当时的中国文学中也没有提及彗星。", "pred_zh": " Further, there is no mention of the comet in Chinese literature of the time."}
+{"idx": 163, "src_en": "Norfolk was the son of the poet Henry Howard, Earl of Surrey.", "ref_zh": "Norfolk 是诗人萨里伯爵 Henry Howard 的儿子。", "pred_zh": " Norfolk was the son of Pat and we are all of Surrey."}
+{"idx": 164, "src_en": "A friend is easier lost than found.", "ref_zh": "得朋友难，失朋友易。", "pred_zh": " A friend is easier lost than found."}
+{"idx": 165, "src_en": "The quickening of time", "ref_zh": "时间飞逝", "pred_zh": " The quickening of time"}
+{"idx": 166, "src_en": "Four hundred and fifty dollars.", "ref_zh": "四百五十美元。", "pred_zh": " Hello, everyone. I'm Mr. Teng."}
+{"idx": 167, "src_en": "\"We've got to walk up to the tower.\"", "ref_zh": "我们得走到塔顶上去。", "pred_zh": " We're going to walk up to the tower."}
+{"idx": 168, "src_en": "The plastic barrier shattered.", "ref_zh": "塑料栅栏破裂了。", "pred_zh": " The plastic barrier shattered."}
+{"idx": 169, "src_en": "It was seen early in the morning, rushing over eastward.", "ref_zh": "一大清早，人们就看见它朝东奔去。", "pred_zh": " It was seemed early in the morning, Russian or Eastward."}
+{"idx": 170, "src_en": "It is found in the Indian subcontinent, China, and Southeast Asia.", "ref_zh": "它分布在印度次大陆、中国和东南亚。", "pred_zh": " It is found in the Indian subcontinent, China and Southeast Asia."}
+{"idx": 171, "src_en": "\"\"\"Getting to play someone as unrestricted as a vampire is a thrill,\"\" she says.\"", "ref_zh": "“扮演一个不受限制的吸血鬼角色是一种刺激，”她说。", "pred_zh": " Getting to play someone as unrestricted as a vampire is a thrill, she says."}
+{"idx": 172, "src_en": "A man holding a newborn baby in a blue, pink, and white blanket.", "ref_zh": "男人抱着一个裹了一条蓝、粉、白相间毯子的刚出生婴儿。", "pred_zh": " A man holding a newborn baby in a blue, pink and white blanket."}
+{"idx": 173, "src_en": "An huge hole had been made by the impact of the projectile.", "ref_zh": "子弹的撞击形成了一个大洞。", "pred_zh": " And the huge hole had been made by the impact of water. Projectile."}
+{"idx": 174, "src_en": "She must have noted your lack of appetite.", "ref_zh": "她一定注意到了你食欲不振。", "pred_zh": " She must have noticed your lack of appetite."}
+{"idx": 175, "src_en": "Lemme have the Desk.", "ref_zh": "给我桌子。", "pred_zh": " Let me have the desk"}
+{"idx": 176, "src_en": "Wisdom is the wealth of the wise.", "ref_zh": "智慧是智者的财富。", "pred_zh": " Wisdom is the wealth of the wise."}
+{"idx": 177, "src_en": "The old man said nothing.", "ref_zh": "老人什么也没说。", "pred_zh": " The old man said nothing"}
+{"idx": 178, "src_en": "You do it.", "ref_zh": "你去做吧。", "pred_zh": " You do it"}
+{"idx": 179, "src_en": "He was interred in his hometown Cloppenburg.", "ref_zh": "他被安葬在家乡克罗朋堡。", "pred_zh": " He was in gold in his hometown Kloppenburg."}
+{"idx": 180, "src_en": "The quick fox jumped on the sleeping cat.", "ref_zh": "那只敏捷的狐狸扑向熟睡的猫。", "pred_zh": " The quick fox jumped on the sleeping cat."}
+{"idx": 181, "src_en": "This swallow is twittering without Internet connection and has a swarm of followers.", "ref_zh": "这只燕子在没有网络连接的情况下发推特，有一大群粉丝。", "pred_zh": " This fellow is twittering without internet connection and has a swarm of followers."}
+{"idx": 182, "src_en": "It drew a droplet of blood.", "ref_zh": "画了一滴血。", "pred_zh": " It drew a droplet of blood."}
+{"idx": 183, "src_en": "Bill decided that management should know about this incident.", "ref_zh": "Bill 认为管理层应该知道这件事。", "pred_zh": " Bill decided that management should know about this incident."}
+{"idx": 184, "src_en": "He was a member of the World Economic Forum in Davos.", "ref_zh": "他是达沃斯世界经济论坛的成员。", "pred_zh": " He was a member of the World Economic Forum in Davos."}
+{"idx": 185, "src_en": "We lit the lantern and walked over to his house.", "ref_zh": "我们点上灯笼，朝他家走去。", "pred_zh": " We lit the lantern and walked over to his house."}
+{"idx": 186, "src_en": "Where did you come from?", "ref_zh": "你从哪儿来？", "pred_zh": " Where did you come from?"}
+{"idx": 187, "src_en": "To err is human To forgive divine.", "ref_zh": "人非圣贤，孰能无过。", "pred_zh": " Two hours filming to forget the mind"}
+{"idx": 188, "src_en": "A bird in hand is worth two in the bush", "ref_zh": "双鸟在林不如一鸟在手", "pred_zh": " A bird in hand, the worst to end the book"}
+{"idx": 189, "src_en": "I think they perceived that nothing was to be done at the moment.", "ref_zh": "我想他们意识到此刻什么也做不了。", "pred_zh": " I think they could save the profilers during the moment"}
+{"idx": 190, "src_en": "Pran Nath was born into a wealthy family in Lahore in present-day Pakistan.", "ref_zh": "普拉纳出生于拉合尔（也就是今天的巴基斯坦）的一个富裕家庭。", "pred_zh": " Karan Nak was born into a wealthy family in Lahore in present day Pakistan."}
+{"idx": 191, "src_en": "We dont want him!", "ref_zh": "我们不想要他！", "pred_zh": " We don't want him"}
+{"idx": 192, "src_en": "But they were not there.", "ref_zh": "但他们不在那儿。", "pred_zh": " But they were not there."}
+{"idx": 193, "src_en": "But that was simply because my eye was tired.", "ref_zh": "但那只是因为我的眼睛累了。", "pred_zh": " But that was simply because my eye was tired."}
+{"idx": 194, "src_en": "\"\"\"Good-bye,\"\" said the boy.\"", "ref_zh": "“再见，”男孩说。", "pred_zh": " Goodbye, sad boy."}
+{"idx": 195, "src_en": "What would you say is the difference between a language and a dialect?", "ref_zh": "你认为语言和方言有什么区别?", "pred_zh": " What would you say is the difference between a language and a dialect?"}
+{"idx": 196, "src_en": "I would have won the Junior Olympics if not for those medaling kids.", "ref_zh": "如果不是为了那些孩子获奖，我早就赢得少年奥运会冠军了。", "pred_zh": " I would have won the Junior Olympics if not for those meddling kids."}
+{"idx": 197, "src_en": "No, but it is nice to meet you.", "ref_zh": "不，但很高兴见到你。", "pred_zh": " No, but it is nice to meet you."}
+{"idx": 198, "src_en": "Due to the expense of production, it is not being used for this purpose.", "ref_zh": "由于生产成本高，它没有被用于这个目的。", "pred_zh": " Due to the expense of production, it is not being used for this purpose."}
+{"idx": 199, "src_en": "\"Philip then tells his parents that he was suspended for \"\"singing\"\" the National Anthem.\"", "ref_zh": "菲利普随后告诉父母，他因“唱”国歌而被停赛。", "pred_zh": " Philip then tells his parents that he was suspended for singing the national anthem."}
+{"idx": 200, "src_en": "\"The sea has lived on in this shell, because that's its destiny.\"", "ref_zh": "大海一直生活在这个壳里，因为这是它的命运。", "pred_zh": " The sea has lived on in this shell because that's its destiny."}
+{"idx": 201, "src_en": "Mostly just the hearts of those who are trying to realize their destinies.", "ref_zh": "主要是那些努力实现自己命运的人的心。", "pred_zh": " Mostly just the hearts of those who are trying to realize their destinies."}
+{"idx": 202, "src_en": "But instead of being saddened, he was happy.", "ref_zh": "但他并没有感到悲伤，反而很高兴。", "pred_zh": " The First Day of the Spring Festival"}
+{"idx": 203, "src_en": "He was arrested within days, placed on trial and found guilty.", "ref_zh": "他在几天内被逮捕，接受审判并被判有罪。", "pred_zh": " He was arrested within days, placed on trial and found guilty."}
+{"idx": 204, "src_en": "\"Every search begins with beginner's luck.\"", "ref_zh": "每次搜索都从新手的运气开始。", "pred_zh": " Every search begins with beginners log"}
+{"idx": 205, "src_en": "\"It was later revealed that the letter was a prank concocted by \"\"The eXile\"\".\"", "ref_zh": "后来有人透露，这封信是“流放者”编造的恶作剧。", "pred_zh": " It was later revealed that the letter was a prank, concocted by the exile."}
+{"idx": 206, "src_en": "\"The alchemist followed as the boy's horse ran for almost half an hour.\"", "ref_zh": "炼金术士跟着男孩的马跑了将近半个小时。", "pred_zh": " The alchemist followed as the boy's horse ran for almost half an hour."}
+{"idx": 207, "src_en": "Where are the others?", "ref_zh": "其他人在哪儿?", "pred_zh": " Where are the others?"}
+{"idx": 208, "src_en": "He postulated a dispersion theory before his coworker made his discovery and announcement.", "ref_zh": "在他的同事宣布他的发现之前，他提出了色散理论。", "pred_zh": " He postulated a dispersion theory before his coworker made his discovery and announcement."}
+{"idx": 209, "src_en": "Sylvester needed to meditate to clear his mind.", "ref_zh": "西尔维斯特需要沉思来理清思路。", "pred_zh": " Sylvester needed to meditate to clear his mind."}
+{"idx": 210, "src_en": "Olivia, have you seen my keys?", "ref_zh": "奥利维亚，你看到我的钥匙了吗?", "pred_zh": " Olivia, have you seen my keys?"}
+{"idx": 211, "src_en": "If you know your heart well, it will never be able to do that to you.", "ref_zh": "如果你非常了解自己的心灵，它永远不会那样对你。", "pred_zh": " If you know your art well, it will never be able to do that to you."}
+{"idx": 212, "src_en": "He learned to play the harmonica from his father.", "ref_zh": "他跟父亲学吹口琴。", "pred_zh": " The flight to Lumpini is cancelled."}
+{"idx": 213, "src_en": "\"Although everything should be under the state's control, there is a lot of violence in prisons.\"", "ref_zh": "尽管一切都应该在政府控制之下，但监狱中还是有很多暴力事件。", "pred_zh": " Although everything should be under the state's control, there is a lot of violence in prisons."}
+{"idx": 214, "src_en": "\"That's the sub-foreman, explained Thorpe.\"", "ref_zh": "那是副领班，索普解释道。", "pred_zh": " That's some formal explain topic."}
+{"idx": 215, "src_en": "\"The southern part of the island is a bird lover's paradise.\"", "ref_zh": "岛屿南部是鸟类爱好者的天堂。", "pred_zh": " The southern part of the island is a bird lover's paradise."}
+{"idx": 216, "src_en": "At least forty-one protesters were killed in the ensuing engagement.", "ref_zh": "至少 41 名抗议者在随后的冲突中丧生。", "pred_zh": " At least 41 protesters were killed in the Niu Sing engagement."}
+{"idx": 217, "src_en": "It was my fear of failure that first kept me from attempting the Master Work.", "ref_zh": "对失败的恐惧使我不敢尝试这项杰作。", "pred_zh": " It was my fear of failure that first kept me from attempting the masterwork."}
+{"idx": 218, "src_en": "He just got a new kite for his birthday.", "ref_zh": "他刚收到一只新风筝作为生日礼物。", "pred_zh": " We just got a new car for birthday"}
+{"idx": 219, "src_en": "While a simple cards made by her sold only for five cents.", "ref_zh": "而她制作的简单贺卡只卖 5 美分。", "pred_zh": " While a simple cards made by her sold only for 5 cents"}
+{"idx": 220, "src_en": "The wound healed faster than anyone expected.", "ref_zh": "伤口愈合得比任何人预料的都快。", "pred_zh": " The wound healed faster than anyone expected."}
+{"idx": 221, "src_en": "How do I feel?", "ref_zh": "我感觉如何？", "pred_zh": " How do I feel?"}
+{"idx": 222, "src_en": "You cannot eat the cake and have it To.", "ref_zh": "TO REMOVE", "pred_zh": " You cannot eat the cake and have it too."}
+{"idx": 223, "src_en": "In times of despair, look out for the helpers and you will find hope.", "ref_zh": "绝望的时候，寻找帮助者，你会发现希望。", "pred_zh": " In time of despair, the cold flow alters, and you will be found for."}
+{"idx": 224, "src_en": "Did you know that Harry got a new job?", "ref_zh": "你知道 Harry 找到新工作了吗?", "pred_zh": " Did you know that Harry got a new job?"}
+{"idx": 225, "src_en": "I hope you are well!", "ref_zh": "我希望你很好！", "pred_zh": " I hope you are well"}
+{"idx": 226, "src_en": "\"I've never seen her before.\"", "ref_zh": "我以前从未见过她。", "pred_zh": " I've never seen here before"}
+{"idx": 227, "src_en": "The club is the first non-government owned professional basketball club in China.", "ref_zh": "该俱乐部是中国第一家民营职业篮球俱乐部。", "pred_zh": " The club is the first non-government owned professional baseball club in China."}
+{"idx": 228, "src_en": "To stuff into their own pockets.", "ref_zh": "肥水不流外人田。", "pred_zh": " to stuff into their own pockets"}
+{"idx": 229, "src_en": "Silence is golden.", "ref_zh": "沉默是金。", "pred_zh": " Silence is golden."}
+{"idx": 230, "src_en": "Somebody threw him off a train.", "ref_zh": "有人把他赶下了火车。", "pred_zh": " Somebody threw him off a train."}
+{"idx": 231, "src_en": "He held a large number of business appointments.", "ref_zh": "他有许多商务约会。", "pred_zh": " He held a large number of business appointments."}
+{"idx": 232, "src_en": "Cut your coat according to the cloth.", "ref_zh": "量布裁衣。", "pred_zh": " Cut your coat according to the curve."}
+{"idx": 233, "src_en": "A little token of appreciation.", "ref_zh": "略表谢意。", "pred_zh": " I'm in the token of appreciation"}
+{"idx": 234, "src_en": "The girl dropped the container, and the water spilled.", "ref_zh": "女孩把容器掉在地上，水溢出来了。", "pred_zh": " The girl dropped the container and the water spilled."}
+{"idx": 235, "src_en": "The town was named after the Spanish term for lumber.", "ref_zh": "该镇以西班牙语木材的术语命名。", "pred_zh": " The town was named after the Spanish term for Lumber"}
+{"idx": 236, "src_en": "\"For better physical understanding, let's first recap where the pivot point is.\"", "ref_zh": "为了更好地理解物理，让我们先回顾一下支点在哪里。", "pred_zh": " For better physical understanding, let's first recap where the pivot point is."}
+{"idx": 237, "src_en": "Marc, would you please give me the fly swatter?", "ref_zh": "Marc，你能把苍蝇拍给我吗？", "pred_zh": " Mark, would you please give me the fly swatter?"}
+{"idx": 238, "src_en": "He and his family went up north to the Arctic Circle to meet Santa Claus in Finland.", "ref_zh": "他和他的家人北上到北极圈，去芬兰见圣诞老人。", "pred_zh": " He and his family went up north to the Arctic Circle to meet Santa Claus in Finland."}
+{"idx": 239, "src_en": "The empty flask stood on the tin tray.", "ref_zh": "空瓶子放在锡盘上。", "pred_zh": " The empty flask stood on the tin tray."}
+{"idx": 240, "src_en": "\"The launch was flawless; all systems were \"\"go\"\", except for Doctor Wang's experiment.\"", "ref_zh": "发射完美无缺；除了王东的实验，所有的系统都在“运行”。", "pred_zh": " The launch was flawless. All systems were cool except for Dr. Van's experiment."}
+{"idx": 241, "src_en": "The author is a blogger and social media phenomenon.", "ref_zh": "作者反应的是博客和社交媒体现象。", "pred_zh": " The author is a blogger and social media phenomenon."}
+{"idx": 242, "src_en": "\"Maybe because that wasn't really his dream.\"", "ref_zh": "也许因为那不是他真正的梦想。", "pred_zh": " Maybe because that wasn't really his dream."}
+{"idx": 243, "src_en": "Real schools, secondary schools giving a general practical education.", "ref_zh": "真正的学校，是提供普通实用教育的中学。", "pred_zh": " Will schools, secondary schools giving a general medical education?"}
+{"idx": 244, "src_en": "Cats whiskers are very sensitive.", "ref_zh": "猫的胡须非常敏感。", "pred_zh": " Cats whiskers are very sensitive"}
+{"idx": 245, "src_en": "The closet door stuck a little as he pulled it open revealing a bare wooden floor covered on one side by a stack of old shoes boxes.", "ref_zh": "当他拉开壁橱门时，壁橱门卡住了一点，露出了裸露的木地板，地板的一边被一堆旧鞋盒覆盖着。", "pred_zh": " The closet door stuck a little as he pulled it open revealing a bare wooden floor covered on one side by a stack of old shoes boxes."}
+{"idx": 246, "src_en": "\"For centuries after her death, Welshmen cried-out \"\"Revenge for Gwenllian\"\" when engaging in battle.\"", "ref_zh": "在她死后的几个世纪里，威尔士人在战斗中呼喊着“为 Gwenllian 报仇”。", "pred_zh": " Four centuries after her death, Welshmen cried out revenge for Gwenlyn when engaging in battle."}
+{"idx": 247, "src_en": "Fall seven times. Stand up eight.", "ref_zh": "摔倒七次，站起来八次。", "pred_zh": " For 7 times stand up hang."}
+{"idx": 248, "src_en": "undefined", "ref_zh": "不明确", "pred_zh": " everything on earth and he vanished around the corner of the bazaar"}
+{"idx": 249, "src_en": "\"I wouldn't take that too seriously.\"", "ref_zh": "我不会把那看得太重。", "pred_zh": " I wouldn't take that too seriously."}
