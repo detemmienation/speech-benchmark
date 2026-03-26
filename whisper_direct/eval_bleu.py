@@ -15,7 +15,6 @@ for fp in sorted(glob.glob("outputs/pred_*.jsonl")):
             preds.append(mt)
             refs.append([ref])  # sacrebleu expects list of references per example
 
-# res = bleu.compute(predictions=preds, references=refs)
 res = bleu.compute(predictions=preds, references=refs, tokenize="zh")
 print("BLEU:", res["score"])
 print(res)

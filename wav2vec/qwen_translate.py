@@ -12,7 +12,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 DTYPE = torch.float16 if DEVICE == "cuda" else torch.float32
 
 INPUT_DIR = Path("outputs")       # whisper outputs
-OUTPUT_DIR = Path("outputs_qwen")   # qwen translated outputs
+OUTPUT_DIR = Path("outputs_mt")   # qwen translated outputs
 BATCH_SIZE = 2                    # start with 2 on A10G, bump to 4 if ok
 MAX_NEW_TOKENS = 256
 # ----------------------------------------

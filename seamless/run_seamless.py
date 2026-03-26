@@ -18,6 +18,7 @@ dtype = torch.float16 if device == "cuda" else torch.float32
 
 print("Loading dataset...")
 ds = load_dataset("fixie-ai/covost2", "en_zh-CN", split=SPLIT)
+ds = ds.select(range(min(1000, len(ds))))
 ds = ds.cast_column("audio", Audio(sampling_rate=16000))
 
 print("Loading model...")

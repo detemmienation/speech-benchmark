@@ -14,7 +14,6 @@ __pycache__/
 # outputs / large artifacts
 seamless/outputs/
 seamless/**/outputs/
-*.jsonl
 *.safetensors
 *.bin
 

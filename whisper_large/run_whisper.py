@@ -13,11 +13,15 @@ CONFIG_NAME = "en_zh-CN"
 SPLIT = "test"
 
 OUT_DIR = Path("outputs")
-SHARD_SIZE = 500
+SHARD_SIZE = 250
 
 BATCH_SIZE = 1                 # A10G: start with 1 for large-v3
 MAX_AUDIO_SECONDS = 30.0       # truncate long clips to reduce OOM risk
 MAX_NEW_TOKENS = 128
+
+SUBSET_N = 1000     # 只跑前 1000 条
+SUBSET_SEED = 42    # 固定随机种子，保证每次抽样一致
+DO_SHUFFLE = False   # True=随机抽样1000条；False=取前1000条（按原顺序）
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 DTYPE = torch.float16 if DEVICE == "cuda" else torch.float32
@@ -52,6 +56,11 @@ def main():
     print("Loading dataset...")
     ds = load_dataset(DATASET_NAME, CONFIG_NAME, split=SPLIT)
     ds = ds.cast_column("audio", Audio(sampling_rate=16000))
+
+    if DO_SHUFFLE:
+        ds = ds.shuffle(seed=SUBSET_SEED)
+    if SUBSET_N is not None:
+        ds = ds.select(range(min(SUBSET_N, len(ds))))
 
     n = len(ds)
     print(f"Total examples: {n}")
