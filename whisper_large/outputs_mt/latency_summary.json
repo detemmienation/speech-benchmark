@@ -1,0 +1,37 @@
+{
+  "stage": "mt_mbart",
+  "model": "facebook/mbart-large-50-many-to-many-mmt",
+  "device": "cpu",
+  "dtype": "torch.float32",
+  "batch_size": 2,
+  "max_new_tokens": 128,
+  "src_lang": "en_XX",
+  "tgt_lang": "zh_CN",
+  "files": [
+    {
+      "file": "pred_00000_00249.jsonl",
+      "count": 250,
+      "time_sec": 108.75054168701172,
+      "avg_sec_per_ex": 0.43500216674804687
+    },
+    {
+      "file": "pred_00250_00499.jsonl",
+      "count": 250,
+      "time_sec": 123.12292098999023,
+      "avg_sec_per_ex": 0.49249168395996096
+    },
+    {
+      "file": "pred_00500_00749.jsonl",
+      "count": 250,
+      "time_sec": 119.34718632698059,
+      "avg_sec_per_ex": 0.47738874530792236
+    },
+    {
+      "file": "pred_00750_00999.jsonl",
+      "count": 250,
+      "time_sec": 109.03989338874817,
+      "avg_sec_per_ex": 0.4361595735549927
+    }
+  ],
+  "total_time_sec": 460.2690181732178
+}
