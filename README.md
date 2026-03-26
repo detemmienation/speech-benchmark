@@ -9,13 +9,18 @@ This project benchmarks speech-to-text translation models on:
 
 ## Current Models
 ### Unimodels
-- whisper_large(english audio -> english text) + qwen-2.5 (english text -> chinese text)
+- NLLB/ → facebook/nllb-200-distilled-600M
+- mBART/ → facebook/mbart-large-50-many-to-many-mmt
+- Qwen-2.5 (english text -> chinese text)/ → Qwen/Qwen2.5-7B-Instruct
 - ....
 ### multimodels
-- qwen3_omni(english audio + chinese prompt text -> chinese audio)
+- whisper_large(english audio -> english text) + qwen-2.5 (english text -> chinese text)
+- whisper_large(english audio -> english text) + mBART (english text -> chinese text)
+- Wav2vec(english audio -> english text) + mBART (english text -> chinese text)
 - ...
 ### Competitive Models
 - seamless_large/ → facebook/seamless-m4t-v2-large
+- whisper-large/ → openai/whisper-large-v3
 - ...
 
 Each model has its own folder containing:
@@ -45,13 +50,13 @@ sudo apt install -y libsndfile1 ffmpeg
 ```
 
 ## How to Run 
-### Competitive/Mutimodal (Example: Seamless)
+### Competitive (Example: Seamless)
 ```
 cd seamless
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 python run_seamless.py
 ```
-### Unimodal (Example: whisper + qwen-2.5)
+### Mutimodal (Example: whisper + qwen-2.5)
 ```
 cd whisper_large
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
@@ -62,6 +67,11 @@ python run_whisper.py
 # outputs_mt/latency_summary.json  -> the total latency will be the sum of the two steps
 python qwen_translate.py
 
+```
+### Unimodal (Example: NLLB/mBART/qwen2.5)
+```
+cd unimodal
+python run_unimodal.py
 ```
 
 
