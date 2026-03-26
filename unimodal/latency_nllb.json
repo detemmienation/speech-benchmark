@@ -1,0 +1,15 @@
+{
+  "stage": "unimodal_mt",
+  "model": "facebook/nllb-200-distilled-600M",
+  "split": "test",
+  "src_lang": "en",
+  "tgt_lang": "zh",
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "batch_size": 1,
+  "max_new_tokens": 128,
+  "examples_done": 1000,
+  "infer_seconds_total": 169.08301618800033,
+  "avg_seconds_per_example": 0.16908301618800034,
+  "avg_examples_per_second": 5.914254562907242
+}

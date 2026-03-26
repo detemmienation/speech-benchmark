@@ -1,0 +1,15 @@
+{
+  "stage": "unimodal_mt",
+  "model": "facebook/mbart-large-50-many-to-many-mmt",
+  "split": "test",
+  "src_lang": "en",
+  "tgt_lang": "zh",
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "batch_size": 1,
+  "max_new_tokens": 128,
+  "examples_done": 1000,
+  "infer_seconds_total": 155.6179897760012,
+  "avg_seconds_per_example": 0.1556179897760012,
+  "avg_examples_per_second": 6.425992274025738
+}

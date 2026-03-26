@@ -1,0 +1,1000 @@
+{"id": "common_voice_en_699711", "sentence_en": "\"She'll be all right.\"", "ref_zh": "她会没事的。", "pred_zh": "\"她会没事的。\""}
+{"id": "common_voice_en_18132047", "sentence_en": "\"All's well that ends well.\"", "ref_zh": "皆大欢喜。", "pred_zh": "\"好 ending is good.\" 或者更常见的表达是 \"善有善报，恶有恶报；不是不报，时候未到。\" 但最接近原句意思的翻译是：\"好的结局就是好。\""}
+{"id": "common_voice_en_17263741", "sentence_en": "Do you mean it?", "ref_zh": "是这个意思吗？", "pred_zh": "你这是真心话吗？"}
+{"id": "common_voice_en_17893917", "sentence_en": "The new patch is less invasive than the old one, but still causes regressions.", "ref_zh": "新型贴片相比旧款更具微创效果，但仍可导致机能退化。", "pred_zh": "新的补丁比旧的侵入性小，但仍然会导致回归问题。"}
+{"id": "common_voice_en_17561821", "sentence_en": "How is Mozilla going to handle ambiguities like queue and cue?", "ref_zh": "Mozilla 打算如何处理“queue”和“cue”这类易混淆的字词呢？", "pred_zh": "Mozilla将如何处理“queue”和“cue”这样的歧义词？"}
+{"id": "common_voice_en_59751", "sentence_en": "\"I guess you must think I'm kinda batty.\"", "ref_zh": "我想你一定会觉得我有些古怪吧。", "pred_zh": "“我想你一定觉得我有点儿神经兮兮的。”"}
+{"id": "common_voice_en_17914141", "sentence_en": "No one near the remote machine you could ring?", "ref_zh": "无法联系到远程机器附近的人员？", "pred_zh": "你附近的远程机器能联系到吗？"}
+{"id": "common_voice_en_18064497", "sentence_en": "Sauce for the goose is sauce for the gander.", "ref_zh": "凡事应一视同仁。", "pred_zh": "鹅有鹅的料，鸭有鸭的味。"}
+{"id": "common_voice_en_18902772", "sentence_en": "Groves started writing songs when she was four years old.", "ref_zh": "Groves 从四岁起就开始写歌了。", "pred_zh": "Groves 在四岁的时候就开始写歌了。"}
+{"id": "common_voice_en_18295850", "sentence_en": "The long-lived bridge still stands today.", "ref_zh": "这座历史悠久的桥至今仍屹立不倒。", "pred_zh": "这座古老的桥至今仍屹立不倒。"}
+{"id": "common_voice_en_665631", "sentence_en": "There was nothing to hold him back except himself.", "ref_zh": "除了他自己，没人能劝住他。", "pred_zh": "除了他自己，没有什么能阻挡他。"}
+{"id": "common_voice_en_18297811", "sentence_en": "We spoke often.", "ref_zh": "我们经常这样说。", "pred_zh": "我们经常交谈。"}
+{"id": "common_voice_en_456493", "sentence_en": "The electrician looked puzzled.", "ref_zh": "电工看起来一脸茫然。", "pred_zh": "电工看起来很困惑。"}
+{"id": "common_voice_en_18179121", "sentence_en": "The ladder on the fire truck was not long enough.", "ref_zh": "消防车上的梯子不够长。", "pred_zh": "消防车上的梯子不够长。"}
+{"id": "common_voice_en_496376", "sentence_en": "I will tell her what we decided.", "ref_zh": "我会告诉她我们的决定。", "pred_zh": "我会告诉她我们决定的事情。"}
+{"id": "common_voice_en_18274681", "sentence_en": "Good things come in small packages.", "ref_zh": "浓缩就是精华。", "pred_zh": "小包装里也有好东西。"}
+{"id": "common_voice_en_20141506", "sentence_en": "It is a member theater of the Union of the Theatres of Europe.", "ref_zh": "该剧院是欧洲剧院联盟的成员。", "pred_zh": "它是欧洲剧院联盟的成员剧院。"}
+{"id": "common_voice_en_572372", "sentence_en": "YOU WANNA TAKE THIS OUTSIDE?", "ref_zh": "想出去谈谈吗？", "pred_zh": "你想把它带到外面去吗？"}
+{"id": "common_voice_en_19595713", "sentence_en": "The immersion in hot water also kills the silkworm pupa.", "ref_zh": "浸泡在热水中也会让蚕蛹失去生命。", "pred_zh": "热水浸泡也会杀死蚕蛹。"}
+{"id": "common_voice_en_18125649", "sentence_en": "The attack on our root server overstrained our senior administrator.", "ref_zh": "针对根服务器的攻击让我们的高级管理员相当紧张。", "pred_zh": "对我们根服务器的攻击超出了我们高级管理员的处理能力。"}
+{"id": "common_voice_en_346569", "sentence_en": "Do you want me?", "ref_zh": "你希望我这样吗？", "pred_zh": "你想让我吗？"}
+{"id": "common_voice_en_15016096", "sentence_en": "That would be funny if he did.", "ref_zh": "要是他这样做了就好玩了。", "pred_zh": "那如果他真的那样做的话就有趣了。"}
+{"id": "common_voice_en_19706560", "sentence_en": "Although she had flowers and applause, Mavis said she was not content.", "ref_zh": "即便拥有鲜花和掌声，Mavis 仍然不满足。", "pred_zh": "尽管玛维斯获得了鲜花和掌声，但她表示自己并不满意。"}
+{"id": "common_voice_en_1885769", "sentence_en": "Add the column and put the sum here.", "ref_zh": "添加列，将总和记录在这里。", "pred_zh": "添加列，并将和放在这里。"}
+{"id": "common_voice_en_18891931", "sentence_en": "\"Alston commented that he felt the cartoonist \"\"might have had some racial intent\"\".\"", "ref_zh": "Alston 评论称，他觉得这位漫画家“可能存在种族歧视”。", "pred_zh": "阿斯顿评论说，他认为这位漫画家“可能有一些种族动机”。"}
+{"id": "common_voice_en_15735183", "sentence_en": "Doing a handstand needs a lot of practice to learn.", "ref_zh": "倒立需要勤加练习才能学会。", "pred_zh": "倒立需要大量的练习才能学会。"}
+{"id": "common_voice_en_12677", "sentence_en": "Man in red tshirt and baseball cap viewed from above he is has a pile of posters", "ref_zh": "从上方俯视身穿红色 T 恤、带着棒球帽的男士，他有一大堆海报。", "pred_zh": "穿着红色T恤和棒球帽的男子从上方看过去他旁边堆着一堆海报"}
+{"id": "common_voice_en_19909115", "sentence_en": "The two films were then released within one day of each other.", "ref_zh": "两部电影相继在同一天内发布。", "pred_zh": "这两部电影随后在相隔一天内相继上映。"}
+{"id": "common_voice_en_601141", "sentence_en": "After experiencing a mind-blowing sensual orgy, Mike was sure he had taken an overdose.", "ref_zh": "经历过放飞自我的感官放纵后，Mike 确信自己吸毒过量了。", "pred_zh": "经历了令人震撼的感官盛宴后，迈克确信自己已经过量了。"}
+{"id": "common_voice_en_19688238", "sentence_en": "Religious festivals include the Muslim Eids and the Christian Christmas and Easter.", "ref_zh": "宗教节日包括伊斯兰教的开斋节，以及基督教的圣诞节和复活节。", "pred_zh": "宗教节日包括穆斯林的开斋节和古尔邦节以及基督教的圣诞节和复活节。"}
+{"id": "common_voice_en_17260286", "sentence_en": "What do you advise, sir?", "ref_zh": "你有什么建议吗，先生？", "pred_zh": "您建议怎么办，先生？"}
+{"id": "common_voice_en_17941982", "sentence_en": "Charles looked on, angry that there was nothing he could do.", "ref_zh": "Charles 旁观着，因为无能为力而感到非常生气。", "pred_zh": "查尔斯在一旁看着，愤怒于自己无能为力。"}
+{"id": "common_voice_en_19698345", "sentence_en": "Port-de-Paix is served by Port-de-Paix Airport.", "ref_zh": "和平港机场为和平港提供服务。", "pred_zh": "佩蒂埃机场为佩蒂埃提供服务。"}
+{"id": "common_voice_en_18929193", "sentence_en": "It is inhibited by the pneumotaxic centre.", "ref_zh": "呼吸调节中枢对其产生抑制作用。", "pred_zh": "它被呼吸调整中枢抑制。"}
+{"id": "common_voice_en_18001366", "sentence_en": "His wide grin earned many friends.", "ref_zh": "他的灿烂笑容为他带来了许多朋友。", "pred_zh": "他的宽广的笑容赢得了许多朋友。"}
+{"id": "common_voice_en_19740330", "sentence_en": "It connects Sibi with Quetta both by road and railway.", "ref_zh": "锡比和奎达通过公路和铁路相连。", "pred_zh": "它通过公路和铁路将锡比与奎达连接起来。"}
+{"id": "common_voice_en_193576", "sentence_en": "In spite of this, I still believed that there were men in Mars.", "ref_zh": "尽管如此，我仍然相信火星上存在人类。", "pred_zh": "尽管如此，我仍然相信火星上有男人。"}
+{"id": "common_voice_en_635431", "sentence_en": "The land was ruined, and I had to find some other way to earn a living.", "ref_zh": "土地遭到了破坏，我必须寻找其他营生方式。", "pred_zh": "土地被毁了，我不得不找到其他方式谋生。"}
+{"id": "common_voice_en_17961589", "sentence_en": "Footprints of mud and clay were on the floor.", "ref_zh": "地板上有沾着泥浆的足迹。", "pred_zh": "泥和黏土的脚印印在地板上。"}
+{"id": "common_voice_en_155041", "sentence_en": "I pointed out Mars, a bright dot of light.", "ref_zh": "我指出了火星，那是一个明亮的光点。", "pred_zh": "我指出了火星，一颗明亮的光点。"}
+{"id": "common_voice_en_111075", "sentence_en": "I know why I want to get back to my flock, he thought.", "ref_zh": "他想，我知道自己为什么想要回到同类人之中。", "pred_zh": "我知道我为什么想回到我的羊群中，他想道。"}
+{"id": "common_voice_en_86584", "sentence_en": "You should see the other guy, specifically, how good at fighting he is.", "ref_zh": "你应该特别关注另一个家伙，看看他多么擅长格斗。", "pred_zh": "你应该见见另外那个人，特别是看看他打斗技巧有多好。"}
+{"id": "common_voice_en_19479960", "sentence_en": "He is of African-American and Italian descent.", "ref_zh": "他有着非裔美国人和意大利人血统。", "pred_zh": "他拥有非洲美国和意大利的血统。"}
+{"id": "common_voice_en_193520", "sentence_en": "\"That's not Carson Sphinx.\"", "ref_zh": "那并不是 Carson Sphinx。", "pred_zh": "“那不是卡森·斯芬克斯。”"}
+{"id": "common_voice_en_18987361", "sentence_en": "Lorenz is listed as a Swiss heritage site of national significance.", "ref_zh": "Lorenz 被列为瑞士具有国家影响力的遗产。", "pred_zh": "洛伦兹被列为瑞士国家级历史遗址。"}
+{"id": "common_voice_en_18277778", "sentence_en": "We should not take for granted how fortunate we have been.", "ref_zh": "我们不应将自己的幸运视为理所当然。", "pred_zh": "我们不应忽视自己是多么幸运。"}
+{"id": "common_voice_en_18319767", "sentence_en": "The farmer works the soil and produces grain.", "ref_zh": "农民辛勤耕耘，种植粮食。", "pred_zh": "农民耕耘土地，生产粮食。"}
+{"id": "common_voice_en_17913515", "sentence_en": "\"Since I've gotten a dog, the regular visits of the fox have stopped.\"", "ref_zh": "自从养了狗，狐狸就不再经常出现了。", "pred_zh": "\"自从我养了狗之后，狐狸的定期来访就停止了。\""}
+{"id": "common_voice_en_18208645", "sentence_en": "His speech ended with a standing ovation.", "ref_zh": "他演讲结束后，观众纷纷起立鼓掌。", "pred_zh": "他的演讲结束后赢得了长时间的掌声。"}
+{"id": "common_voice_en_159192", "sentence_en": "\"\"\"The wind told me that you know about love\"\" the boy said to the sun.\"", "ref_zh": "男孩对太阳说：“风告诉我，你知道什么是爱”。", "pred_zh": "男孩对太阳说：“风告诉我，你懂得爱。”"}
+{"id": "common_voice_en_18339580", "sentence_en": "The little pink ones are so cute.", "ref_zh": "那些粉红色的小东西真可爱。", "pred_zh": "那些粉红色的小东西好可爱。"}
+{"id": "common_voice_en_638672", "sentence_en": "The students colored with their crayons.", "ref_zh": "学生们用蜡笔涂颜色。", "pred_zh": "学生们用蜡笔上色。"}
+{"id": "common_voice_en_217612", "sentence_en": "It seemed to him that it fell to earth about one hundred miles east of here.", "ref_zh": "在他看来，它似乎落在了离这儿以东一百英里的地方。", "pred_zh": "他觉得那东西大概落在了这里东面大约一百英里处。"}
+{"id": "common_voice_en_16327", "sentence_en": "He took the fourth part and handed it to the monk.", "ref_zh": "他拿起第四部分，交给了和尚。", "pred_zh": "他拿了第四部分，交给了僧人。"}
+{"id": "common_voice_en_19992991", "sentence_en": "He is a right-handed batsman and a left-arm slow bowler.", "ref_zh": "他是右撇子击球手和左手慢投球手。", "pred_zh": "他是一名右撇子 Batter（注意：在中文中，“batsman”通常翻译为“击球手”，具体取决于上下文，如果是板球中的击球手，则应翻译为“右撇子击球手”），左投慢球投手。"}
+{"id": "common_voice_en_17278289", "sentence_en": "Where will you go?", "ref_zh": "你要去哪儿？", "pred_zh": "你将要去哪里？"}
+{"id": "common_voice_en_16047883", "sentence_en": "The owner of the dwelling was not amused.", "ref_zh": "房子的主人并不觉得好笑。", "pred_zh": "房子的主人并不觉得有趣。"}
+{"id": "common_voice_en_19658862", "sentence_en": "All of this activity in Milwaukee was in no way unique.", "ref_zh": "所有这些活动在密尔沃基都不是独一无二的。", "pred_zh": "在密尔沃基的所有这些活动根本不是独一无二的。"}
+{"id": "common_voice_en_125399", "sentence_en": "Thai dancers happily going through their steps in unison.", "ref_zh": "泰国舞者愉快地齐步走着。", "pred_zh": "泰国舞者们快乐地同步完成着每一个舞步。"}
+{"id": "common_voice_en_571988", "sentence_en": "\"I'm so glad to see you.\"", "ref_zh": "很高兴见到你。", "pred_zh": "\"见到你我非常高兴。\""}
+{"id": "common_voice_en_18225037", "sentence_en": "Then she looked up.", "ref_zh": "然后她向上看去。", "pred_zh": "然后她抬头看了眼。"}
+{"id": "common_voice_en_587953", "sentence_en": "What was he like?", "ref_zh": "他是个什么样的人？", "pred_zh": "他是什么样的人？"}
+{"id": "common_voice_en_1738082", "sentence_en": "\"Luckily, the dagger couldn't penetrate the bullet proof vest.\"", "ref_zh": "幸运的是，匕首没有穿透防弹背心。", "pred_zh": "“幸运的是，飞刀没能穿透防弹背心。”"}
+{"id": "common_voice_en_19990194", "sentence_en": "\"The borough was named for the area's terrain.\"", "ref_zh": "这个区是根据地形命名的。", "pred_zh": "\"该区是以该地区的地形命名的。\""}
+{"id": "common_voice_en_55485", "sentence_en": "\"\"\"Like everybody learns,\"\" he said.\"", "ref_zh": "“好像每个人都在学习，”他说。", "pred_zh": "他说：“就像每个人都知道的那样。”"}
+{"id": "common_voice_en_17857149", "sentence_en": "This has become a bit of a cult in Romania.", "ref_zh": "在罗马尼亚，这有点邪教的味道。", "pred_zh": "这在罗马尼亚已经成为一种小众文化。"}
+{"id": "common_voice_en_211811", "sentence_en": "How often has the train been late?", "ref_zh": "火车多久晚点一次?", "pred_zh": "火车晚点是多少次了？"}
+{"id": "common_voice_en_18945888", "sentence_en": "\"He is currently a member of investment bank Jefferies' Global Senior Advisory Board.\"", "ref_zh": "他目前是 Jefferies 投资银行全球高级顾问委员会的成员。", "pred_zh": "“他目前是杰富瑞全球高级顾问委员会的成员。”"}
+{"id": "common_voice_en_17390325", "sentence_en": "To increase his popularity in public-opinion polls, the politician started a campaign.", "ref_zh": "这位政治家发起了一场运动来提高他在民意调查中的支持率。", "pred_zh": "为了在民意调查中增加他的受欢迎程度，这位政治家启动了一项竞选活动。"}
+{"id": "common_voice_en_19691260", "sentence_en": "Unique designs and color combinations have been used to commemorate special competitions.", "ref_zh": "独特的设计和颜色组合用来纪念特殊的比赛。", "pred_zh": "独特的设计和色彩组合被用于纪念特殊的比赛。"}
+{"id": "common_voice_en_19967535", "sentence_en": "The cemetery is now managed by three trusts.", "ref_zh": "现在，墓地由三个信托基金管理。", "pred_zh": "这个墓地现在由三个信托机构管理。"}
+{"id": "common_voice_en_346163", "sentence_en": "Where is it, then?", "ref_zh": "那么，它在哪儿呢?", "pred_zh": "那它在哪儿呢？"}
+{"id": "common_voice_en_118385", "sentence_en": "Always ask an objective question.", "ref_zh": "提问题始终应该客观一些。", "pred_zh": "总是提出客观的问题。"}
+{"id": "common_voice_en_216602", "sentence_en": "rate the current book two stars", "ref_zh": "给当前这本书打两颗星", "pred_zh": "给这本书评两星。"}
+{"id": "common_voice_en_18599794", "sentence_en": "More discussion is needed on how it will be financed.", "ref_zh": "需要多讨论一下如何筹措资金。", "pred_zh": "需要就如何融资进行更多的讨论。"}
+{"id": "common_voice_en_19758534", "sentence_en": "The move was made effective immediately.", "ref_zh": "此举立即生效。", "pred_zh": "这个措施立即生效。"}
+{"id": "common_voice_en_173227", "sentence_en": "A soldier wearing a pink scarf peers out of the top of a vehicle.", "ref_zh": "一名戴粉色围巾的士兵从车顶向外张望。", "pred_zh": "一名士兵戴着粉红色围巾从车辆顶部探出头来。"}
+{"id": "common_voice_en_19684552", "sentence_en": "\"\"\"Bambalio\"\" refers to a tendency to stammer.\"", "ref_zh": "“Bambalio”是指有点结巴的意思。", "pred_zh": "“Bambalio” 指的是口吃的趋势。"}
+{"id": "common_voice_en_178086", "sentence_en": "\"\"\"I can work for the rest of today,\"\" the boy answered.\"", "ref_zh": "“今天剩下的时间我都可以工作，”男孩回答说。", "pred_zh": "男孩回答说：“我今天剩下的时间都可以工作。”"}
+{"id": "common_voice_en_17303873", "sentence_en": "\"I'd like to order some cinnamon pretzels, please.\"", "ref_zh": "我想点一些肉桂椒盐卷饼。", "pred_zh": "\"请帮我来一些肉桂pretzel，好吗？\" \n\nNote: 在中文中，“pretzel”通常直接使用英文形式，也可以根据具体语境翻译为“pretzel棒”或“拧圈面包”。如果想要更地道的表达，可以这样翻译：“请给我来一些肉桂味的pretzel棒，好吗？” 或者 “请给我来一些肉桂口味的拧圈面包，好吗？”"}
+{"id": "common_voice_en_590018", "sentence_en": "The boy was also saddened; his friend was in pursuit of his destiny.", "ref_zh": "男孩也很伤心；他的朋友在追求自己的梦想。", "pred_zh": "男孩也感到悲伤；他的朋友正在追寻自己的命运。"}
+{"id": "common_voice_en_17147389", "sentence_en": "Women form less than half of the group.", "ref_zh": "这群人中女性不到一半。", "pred_zh": "女性仅占该群体的不到一半。"}
+{"id": "common_voice_en_605985", "sentence_en": "Men play football as a crowd watches.", "ref_zh": "男人们踢足球，一群人在围观。", "pred_zh": "男人在人群中踢足球。"}
+{"id": "common_voice_en_1384", "sentence_en": "How about once more around the park?", "ref_zh": "再绕公园转一圈怎么样?", "pred_zh": "如何再绕公园走一次？"}
+{"id": "common_voice_en_17249708", "sentence_en": "A song, a Girl, a maid.", "ref_zh": "歌、女孩、伴娘。", "pred_zh": "一首歌，一个女孩，一个女仆。"}
+{"id": "common_voice_en_19670349", "sentence_en": "The line appears today on the Tube Map as an orange stripe.", "ref_zh": "今天，地铁图上的这条线显示为橙色条纹。", "pred_zh": "这条线路今天在地铁地图上表现为一条橙色线条。"}
+{"id": "common_voice_en_148006", "sentence_en": "What kind of a proof is that?", "ref_zh": "这是什么样的证据？", "pred_zh": "那能算是什么证明？"}
+{"id": "common_voice_en_18954059", "sentence_en": "That application was rejected.", "ref_zh": "申请被拒绝了。", "pred_zh": "那个申请被拒绝了。"}
+{"id": "common_voice_en_496804", "sentence_en": "They had a lot to divulge.", "ref_zh": "他们有很多事情要讲。", "pred_zh": "他们有很多事情要说。"}
+{"id": "common_voice_en_188461", "sentence_en": "\"Every day was there to be lived or to mark one's departure from this world.\"", "ref_zh": "日子天天要过，或标志着一个人离开了这个世界。", "pred_zh": "“每一天都值得被生活被珍惜，也标志着我们离开这个世界。”"}
+{"id": "common_voice_en_18330830", "sentence_en": "Potato crisps are thinly sliced fried potatoes, eaten as a snack", "ref_zh": "薯片是油炸土豆片，当零食吃", "pred_zh": "土豆片是薄切油炸的土豆片，作为零食食用。"}
+{"id": "common_voice_en_18580493", "sentence_en": "We are giving them no rest.", "ref_zh": "我们不让他们休息。", "pred_zh": "我们一刻也不让他们休息。"}
+{"id": "common_voice_en_78672", "sentence_en": "Throughout the entire day we will be on the lookout for our enemies.", "ref_zh": "我们整天都在提防着敌人。", "pred_zh": "整个白天我们都会盯着我们的敌人。"}
+{"id": "common_voice_en_534327", "sentence_en": "Plastic surgery has become more popular.", "ref_zh": "整形手术越来越流行。", "pred_zh": "整形手术变得越来越流行。"}
+{"id": "common_voice_en_18257271", "sentence_en": "The tracking reference did not work.", "ref_zh": "跟踪参考不起作用。", "pred_zh": "跟踪参考没有起作用。"}
+{"id": "common_voice_en_17881653", "sentence_en": "But you are joking.", "ref_zh": "你在开玩笑吧。", "pred_zh": "但是你在开玩笑。"}
+{"id": "common_voice_en_19087733", "sentence_en": "With no weapons, the only attack option open to him was aerial ramming.", "ref_zh": "由于没有武器，他唯一可以选择的攻击方式就是空中撞击。", "pred_zh": "没有武器，他唯一的攻击选项就是空中撞击。"}
+{"id": "common_voice_en_590694", "sentence_en": "Touchscreens do not provide haptic feedback.", "ref_zh": "触摸屏没有触觉反馈。", "pred_zh": "触控屏不提供触觉反馈。"}
+{"id": "common_voice_en_592975", "sentence_en": "It was a tent like many at the oasis.", "ref_zh": "这是一个帐篷，就像绿洲中的许多帐篷一样。", "pred_zh": "这是一个像 oasis 里许多一样的帐篷。"}
+{"id": "common_voice_en_18165213", "sentence_en": "\"This blurry tomography doesn't help me a lot with the diagnosis.\"", "ref_zh": "这种模糊的断层扫描对我的诊断帮助不大。", "pred_zh": "“这张模糊的 tomography 不太有助于我的诊断。”"}
+{"id": "common_voice_en_18127728", "sentence_en": "Sunburn can be avoided by applying sunscreen or by staying in the shadows.", "ref_zh": "涂防晒霜或呆在阴凉的地方可以避免晒伤。", "pred_zh": "晒伤可以通过涂抹防晒霜或待在阴凉处来避免。"}
+{"id": "common_voice_en_19704043", "sentence_en": "Since leaving office, he has also attended a number of other events of significance.", "ref_zh": "离职后，他还参加了一些其他重要活动。", "pred_zh": "自卸任以来，他還參加了其他多個重要的活動。"}
+{"id": "common_voice_en_696829", "sentence_en": "\"\"\"Fatima,\"\" the girl said, averting her eyes.\"", "ref_zh": "“Fatima。”女孩转过头说。", "pred_zh": "女孩说：“法蒂玛,”她移开了眼睛。"}
+{"id": "common_voice_en_20115558", "sentence_en": "She also taught journalism at the University of California at Berkeley.", "ref_zh": "她还在加州大学伯克利分校教授新闻学。", "pred_zh": "她还在加利福尼亚大学伯克利分校教授新闻学。"}
+{"id": "common_voice_en_17850951", "sentence_en": "Still waters run deep.", "ref_zh": "大智若愚。", "pred_zh": "静水深流。"}
+{"id": "common_voice_en_19261373", "sentence_en": "The University is a member of several organizations of colleges and universities.", "ref_zh": "这所大学是几个高校组织的成员。", "pred_zh": "这所大学是几个高校和大学组织的成员。"}
+{"id": "common_voice_en_17853794", "sentence_en": "These chimes have a mellow sound.", "ref_zh": "钟声悠扬。", "pred_zh": "这些风铃声音温和。"}
+{"id": "common_voice_en_17793561", "sentence_en": "No one has ever done it before.", "ref_zh": "以前从没有人这样做过。", "pred_zh": "没有人曾做到过。"}
+{"id": "common_voice_en_459460", "sentence_en": "What game do you want to play?", "ref_zh": "你想玩什么游戏?", "pred_zh": "你想玩什么游戏？"}
+{"id": "common_voice_en_19624013", "sentence_en": "The completed chartering contract is known as a charter party.", "ref_zh": "已签署租船合同的称为租船方。", "pred_zh": "完成的租船合同称为租船合约。"}
+{"id": "common_voice_en_642929", "sentence_en": "Maybe the church, with the sycamore growing from within, had been haunted.", "ref_zh": "也许那座长着梧桐树的教堂一直闹鬼。", "pred_zh": "或许这座教堂内部长出皂角树的地方曾被鬼魂 haunt 过。"}
+{"id": "common_voice_en_636332", "sentence_en": "\"I'll go right after it.\"", "ref_zh": "我马上就去。", "pred_zh": "\"我马上去追它。\""}
+{"id": "common_voice_en_19735704", "sentence_en": "With the change in ownership, the company ceased most of its book publishing efforts.", "ref_zh": "随着所有权变更，该公司停止了大部分图书出版工作。", "pred_zh": "随着所有权的变更，该公司停止了大部分图书出版工作。"}
+{"id": "common_voice_en_561715", "sentence_en": "You will need to know to build your own custom environment.", "ref_zh": "您需要了解如何构建自己的自定义环境。", "pred_zh": "你需要知道如何构建你自己的自定义环境。"}
+{"id": "common_voice_en_130023", "sentence_en": "An awesome picture of a young woman jumping in the air", "ref_zh": "一名年轻女子在空中跳跃的精彩画面", "pred_zh": "一位年轻女子跳起的awesome照片"}
+{"id": "common_voice_en_101720", "sentence_en": "Sure, see you there!", "ref_zh": "当然，不见不散！", "pred_zh": "当然，到时候见！"}
+{"id": "common_voice_en_19683021", "sentence_en": "Some concurrent programming models include coprocesses and deterministic concurrency.", "ref_zh": "一些并行编程模型包括协进程和确定性并行。", "pred_zh": "一些并发编程模型包括协处理器和确定性并发。"}
+{"id": "common_voice_en_656853", "sentence_en": "Some storms are worth the wreckage.", "ref_zh": "有些风暴不得不付出代价。", "pred_zh": "有些风暴是值得付出破坏代价的。"}
+{"id": "common_voice_en_31573", "sentence_en": "This convention is a natural.", "ref_zh": "这种约定是自然的。", "pred_zh": "这个惯例是自然的。"}
+{"id": "common_voice_en_18741815", "sentence_en": "The final medal tally was led by host Vietnam, followed by Thailand and Indonesia.", "ref_zh": "最终奖牌总数东道主越南获得冠军，泰国和印度尼西亚为亚军和第三。", "pred_zh": "最终奖牌榜上越南队位居榜首，其次是泰国队和印度尼西亚队。"}
+{"id": "common_voice_en_265829", "sentence_en": "The tea was a little bit too hot.", "ref_zh": "茶有点太烫了。", "pred_zh": "茶有点太热了。"}
+{"id": "common_voice_en_19599411", "sentence_en": "Sisters Kimberly and Tiffany, and brother Ryan.", "ref_zh": "Kimberly 和 Tiffany 姐妹，以及 Ryan 兄弟。", "pred_zh": "姐妹Kimberly和Tiffany，以及弟弟Ryan。"}
+{"id": "common_voice_en_18095472", "sentence_en": "Clams are small, round, soft, and tasty.", "ref_zh": "蛤蜊又小又圆，嫩滑且美味。", "pred_zh": "clam 是小而圆的，软嫩可口。"}
+{"id": "common_voice_en_580095", "sentence_en": "\"Her mom took her to the judo class at four o'clock.\"", "ref_zh": "她妈妈四点钟带她去上柔道课。", "pred_zh": "\"她的妈妈在四点钟带她去了柔道课。\""}
+{"id": "common_voice_en_89735", "sentence_en": "Thailand turned out to be a very satisfying holiday.", "ref_zh": "泰国成为了度假胜地。", "pred_zh": "泰国果然度过了一个非常满意的假期。"}
+{"id": "common_voice_en_587409", "sentence_en": "Like an old fire horse.", "ref_zh": "像匹老火马。", "pred_zh": "像一匹老马。"}
+{"id": "common_voice_en_19445993", "sentence_en": "Originally, the finale for the sixth season was promoted as a cliff-hanger.", "ref_zh": "最初，第六季的结局被宣传为惊险片。", "pred_zh": "原本第六季的最終集被宣传为一个悬疑桥段。"}
+{"id": "common_voice_en_649220", "sentence_en": "I notice you still remember it.", "ref_zh": "我注意到你还记得。", "pred_zh": "我注意到你仍然记得它。"}
+{"id": "common_voice_en_18842868", "sentence_en": "At these dimensions, it is large enough to be seen from space.", "ref_zh": "它在这些维度上足够大，可以从太空中看到。", "pred_zh": "在这些尺寸下，它大到可以从太空中看到。"}
+{"id": "common_voice_en_18019655", "sentence_en": "The Internet is built upon many protocols which complement each other perfectly.", "ref_zh": "互联网建立在许多完美互补的协议之上。", "pred_zh": "互联网是基于许多互补的协议构建的。"}
+{"id": "common_voice_en_101919", "sentence_en": "Wait for the end of the war.", "ref_zh": "等待战争结束。", "pred_zh": "等待战争结束。"}
+{"id": "common_voice_en_19518910", "sentence_en": "Finally, the Beatles began playing at the Jac on occasions.", "ref_zh": "最后，甲壳虫乐队开始偶尔在 Jac 演奏。", "pred_zh": "最终，披头士乐队开始偶尔在Jac俱乐部演出。"}
+{"id": "common_voice_en_17249849", "sentence_en": "Pencils down, time is over.", "ref_zh": "请放下铅笔，时间到了。", "pred_zh": "铅笔放下，时间到。"}
+{"id": "common_voice_en_660756", "sentence_en": "\"\"\"This desert was once a sea,\"\" he said.\"", "ref_zh": "“这片沙漠曾经是一片海，”他说。", "pred_zh": "他说：“这片沙漠曾经是一片海洋。”"}
+{"id": "common_voice_en_16570737", "sentence_en": "A handsome shoe often pinches the foot.", "ref_zh": "好看的鞋往往夹脚。", "pred_zh": "一双好看的鞋往往勒脚。"}
+{"id": "common_voice_en_18071552", "sentence_en": "He voyaged on a ship called The Beagle.", "ref_zh": "他乘坐一艘名为“小猎犬号”的船航行。", "pred_zh": "他乘坐了一艘叫贝格尔号的船进行了航行。"}
+{"id": "common_voice_en_17556043", "sentence_en": "\"I can reassure you, that we won't retreat until the oil until the peace is secured.\"", "ref_zh": "我可以向你保证，在石油安全与和平得到保障之前，我们不会撤退。", "pred_zh": "“我可以向您保证，我们不会撤退，直到确保和平为止。”"}
+{"id": "common_voice_en_18352349", "sentence_en": "And the big Persian knew of his existence before he did of hers.", "ref_zh": "那个大波斯人比她更早知道他的存在。", "pred_zh": "而那个大波斯人比她更早知道了他的存在。"}
+{"id": "common_voice_en_19966423", "sentence_en": "But after Musial injured his pitching arm, his career was in serious jeopardy.", "ref_zh": "但是，Musial 的投球手臂伤了之后，他的职业生涯就岌岌可危了。", "pred_zh": "但穆西尔投手臂受伤后，他的职业生涯陷入了严重危机。"}
+{"id": "common_voice_en_17902010", "sentence_en": "\"Toby said, he's gonna sue his ex-wife.\"", "ref_zh": "Toby 说要起诉他的前妻", "pred_zh": "托比说，他要起诉他的前妻。"}
+{"id": "common_voice_en_18084611", "sentence_en": "\"I can reassure you, that we won't retreat until the peace is secured.\"", "ref_zh": "我可以向你保证，在和平得到保障之前，我们不会撤退。", "pred_zh": "“我可以向您保证，我们不会后退，直到和平得到保障。”"}
+{"id": "common_voice_en_557642", "sentence_en": "\"I don't blame you.\"", "ref_zh": "我不怪你。", "pred_zh": "“我不怪你。”"}
+{"id": "common_voice_en_18136544", "sentence_en": "\"He jumped up and turned quickly to face the imagined terror screaming \"\"Get back!\"\"\"", "ref_zh": "他跳了起来，迅速转过身去，面对着想象中的恐怖，尖叫着“回来!”", "pred_zh": "他猛地跳起身子，迅速转身面对想象中的恐怖，尖叫着“退后！”"}
+{"id": "common_voice_en_18639792", "sentence_en": "He is reserved and serious, which is a further mark of respectability.", "ref_zh": "他内敛而认真，这是受人尊敬的另一个标志。", "pred_zh": "他为人谨慎且严肃，这更是他的正派可靠之处。"}
+{"id": "common_voice_en_19627437", "sentence_en": "It is a member of the plastocyanin family of copper-binding proteins.", "ref_zh": "它是铜结合蛋白质体蓝素家族中的一员。", "pred_zh": "它属于 plastocyanin 家族的铜结合蛋白。"}
+{"id": "common_voice_en_18983015", "sentence_en": "My dad is a Republican.", "ref_zh": "我爸爸是共和党人。", "pred_zh": "我的爸爸是共和党人。"}
+{"id": "common_voice_en_18311835", "sentence_en": "Red-Eye never committed a more outrageous deed.", "ref_zh": "“红眼”从来没有做过比这更无耻的事。", "pred_zh": "红眼从未干过更加荒唐的事。"}
+{"id": "common_voice_en_6237759", "sentence_en": "Good playgrounds have much more to offer than swings and slides.", "ref_zh": "除了秋千和滑梯，好操场还提供更多的东西。", "pred_zh": "好的游乐场提供的远不止秋千和滑梯。"}
+{"id": "common_voice_en_19737934", "sentence_en": "The massacre site was later visited by the Interior Minister, Mostefa Bensamour.", "ref_zh": "内政部长 Mostefa Bensamour 后来视察了屠杀现场。", "pred_zh": "屠杀现场后来被内政部长穆斯塔法·本萨莫尔访问过。"}
+{"id": "common_voice_en_17256107", "sentence_en": "Sorry, the test period expired.", "ref_zh": "抱歉，测试期已过。", "pred_zh": "对不起，试用期已过期。"}
+{"id": "common_voice_en_486727", "sentence_en": "The forest burned for thirteen days.", "ref_zh": "森林燃烧了 13 天。", "pred_zh": "森林燃烧了十三天。"}
+{"id": "common_voice_en_17365657", "sentence_en": "He kept driving at full speed, totally unfazed by the flap, flap, flap of the burst tyre.", "ref_zh": "他一直全速行驶，完全没有被爆胎的拍打声吓到。", "pred_zh": "他全速驾驶，完全不顾爆胎发出的砰砰砰的声音。"}
+{"id": "common_voice_en_125709", "sentence_en": "I accuse this man of being a faker!", "ref_zh": "我指控这个人是个骗子！", "pred_zh": "我控诉这个人是骗子！"}
+{"id": "common_voice_en_666797", "sentence_en": "There was a loud shriek from a woman standing behind us.", "ref_zh": "站在我们身后的一个女人发出一声尖叫。", "pred_zh": "我们身后站着的一个女人发出一声尖叫声。"}
+{"id": "common_voice_en_19288096", "sentence_en": "\"It's Not Dylan!\"", "ref_zh": "不是迪伦！", "pred_zh": "“这不是迪伦！”"}
+{"id": "common_voice_en_17761046", "sentence_en": "Home is where the heart is.", "ref_zh": "心在哪儿，家就在哪儿。", "pred_zh": "家是最温暖的心灵归宿。"}
+{"id": "common_voice_en_655589", "sentence_en": "His hands began to tremble, and the woman sensed it.", "ref_zh": "他的手开始颤抖，女人感觉到了。", "pred_zh": "他的手开始颤抖，女人感到了这一点。"}
+{"id": "common_voice_en_17915682", "sentence_en": "\"You might hear \"\"font families\"\" more than \"\"typefaces\"\", even though they could mean the same thing.\"", "ref_zh": "您可能会更多地听到“字型设置”，而不是“字体”，即使它们可能意味着相同的意思。", "pred_zh": "“你可能会听到更多关于‘字体系列’的说法，而不是‘字型’，尽管它们可能指的是同一个概念。”"}
+{"id": "common_voice_en_38499", "sentence_en": "A man with a white beard is writing in a book while two women look on", "ref_zh": "一个留着白胡子的男人正在写书，两个女人在一旁看着", "pred_zh": "一位留着白胡子的男子正在一本书上写字，两位女子在旁边观看。"}
+{"id": "common_voice_en_17787575", "sentence_en": "I wrote my bachelor thesis with latex.", "ref_zh": "我的学士论文写的是乳胶。", "pred_zh": "我用LaTeX写了我的本科毕业论文。"}
+{"id": "common_voice_en_525496", "sentence_en": "\"I've stuck it back together.\"", "ref_zh": "我把它们重新粘在一起了。", "pred_zh": "“我已经把它重新粘好了。”"}
+{"id": "common_voice_en_140702", "sentence_en": "It is the most valuable stamp in the world.", "ref_zh": "它是世界上最有价值的邮票。", "pred_zh": "它是世界上最有价值的邮票。"}
+{"id": "common_voice_en_19594622", "sentence_en": "Further, there is no mention of the comet in Chinese literature of the time.", "ref_zh": "此外，当时的中国文学中也没有提及彗星。", "pred_zh": "此外，当时的中国文献中也没有提到这颗彗星。"}
+{"id": "common_voice_en_19690862", "sentence_en": "Norfolk was the son of the poet Henry Howard, Earl of Surrey.", "ref_zh": "Norfolk 是诗人萨里伯爵 Henry Howard 的儿子。", "pred_zh": "诺福克是诗人亨利·霍华德，萨里伯爵的儿子。"}
+{"id": "common_voice_en_18166798", "sentence_en": "A friend is easier lost than found.", "ref_zh": "得朋友难，失朋友易。", "pred_zh": "朋友一旦失去就很难找回。"}
+{"id": "common_voice_en_175039", "sentence_en": "The quickening of time", "ref_zh": "时间飞逝", "pred_zh": "时间的流逝加快"}
+{"id": "common_voice_en_638542", "sentence_en": "Four hundred and fifty dollars.", "ref_zh": "四百五十美元。", "pred_zh": "四百五十美元。"}
+{"id": "common_voice_en_657912", "sentence_en": "\"We've got to walk up to the tower.\"", "ref_zh": "我们得走到塔顶上去。", "pred_zh": "\"我们得走上塔去。\""}
+{"id": "common_voice_en_592258", "sentence_en": "The plastic barrier shattered.", "ref_zh": "塑料栅栏破裂了。", "pred_zh": "塑料屏障碎裂了。"}
+{"id": "common_voice_en_208041", "sentence_en": "It was seen early in the morning, rushing over eastward.", "ref_zh": "一大清早，人们就看见它朝东奔去。", "pred_zh": "它在清晨时分向东飞过。"}
+{"id": "common_voice_en_18989065", "sentence_en": "It is found in the Indian subcontinent, China, and Southeast Asia.", "ref_zh": "它分布在印度次大陆、中国和东南亚。", "pred_zh": "它分布在印度次大陆、中国和东南亚地区。"}
+{"id": "common_voice_en_19822582", "sentence_en": "\"\"\"Getting to play someone as unrestricted as a vampire is a thrill,\"\" she says.\"", "ref_zh": "“扮演一个不受限制的吸血鬼角色是一种刺激，”她说。", "pred_zh": "她说：“能够扮演一个像吸血鬼那样不受限制的角色是一种 thrill。”"}
+{"id": "common_voice_en_567708", "sentence_en": "A man holding a newborn baby in a blue, pink, and white blanket.", "ref_zh": "男人抱着一个裹了一条蓝、粉、白相间毯子的刚出生婴儿。", "pred_zh": "一个男人抱着一个裹在蓝粉白三种颜色毯子中的新生儿。"}
+{"id": "common_voice_en_42504", "sentence_en": "An huge hole had been made by the impact of the projectile.", "ref_zh": "子弹的撞击形成了一个大洞。", "pred_zh": "这个弹丸的冲击在那儿留下了一个巨大的洞。"}
+{"id": "common_voice_en_18486657", "sentence_en": "She must have noted your lack of appetite.", "ref_zh": "她一定注意到了你食欲不振。", "pred_zh": "她一定注意到了你食欲不振。"}
+{"id": "common_voice_en_683344", "sentence_en": "Lemme have the Desk.", "ref_zh": "给我桌子。", "pred_zh": "让我拿一下桌子。"}
+{"id": "common_voice_en_18214894", "sentence_en": "Wisdom is the wealth of the wise.", "ref_zh": "智慧是智者的财富。", "pred_zh": "智慧是智者的财富。"}
+{"id": "common_voice_en_671672", "sentence_en": "The old man said nothing.", "ref_zh": "老人什么也没说。", "pred_zh": "老人没有说话。"}
+{"id": "common_voice_en_19696223", "sentence_en": "You do it.", "ref_zh": "你去做吧。", "pred_zh": "你来做这件事。"}
+{"id": "common_voice_en_19713216", "sentence_en": "He was interred in his hometown Cloppenburg.", "ref_zh": "他被安葬在家乡克罗朋堡。", "pred_zh": "他安葬在家乡克伦堡。"}
+{"id": "common_voice_en_15733852", "sentence_en": "The quick fox jumped on the sleeping cat.", "ref_zh": "那只敏捷的狐狸扑向熟睡的猫。", "pred_zh": "快速的狐狸跳上了睡着的猫。"}
+{"id": "common_voice_en_17990756", "sentence_en": "This swallow is twittering without Internet connection and has a swarm of followers.", "ref_zh": "这只燕子在没有网络连接的情况下发推特，有一大群粉丝。", "pred_zh": "这只燕子没有网络连接却在叽叽喳喳地叫着，并且拥有一大群追随者。"}
+{"id": "common_voice_en_568320", "sentence_en": "It drew a droplet of blood.", "ref_zh": "画了一滴血。", "pred_zh": "它抽了一滴血。"}
+{"id": "common_voice_en_595215", "sentence_en": "Bill decided that management should know about this incident.", "ref_zh": "Bill 认为管理层应该知道这件事。", "pred_zh": "比尔决定管理层应该知道这件事。"}
+{"id": "common_voice_en_18884705", "sentence_en": "He was a member of the World Economic Forum in Davos.", "ref_zh": "他是达沃斯世界经济论坛的成员。", "pred_zh": "他是世界经济论坛达沃斯的成员。"}
+{"id": "common_voice_en_202757", "sentence_en": "We lit the lantern and walked over to his house.", "ref_zh": "我们点上灯笼，朝他家走去。", "pred_zh": "我们点亮了灯笼，走到了他的房子旁边。"}
+{"id": "common_voice_en_17296199", "sentence_en": "Where did you come from?", "ref_zh": "你从哪儿来？", "pred_zh": "你从哪里来？"}
+{"id": "common_voice_en_308727", "sentence_en": "To err is human To forgive divine.", "ref_zh": "人非圣贤，孰能无过。", "pred_zh": "犯错乃人之常情，宽恕乃神之品德。"}
+{"id": "common_voice_en_484139", "sentence_en": "A bird in hand is worth two in the bush", "ref_zh": "双鸟在林不如一鸟在手", "pred_zh": "手到擒来胜过望梅止渴"}
+{"id": "common_voice_en_534977", "sentence_en": "I think they perceived that nothing was to be done at the moment.", "ref_zh": "我想他们意识到此刻什么也做不了。", "pred_zh": "我认为他们觉得当时没有什么可以做的事情。"}
+{"id": "common_voice_en_19377032", "sentence_en": "Pran Nath was born into a wealthy family in Lahore in present-day Pakistan.", "ref_zh": "普拉纳出生于拉合尔（也就是今天的巴基斯坦）的一个富裕家庭。", "pred_zh": "普拉恩·纳桑出生于今天的巴基斯坦拉合尔的一个富裕家庭。"}
+{"id": "common_voice_en_553899", "sentence_en": "We dont want him!", "ref_zh": "我们不想要他！", "pred_zh": "我们不要他！"}
+{"id": "common_voice_en_101193", "sentence_en": "But they were not there.", "ref_zh": "但他们不在那儿。", "pred_zh": "但他们不在那里。"}
+{"id": "common_voice_en_640979", "sentence_en": "But that was simply because my eye was tired.", "ref_zh": "但那只是因为我的眼睛累了。", "pred_zh": "但这仅仅是因为我的眼睛累了。"}
+{"id": "common_voice_en_627877", "sentence_en": "\"\"\"Good-bye,\"\" said the boy.\"", "ref_zh": "“再见，”男孩说。", "pred_zh": "\"再见，\" 男孩说。"}
+{"id": "common_voice_en_17283104", "sentence_en": "What would you say is the difference between a language and a dialect?", "ref_zh": "你认为语言和方言有什么区别?", "pred_zh": "你认为语言和方言之间有什么区别吗？"}
+{"id": "common_voice_en_567974", "sentence_en": "I would have won the Junior Olympics if not for those medaling kids.", "ref_zh": "如果不是为了那些孩子获奖，我早就赢得少年奥运会冠军了。", "pred_zh": "要不是那些获奖的孩子，我本可以赢得少年奥运会的。"}
+{"id": "common_voice_en_17645826", "sentence_en": "No, but it is nice to meet you.", "ref_zh": "不，但很高兴见到你。", "pred_zh": "不，但是见到您很高兴。"}
+{"id": "common_voice_en_19641863", "sentence_en": "Due to the expense of production, it is not being used for this purpose.", "ref_zh": "由于生产成本高，它没有被用于这个目的。", "pred_zh": "由于生产成本较高，目前未用于此目的。"}
+{"id": "common_voice_en_19610056", "sentence_en": "\"Philip then tells his parents that he was suspended for \"\"singing\"\" the National Anthem.\"", "ref_zh": "菲利普随后告诉父母，他因“唱”国歌而被停赛。", "pred_zh": "\"菲利普然后告诉他的父母，他是因为在演唱国歌而被停学。\""}
+{"id": "common_voice_en_673134", "sentence_en": "\"The sea has lived on in this shell, because that's its destiny.\"", "ref_zh": "大海一直生活在这个壳里，因为这是它的命运。", "pred_zh": "“大海把它的一生留在了这个贝壳里，因为那是它的命运。”"}
+{"id": "common_voice_en_71190", "sentence_en": "Mostly just the hearts of those who are trying to realize their destinies.", "ref_zh": "主要是那些努力实现自己命运的人的心。", "pred_zh": "主要是那些试图实现自己命运的人们的心。"}
+{"id": "common_voice_en_479944", "sentence_en": "But instead of being saddened, he was happy.", "ref_zh": "但他并没有感到悲伤，反而很高兴。", "pred_zh": "但他并没有因此感到悲伤，反而很高兴。"}
+{"id": "common_voice_en_18907918", "sentence_en": "He was arrested within days, placed on trial and found guilty.", "ref_zh": "他在几天内被逮捕，接受审判并被判有罪。", "pred_zh": "他几天后被逮捕，受审并被判有罪。"}
+{"id": "common_voice_en_604840", "sentence_en": "\"Every search begins with beginner's luck.\"", "ref_zh": "每次搜索都从新手的运气开始。", "pred_zh": "“每一次搜索都始于初学者的好运。”"}
+{"id": "common_voice_en_19617198", "sentence_en": "\"It was later revealed that the letter was a prank concocted by \"\"The eXile\"\".\"", "ref_zh": "后来有人透露，这封信是“流放者”编造的恶作剧。", "pred_zh": "后来人们发现这封信是“eXile”搞的恶作剧。"}
+{"id": "common_voice_en_171538", "sentence_en": "\"The alchemist followed as the boy's horse ran for almost half an hour.\"", "ref_zh": "炼金术士跟着男孩的马跑了将近半个小时。", "pred_zh": "“炼金师跟着男孩的马跑了将近半小时。”"}
+{"id": "common_voice_en_17298294", "sentence_en": "Where are the others?", "ref_zh": "其他人在哪儿?", "pred_zh": "其他人在哪里？"}
+{"id": "common_voice_en_17387483", "sentence_en": "He postulated a dispersion theory before his coworker made his discovery and announcement.", "ref_zh": "在他的同事宣布他的发现之前，他提出了色散理论。", "pred_zh": "他在同事做出发现并宣布之前，提出了一个分散理论。"}
+{"id": "common_voice_en_551664", "sentence_en": "Sylvester needed to meditate to clear his mind.", "ref_zh": "西尔维斯特需要沉思来理清思路。", "pred_zh": "西尔维斯特需要冥想以清空他的思绪。"}
+{"id": "common_voice_en_276175", "sentence_en": "Olivia, have you seen my keys?", "ref_zh": "奥利维亚，你看到我的钥匙了吗?", "pred_zh": "奥利维亚，你看到我的钥匙了吗？"}
+{"id": "common_voice_en_608320", "sentence_en": "If you know your heart well, it will never be able to do that to you.", "ref_zh": "如果你非常了解自己的心灵，它永远不会那样对你。", "pred_zh": "如果你了解自己的心，它就永远不会对你这么做。"}
+{"id": "common_voice_en_19749785", "sentence_en": "He learned to play the harmonica from his father.", "ref_zh": "他跟父亲学吹口琴。", "pred_zh": "他向父亲学习吹奏口琴。"}
+{"id": "common_voice_en_17384575", "sentence_en": "\"Although everything should be under the state's control, there is a lot of violence in prisons.\"", "ref_zh": "尽管一切都应该在政府控制之下，但监狱中还是有很多暴力事件。", "pred_zh": "“虽然一切本应受国家控制，但监狱中的暴力行为却很多。”"}
+{"id": "common_voice_en_18332492", "sentence_en": "\"That's the sub-foreman, explained Thorpe.\"", "ref_zh": "那是副领班，索普解释道。", "pred_zh": "“那是副班长，”托普解释道。"}
+{"id": "common_voice_en_19994829", "sentence_en": "\"The southern part of the island is a bird lover's paradise.\"", "ref_zh": "岛屿南部是鸟类爱好者的天堂。", "pred_zh": "\"岛的南部是鸟爱好者的天堂。\""}
+{"id": "common_voice_en_20062145", "sentence_en": "At least forty-one protesters were killed in the ensuing engagement.", "ref_zh": "至少 41 名抗议者在随后的冲突中丧生。", "pred_zh": "随后的交火中至少有41名抗议者丧生。"}
+{"id": "common_voice_en_568491", "sentence_en": "It was my fear of failure that first kept me from attempting the Master Work.", "ref_zh": "对失败的恐惧使我不敢尝试这项杰作。", "pred_zh": "正是我对失败的恐惧最初让我没有尝试创作这件大师作品。"}
+{"id": "common_voice_en_112873", "sentence_en": "He just got a new kite for his birthday.", "ref_zh": "他刚收到一只新风筝作为生日礼物。", "pred_zh": "他生日的时候刚刚得到了一个新的风筝。"}
+{"id": "common_voice_en_19601218", "sentence_en": "While a simple cards made by her sold only for five cents.", "ref_zh": "而她制作的简单贺卡只卖 5 美分。", "pred_zh": "而她手工制作的卡片仅售五美分。"}
+{"id": "common_voice_en_18202611", "sentence_en": "The wound healed faster than anyone expected.", "ref_zh": "伤口愈合得比任何人预料的都快。", "pred_zh": "伤口比任何人预期的都要快愈合了。"}
+{"id": "common_voice_en_57895", "sentence_en": "How do I feel?", "ref_zh": "我感觉如何？", "pred_zh": "我感觉怎么样？"}
+{"id": "common_voice_en_17798535", "sentence_en": "You cannot eat the cake and have it To.", "ref_zh": "TO REMOVE", "pred_zh": "你不能吃掉蛋糕还说还留着。"}
+{"id": "common_voice_en_18607767", "sentence_en": "In times of despair, look out for the helpers and you will find hope.", "ref_zh": "绝望的时候，寻找帮助者，你会发现希望。", "pred_zh": "在绝望之时，寻找帮助者，你将找到希望。"}
+{"id": "common_voice_en_17387435", "sentence_en": "Did you know that Harry got a new job?", "ref_zh": "你知道 Harry 找到新工作了吗?", "pred_zh": "你知道哈里找到了新工作吗？"}
+{"id": "common_voice_en_16556814", "sentence_en": "I hope you are well!", "ref_zh": "我希望你很好！", "pred_zh": "我希望你很好！"}
+{"id": "common_voice_en_113271", "sentence_en": "\"I've never seen her before.\"", "ref_zh": "我以前从未见过她。", "pred_zh": "\"我以前从来没有见过她。\""}
+{"id": "common_voice_en_19956819", "sentence_en": "The club is the first non-government owned professional basketball club in China.", "ref_zh": "该俱乐部是中国第一家民营职业篮球俱乐部。", "pred_zh": "该俱乐部是中国首个非政府所有的职业篮球俱乐部。"}
+{"id": "common_voice_en_75022", "sentence_en": "To stuff into their own pockets.", "ref_zh": "肥水不流外人田。", "pred_zh": "直接塞进他们自己的口袋。"}
+{"id": "common_voice_en_18170949", "sentence_en": "Silence is golden.", "ref_zh": "沉默是金。", "pred_zh": "沉默是金。"}
+{"id": "common_voice_en_569070", "sentence_en": "Somebody threw him off a train.", "ref_zh": "有人把他赶下了火车。", "pred_zh": "有人把他从火车上扔了下来。"}
+{"id": "common_voice_en_19677136", "sentence_en": "He held a large number of business appointments.", "ref_zh": "他有许多商务约会。", "pred_zh": "他担任了多个商业职务。"}
+{"id": "common_voice_en_17756336", "sentence_en": "Cut your coat according to the cloth.", "ref_zh": "量布裁衣。", "pred_zh": "量体裁衣。"}
+{"id": "common_voice_en_651126", "sentence_en": "A little token of appreciation.", "ref_zh": "略表谢意。", "pred_zh": "一份小小的感谢礼物。"}
+{"id": "common_voice_en_522004", "sentence_en": "The girl dropped the container, and the water spilled.", "ref_zh": "女孩把容器掉在地上，水溢出来了。", "pred_zh": "女孩掉了容器，水洒了。"}
+{"id": "common_voice_en_19951339", "sentence_en": "The town was named after the Spanish term for lumber.", "ref_zh": "该镇以西班牙语木材的术语命名。", "pred_zh": "这个镇是以西班牙语中对木材的称呼命名的。"}
+{"id": "common_voice_en_17287930", "sentence_en": "\"For better physical understanding, let's first recap where the pivot point is.\"", "ref_zh": "为了更好地理解物理，让我们先回顾一下支点在哪里。", "pred_zh": "“为了更好地理解物理原理，我们先回顾一下支点在哪里。”"}
+{"id": "common_voice_en_17742845", "sentence_en": "Marc, would you please give me the fly swatter?", "ref_zh": "Marc，你能把苍蝇拍给我吗？", "pred_zh": "马克，你能把苍蝇拍给我吗？"}
+{"id": "common_voice_en_103112", "sentence_en": "He and his family went up north to the Arctic Circle to meet Santa Claus in Finland.", "ref_zh": "他和他的家人北上到北极圈，去芬兰见圣诞老人。", "pred_zh": "他和他的家人去了北极圈附近的芬兰与圣诞老人会面。"}
+{"id": "common_voice_en_637782", "sentence_en": "The empty flask stood on the tin tray.", "ref_zh": "空瓶子放在锡盘上。", "pred_zh": "空瓶子放在了铁托盘上。"}
+{"id": "common_voice_en_19306956", "sentence_en": "\"The launch was flawless; all systems were \"\"go\"\", except for Doctor Wang's experiment.\"", "ref_zh": "发射完美无缺；除了王东的实验，所有的系统都在“运行”。", "pred_zh": "“发射完美无瑕；所有系统都‘就位’，只是王医生的实验除外。”"}
+{"id": "common_voice_en_18423240", "sentence_en": "The author is a blogger and social media phenomenon.", "ref_zh": "作者反应的是博客和社交媒体现象。", "pred_zh": "该作者是一位博主和社会媒体现象。"}
+{"id": "common_voice_en_664630", "sentence_en": "\"Maybe because that wasn't really his dream.\"", "ref_zh": "也许因为那不是他真正的梦想。", "pred_zh": "“可能是因为那并不是他真正的梦想。”"}
+{"id": "common_voice_en_17492946", "sentence_en": "Real schools, secondary schools giving a general practical education.", "ref_zh": "真正的学校，是提供普通实用教育的中学。", "pred_zh": "真正的学校，提供一般实用教育的中学。"}
+{"id": "common_voice_en_639786", "sentence_en": "Cats whiskers are very sensitive.", "ref_zh": "猫的胡须非常敏感。", "pred_zh": "猫的胡须非常敏感。"}
+{"id": "common_voice_en_18192481", "sentence_en": "The closet door stuck a little as he pulled it open revealing a bare wooden floor covered on one side by a stack of old shoes boxes.", "ref_zh": "当他拉开壁橱门时，壁橱门卡住了一点，露出了裸露的木地板，地板的一边被一堆旧鞋盒覆盖着。", "pred_zh": "他拉开 Closet 的门时，门稍微卡了一下，然后露出了一个光秃秃的木制地板，一侧堆满了旧鞋盒。"}
+{"id": "common_voice_en_19649328", "sentence_en": "\"For centuries after her death, Welshmen cried-out \"\"Revenge for Gwenllian\"\" when engaging in battle.\"", "ref_zh": "在她死后的几个世纪里，威尔士人在战斗中呼喊着“为 Gwenllian 报仇”。", "pred_zh": "“在其死后几个世纪里，威尔士人在战斗时都会呐喊‘为格温利安复仇’。”"}
+{"id": "common_voice_en_574616", "sentence_en": "Fall seven times. Stand up eight.", "ref_zh": "摔倒七次，站起来八次。", "pred_zh": "跌七次，站八次。"}
+{"id": "common_voice_en_54384", "sentence_en": "undefined", "ref_zh": "不明确", "pred_zh": "抱歉，您提供的英文内容似乎被标记为“undefined”，请您提供具体的英文内容，以便我进行翻译。"}
+{"id": "common_voice_en_220415", "sentence_en": "\"I wouldn't take that too seriously.\"", "ref_zh": "我不会把那看得太重。", "pred_zh": "“你不要太当真。”"}
+{"id": "common_voice_en_17366960", "sentence_en": "Words are, in my not-so-humble opinion, our most inexhaustible source of magic.", "ref_zh": "在我看来，词语是我们最取之不尽的魔法源泉。", "pred_zh": "在我的不谦虚的意见中，词语是我们最无穷无尽的魔力来源。"}
+{"id": "common_voice_en_19652891", "sentence_en": "It is also used to emulate sounds generated by obsolete electronic equipment.", "ref_zh": "它也用来模仿过时的电子设备发出的声音。", "pred_zh": "它也被用来模拟由过时电子设备生成的声音。"}
+{"id": "common_voice_en_19808035", "sentence_en": "This interpretation is not objective.", "ref_zh": "这种解释不客观。", "pred_zh": "这个解释不够客观。"}
+{"id": "common_voice_en_18176386", "sentence_en": "The motorcycle made a loud noise.", "ref_zh": "摩托车发出很大的噪音。", "pred_zh": "摩托车发出 loud noise 的中文可以翻译为：摩托车发出很大的声音。或者根据上下文，也可以更简洁地翻译为：摩托车发出 Loud noise -> 摩托车发出响声。"}
+{"id": "common_voice_en_509774", "sentence_en": "\"You're just the one I wanted to see.\"", "ref_zh": "你正是我要见的人。", "pred_zh": "\"你正是我想见的人。\""}
+{"id": "common_voice_en_696182", "sentence_en": "The boy wanted to believe that his friend had simply become separated from him by accident.", "ref_zh": "这个男孩宁愿相信他的朋友只是偶然和他分开了。", "pred_zh": "男孩希望相信他的朋友只是偶然与他走散了。"}
+{"id": "common_voice_en_672564", "sentence_en": "Have you ever heard the national anthem of South Korea?", "ref_zh": "你听过韩国国歌吗？", "pred_zh": "你听说过韩国的国歌吗？"}
+{"id": "common_voice_en_18887305", "sentence_en": "Lemon said that none of the teams were profitable.", "ref_zh": "Lemon 说这些团队都没有盈利。", "pred_zh": "莱蒙说，没有任何一支队伍是盈利的。"}
+{"id": "common_voice_en_18579362", "sentence_en": "So I would be the next to go.", "ref_zh": "所以我将是下一个要去的人。", "pred_zh": "所以我就会是下一个。"}
+{"id": "common_voice_en_18933160", "sentence_en": "The Servant sends Leonardo away, and the guests begin arriving for the wedding.", "ref_zh": "仆人把 Leonardo 送走了，客人们开始到达婚礼现场。", "pred_zh": "仆人把莱昂纳多送走后，宾客们开始赶来参加婚礼。"}
+{"id": "common_voice_en_581056", "sentence_en": "When I returned to the common, the sun was setting.", "ref_zh": "当我回到公共场所时，太阳已经落山了。", "pred_zh": "当我回到commons的时候，太阳正在下山。"}
+{"id": "common_voice_en_49865", "sentence_en": "A child with a helmet on his head rides a bike.", "ref_zh": "一个头戴头盔的孩子骑着一辆自行车。", "pred_zh": "一个戴着头盔的孩子在骑自行车。"}
+{"id": "common_voice_en_75152", "sentence_en": "I locked eyes with a fish in the tank.", "ref_zh": "我盯着鱼缸里的一条鱼。", "pred_zh": "我与鱼缸里的鱼对上了眼。"}
+{"id": "common_voice_en_18176372", "sentence_en": "I need a pacifier for my baby.", "ref_zh": "我需要一个奶嘴给我的宝宝用。", "pred_zh": "我需要一个安抚奶嘴给我的宝宝。"}
+{"id": "common_voice_en_19351145", "sentence_en": "\"It doesn't look good.\"", "ref_zh": "看起来不太好。", "pred_zh": "\"这看起来不太好。\""}
+{"id": "common_voice_en_18355427", "sentence_en": "Peace be unto you and grace before the Lord.", "ref_zh": "愿你平安，承蒙主的恩典。", "pred_zh": "愿平安和恩典临到你和主同在。"}
+{"id": "common_voice_en_98558", "sentence_en": "If you have to wait until the war is over, then wait.", "ref_zh": "如果你必须等到战争结束，那就等着吧。", "pred_zh": "如果你必须等到战争结束才行动，那就等着吧。"}
+{"id": "common_voice_en_584541", "sentence_en": "\"Let's do this in chronological order.\"", "ref_zh": "让我们按时间顺序来做这件事。", "pred_zh": "\"让我们按时间顺序来做这个。\""}
+{"id": "common_voice_en_643560", "sentence_en": "What good will that do?", "ref_zh": "那有什么用呢？", "pred_zh": "那又能怎么样？"}
+{"id": "common_voice_en_555316", "sentence_en": "But not for long.", "ref_zh": "但不会持续太久。", "pred_zh": "但不会太久。"}
+{"id": "common_voice_en_598493", "sentence_en": "It must have fallen while I was sitting over there.", "ref_zh": "它一定是在我坐在那里的时候掉下来了。", "pred_zh": "它一定是我在那边坐着的时候掉下来的。"}
+{"id": "common_voice_en_18198686", "sentence_en": "\"In nineteen-sixty-nine the first man set foot on the moon's surface.\"", "ref_zh": "1969 年，人类第一人首次踏足月球表面。", "pred_zh": "\"在1969年，第一位宇航员踏上了月球表面。\""}
+{"id": "common_voice_en_211831", "sentence_en": "\"He's been crying for five minutes.\"", "ref_zh": "他已经哭了五分钟了。", "pred_zh": "\"他已经哭了一分钟。\" \n\n（注：原文中“五”被误写为“一”，根据上下文应更正为：“他已经哭了一分钟。” 或者 根据原意应为：“他已经哭了五分钟。”）"}
+{"id": "common_voice_en_1100186", "sentence_en": "A friend to everybody is a friend to nobody.", "ref_zh": "与任何人都交朋友的人是不会有真正知心的朋友的!", "pred_zh": "一个朋友人人要是一个朋友人人不要。"}
+{"id": "common_voice_en_159275", "sentence_en": "\"You haven't got your wings yet.\"", "ref_zh": "你翅膀还没硬。", "pred_zh": "“你还未获得你的翅膀。”"}
+{"id": "common_voice_en_15904536", "sentence_en": "Like a fish out of water.", "ref_zh": "如鱼离水。", "pred_zh": "像条落水鱼。"}
+{"id": "common_voice_en_18241022", "sentence_en": "\"You can't have your cake and eat it too.\"", "ref_zh": "鱼与熊掌不可兼得。", "pred_zh": "“你想拥有蛋糕，又想吃掉它。” \n\n或者更常见的表达方式是：\n“你不能同时拥有和享受两者。”"}
+{"id": "common_voice_en_542562", "sentence_en": "And the sand and gravel had been flung violently in every direction.", "ref_zh": "沙砾石猛烈地抛向四面八方。", "pred_zh": "并且砂石被猛烈地向各个方向抛散。"}
+{"id": "common_voice_en_19647962", "sentence_en": "A realisation hits and he exclaims, I see!", "ref_zh": "他恍然大悟，叫道：“我明白了!”", "pred_zh": "一种领悟油然而生，他不禁脱口而出：“我明白了！”"}
+{"id": "common_voice_en_505384", "sentence_en": "Select between line X and line Y.", "ref_zh": "在 X 轴和 Y 轴之间选择。", "pred_zh": "在X线和Y线之间选择。"}
+{"id": "common_voice_en_607920", "sentence_en": "\"\"\"And I'm certain you'll find it,\"\" the alchemist said.\"", "ref_zh": "炼金术士说：“我相信你会找到的。”", "pred_zh": "“我相信你一定会找到它，”炼金师说。"}
+{"id": "common_voice_en_18304023", "sentence_en": "Please consult your physician if you experience any side effects.", "ref_zh": "如果你有任何副作用，请咨询医生。", "pred_zh": "如果您出现任何副作用，请咨询您的医生。"}
+{"id": "common_voice_en_454129", "sentence_en": "\"Experts of geology agree: Yesterday's tsunami was just a herald of the imminent apocalypse.\"", "ref_zh": "地质学专家同意：昨天的海啸只是即将来临的大灾难的一个预兆。", "pred_zh": "\"地质专家们一致认为：昨天的海啸只是即将来临的末日的前兆。\""}
+{"id": "common_voice_en_18302201", "sentence_en": "Antarctica is cold at this time of year.", "ref_zh": "每年的这个时候南极洲都很冷。", "pred_zh": "此时南极洲很冷。"}
+{"id": "common_voice_en_532861", "sentence_en": "A man stands with on foot elevated onto a step in front of a small fire.", "ref_zh": "一个人站在一个小火炉前的一个台阶上。", "pred_zh": "一个男人站在一个脚抬高放在台阶上，面前有一小堆火。"}
+{"id": "common_voice_en_17258243", "sentence_en": "The pin number is three, seven, two, six.", "ref_zh": "密码是三、七、二、六。", "pred_zh": "密码是三，七，二，六。"}
+{"id": "common_voice_en_602296", "sentence_en": "To do that successfully, I must have no fear of failure.", "ref_zh": "要成功地做到这一点，我不能害怕失败。", "pred_zh": "要做到这一点，我必须不怕失败。"}
+{"id": "common_voice_en_96065", "sentence_en": "The thought was so dreadful to him that he forgot about the heat and went forward.", "ref_zh": "这个想法对他而言太可怕了，以至于他忘记了炎热，继续向前走去。", "pred_zh": "这个想法令他极其恐惧，以至于他忘记了炎热，继续向前走。"}
+{"id": "common_voice_en_19961022", "sentence_en": "At least six De Winton locomotives have been preserved.", "ref_zh": "至少有六辆德温顿机车保留下来。", "pred_zh": "至少有六台德温特蒸汽机车被保存下来。"}
+{"id": "common_voice_en_19766327", "sentence_en": "\"System B, however, does not depend explicitly on \"\"t\"\" so it is time-invariant.\"", "ref_zh": "然而，系统 B并不明确地依赖于“t”，所以它是非时变的。", "pred_zh": "然而，系统B并不显式依赖于“t”，因此它是时间不变的。"}
+{"id": "common_voice_en_653565", "sentence_en": "\"I don't want anything for myself.\"", "ref_zh": "我不想为自己谋取任何东西。", "pred_zh": "“我自己什么都不想要。”"}
+{"id": "common_voice_en_19132782", "sentence_en": "Japan is a society awash in information.", "ref_zh": "日本是一个信息泛滥的社会。", "pred_zh": "日本是一个信息泛滥的社会。"}
+{"id": "common_voice_en_19041621", "sentence_en": "\"Beachley narrates the Seven Network factual series \"\"Beach Cops\"\".\"", "ref_zh": "Beachley 讲述了七个网络纪实系列“海滩警察”。", "pred_zh": "\"比奇利讲述了Seven网络的真实系列节目《海滩警察》。\""}
+{"id": "common_voice_en_18693016", "sentence_en": "William Howard was born at Hinesburg, Vermont.", "ref_zh": "William Howard 出生在佛蒙特州的海恩斯堡。", "pred_zh": "威廉·霍华德出生于佛蒙特州的海恩斯伯格。"}
+{"id": "common_voice_en_185022", "sentence_en": "They looked for the fallen mass, but found nothing.", "ref_zh": "他们寻找坠落的物体，但什么也没找到。", "pred_zh": "他们寻找坠落的物体，但一无所获。"}
+{"id": "common_voice_en_19036306", "sentence_en": "It was so small and undeveloped.", "ref_zh": "它又小又不发达。", "pred_zh": "它非常小且未开发。"}
+{"id": "common_voice_en_19598617", "sentence_en": "Ibrahim Caramel brought his yellow eye rakishly into play.", "ref_zh": "Ibrahim Caramel 顽皮地把他的黄眼睛带进了游戏。", "pred_zh": "伊布拉希姆·卡瑞姆巧妙地运用了他黄色的眼睛。"}
+{"id": "common_voice_en_141680", "sentence_en": "It seems old and wise.", "ref_zh": "它似乎既古老又明智。", "pred_zh": "它看起来既古老又智慧。"}
+{"id": "common_voice_en_32932", "sentence_en": "\"A part of me is also trying to come to terms with the fact that I won't be able to travel as much anymore.\"", "ref_zh": "我的一部分也在努力接受这样一个事实，那就是我再也不能经常旅行了。", "pred_zh": "\"我内心的一部分也试图接受我将不能再像以前那样频繁旅行的事实。\""}
+{"id": "common_voice_en_17281812", "sentence_en": "Can you imagine something more beautiful than a plastic bag swooping and floating in a breeze?", "ref_zh": "你能想象有什么东西比一个塑料袋在微风中飞舞更美丽吗?", "pred_zh": "你能想象比塑料袋在微风中飘动还要美丽的东西吗？"}
+{"id": "common_voice_en_264213", "sentence_en": "Seoul has two main airports: the Incheon International Airport as well as Gimpo International Airport.", "ref_zh": "首尔有两个主要的机场:仁川国际机场和金浦国际机场。", "pred_zh": "首尔有两个主要机场：仁川国际机场以及金浦国际机场。"}
+{"id": "common_voice_en_520217", "sentence_en": "I thought you were going to teach me some of the things you know.", "ref_zh": "我以为你会教我一些你知道的东西。", "pred_zh": "我原以为你会教我一些你懂得东西。"}
+{"id": "common_voice_en_93473", "sentence_en": "\"Maybe she didn't even remember him.\"", "ref_zh": "也许她甚至不记得他了。", "pred_zh": "“也许她甚至不记得他了。”"}
+{"id": "common_voice_en_18279996", "sentence_en": "The woman shook her head.", "ref_zh": "女人摇摇头。", "pred_zh": "woman 意思是“女人”，但在这里需要上下文来确定性别，直接翻译可能会导致歧义。如果是“女人”（女性），则翻译为“女士”，如果是普通女性，则可以翻译为“ woman”。根据上下文，这里应该是指“女士”，所以正确的翻译是：\n\n女士摇了摇头。"}
+{"id": "common_voice_en_1272597", "sentence_en": "A group of people, one of them with a guitar, were sitting by the campfire and singing songs.", "ref_zh": "一群人，其中有一个人拿着吉他，坐在篝火旁唱歌。", "pred_zh": "一群人在营火旁坐着唱歌，其中一人拿着吉他。"}
+{"id": "common_voice_en_639329", "sentence_en": "\"She looks as though she's going to come to.\"", "ref_zh": "她看起来好像要醒过来了。", "pred_zh": "“她看起来像是要来了。”"}
+{"id": "common_voice_en_589309", "sentence_en": "Tomorrow, sell your camel and buy a horse.", "ref_zh": "明天，卖掉你的骆驼，买一匹马。", "pred_zh": "明天，卖了你的骆驼买匹马。"}
+{"id": "common_voice_en_608874", "sentence_en": "\"\"\"Let's stop this,\"\" another commander said.\"", "ref_zh": "“让我们停止这一切，”另一个指挥官说。", "pred_zh": "另一个指挥官说：“让我们停止这个。”"}
+{"id": "common_voice_en_19747923", "sentence_en": "But he prevailed.", "ref_zh": "但是他占了上风。", "pred_zh": "但他最终取得了胜利。"}
+{"id": "common_voice_en_18338596", "sentence_en": "He earned extra money by renting a room in his house to a lodger", "ref_zh": "他通过把房子里的一个房间租给房客额外赚了钱", "pred_zh": "他通过将自己的房子出租一间给房客来赚取额外收入。"}
+{"id": "common_voice_en_605983", "sentence_en": "As soon as he saw me among the crowd, he called to me to come down.", "ref_zh": "他一在人群中看到我，就叫我下来。", "pred_zh": "他一看到我在人群中，就叫我下来。"}
+{"id": "common_voice_en_18942073", "sentence_en": "In this period, three family members left the group.", "ref_zh": "在此期间，三名家庭成员离开了该团体。", "pred_zh": "在这个时期，有三名家庭成员离开了这个群体。"}
+{"id": "common_voice_en_18034200", "sentence_en": "To calibrate the motion capture system, please do a T-pose.", "ref_zh": "要校准运动捕捉系统，请做一个丁字造型。", "pred_zh": "为了校准运动捕捉系统，请做一个T字形姿势。"}
+{"id": "common_voice_en_18253912", "sentence_en": "What is the height, length and width of the container?", "ref_zh": "集装箱的高度、长度和宽度是多少？", "pred_zh": "集装箱的高度、长度和宽度是多少？"}
+{"id": "common_voice_en_17282354", "sentence_en": "A short, distinct, and pointed style the opposite of legato.", "ref_zh": "与连奏相反的短而明显尖锐的风格。", "pred_zh": "一种短促、清晰且尖锐的风格，与连音形成对比。"}
+{"id": "common_voice_en_19768698", "sentence_en": "This forced many of the residents to flee the city.", "ref_zh": "这迫使许多居民逃离城市。", "pred_zh": "这迫使许多居民逃离了这座城市。"}
+{"id": "common_voice_en_679994", "sentence_en": "There were lights in the upper windows of the houses when the people went to bed.", "ref_zh": "当人们睡觉的时候，房子的上部窗户里有灯光。", "pred_zh": "当人们上床睡觉时，可以看到房屋上层窗户里的灯光。"}
+{"id": "common_voice_en_18539400", "sentence_en": "\"What's this I hear!\"", "ref_zh": "我听到的是什么！", "pred_zh": "“我听到的是什么！”"}
+{"id": "common_voice_en_17727328", "sentence_en": "\"Anna Austen asked about the acceptation of the word \"\"alliteration\"\".\"", "ref_zh": "Anna Austen 询问了“头韵”这个词的含义。", "pred_zh": "\"安娜·奥斯特询问了单词\"\"头韵\"\"的接受程度。\""}
+{"id": "common_voice_en_18488024", "sentence_en": "Do you know any Silicon Valley billionaires?", "ref_zh": "你认识硅谷的亿万富翁吗？", "pred_zh": "你知道硅谷的亿万富翁吗？"}
+{"id": "common_voice_en_151860", "sentence_en": "He noticed the unequal cooling of its surface.", "ref_zh": "他注意到它表面的不均匀冷却。", "pred_zh": "他注意到其表面冷却不均。"}
+{"id": "common_voice_en_18582681", "sentence_en": "She could not sit still.", "ref_zh": "她坐不住了。", "pred_zh": "她坐不住。"}
+{"id": "common_voice_en_625749", "sentence_en": "It seemed so safe and tranquil.", "ref_zh": "它看起来如此安全和宁静。", "pred_zh": "它看起来是如此安全和平静。"}
+{"id": "common_voice_en_171378", "sentence_en": "I read only what the birds wanted to tell me.", "ref_zh": "我只读过鸟儿想告诉我的东西。", "pred_zh": "我只读鸟儿们想告诉我的东西。"}
+{"id": "common_voice_en_17442655", "sentence_en": "Please, be humble.", "ref_zh": "请谦虚点。", "pred_zh": "请保持谦逊。"}
+{"id": "common_voice_en_17394114", "sentence_en": "Might others within your organisation have some inkling as to the their desires?", "ref_zh": "您组织中的其他人可能对他们的愿望有所了解吗？", "pred_zh": "你组织内的其他人是否也有所察觉，了解他们的愿望？"}
+{"id": "common_voice_en_18099382", "sentence_en": "The builder placed the brick onto the plank of wood, so it would bend into shape.", "ref_zh": "建筑工人把砖放在木板上，这样它就会弯曲成形。", "pred_zh": "建造者将砖块放在木板上，使其弯曲成形。"}
+{"id": "common_voice_en_176269", "sentence_en": "\"The volume wouldn't increase much further.\"", "ref_zh": "音量不会再增加了。", "pred_zh": "“音量不会再增大很多。”"}
+{"id": "common_voice_en_664151", "sentence_en": "I told you that your dream was a difficult one.", "ref_zh": "我告诉过你的，你的梦想很难实现。", "pred_zh": "我告诉过你，你的梦想是很艰难的。"}
+{"id": "common_voice_en_521512", "sentence_en": "\"\"\"Should I understand the Emerald Tablet?\"\" the boy asked.\"", "ref_zh": "\"我应该了解翡翠石碑吗？\"男孩问道。", "pred_zh": "\"我应该理解绿宝石平板吗？\"男孩问道。"}
+{"id": "common_voice_en_18338860", "sentence_en": "The flight to Australia was long.", "ref_zh": "飞往澳大利亚的航班很长。", "pred_zh": "飞行到澳大利亚花了很长时间。"}
+{"id": "common_voice_en_17250737", "sentence_en": "I could not judge for her actions, but I believe that she is right.", "ref_zh": "我无法判断她的行为，但我相信她是对的。", "pred_zh": "我对她的行为无法评判，但我相信她是正确的。"}
+{"id": "common_voice_en_19687576", "sentence_en": "These went from Mauchline to the Isle of Wight.", "ref_zh": "这些从 Mauchline 到怀特岛。", "pred_zh": "这些从马修兰运往怀特岛。"}
+{"id": "common_voice_en_19794969", "sentence_en": "\"Its motto, on the nameplate below the title, is One of America's Great Newspapers.\"", "ref_zh": "它的座右铭，在标题下面的铭牌上，是美国最伟大的报纸之一。", "pred_zh": "其口号，在标题下方的铭牌上写着：“美国伟大的报纸之一。”"}
+{"id": "common_voice_en_17912649", "sentence_en": "The grass is always greener on the other side of the fence.", "ref_zh": "篱笆另一边的草总是更绿。", "pred_zh": "篱笆那边的草总是看起来更绿。"}
+{"id": "common_voice_en_17266232", "sentence_en": "\"What's the matter with you?\"", "ref_zh": "你怎么了？", "pred_zh": "\"你怎么了？\""}
+{"id": "common_voice_en_196933", "sentence_en": "He heard a muffled grating sound and saw the black mark jerk forward an inch or so.", "ref_zh": "他听到一个低沉的光栅声，看到黑色的标记向前跳动了一英寸左右。", "pred_zh": "他听到了一个沉闷的摩擦声，然后看到那块黑色标记向前跳动了大约一英寸。"}
+{"id": "common_voice_en_572266", "sentence_en": "For at that time, it had not occurred to him that it might be hollow.", "ref_zh": "因为当时，他没有想到它可能是空心的。", "pred_zh": "当时他还没有想到这可能是空心的。"}
+{"id": "common_voice_en_17452090", "sentence_en": "\"Don't worry, I took a cab to get home safely.\"", "ref_zh": "别担心，我是坐出租车安全到家的。", "pred_zh": "“别担心，我打车回家了，很安全。”"}
+{"id": "common_voice_en_18189092", "sentence_en": "That is quite another matter.", "ref_zh": "那完全是另一回事。", "pred_zh": "那是另一回事。"}
+{"id": "common_voice_en_17262626", "sentence_en": "What made you do it?", "ref_zh": "是什么让你这么做的？", "pred_zh": "是什么让你这么做的？"}
+{"id": "common_voice_en_18659256", "sentence_en": "Harry groaned aloud; we have lost him.", "ref_zh": "Harry 大声呻吟着；我们失去了他。", "pred_zh": "哈里大声呻吟了一声；我们失去了他。"}
+{"id": "common_voice_en_18129905", "sentence_en": "Even with night-vision goggles, no target was in sight.", "ref_zh": "即使有夜视镜，也看不到目标。", "pred_zh": "即使戴着夜视仪，也没有看到任何目标。"}
+{"id": "common_voice_en_615283", "sentence_en": "What did your family have to say about it?", "ref_zh": "你的家人对此有什么看法？", "pred_zh": "你的家人对此有什么看法？"}
+{"id": "common_voice_en_18245396", "sentence_en": "\"I'd add a separate subsection which deals with this aspect.\"", "ref_zh": "我会增加一个单独的小节来处理这个方面。", "pred_zh": "\"我建议增加一个单独的子部分来处理这个问题方面。\""}
+{"id": "common_voice_en_19769935", "sentence_en": "Operation of the trunk line continued on wooden trestles.", "ref_zh": "干线在木制栈桥上继续运行。", "pred_zh": "主干线路继续使用木头搭建的桥墩运营。"}
+{"id": "common_voice_en_19249073", "sentence_en": "The other fourteen campuses are two-year campuses referred to collectively as the University College.", "ref_zh": "其他 14 个校区是两年制校区，统称为大学学院。", "pred_zh": "其余十四所校区被称为社区学院，统称为大学学院。"}
+{"id": "common_voice_en_206671", "sentence_en": "\"It's too bad that he's quickly going to forget my name, he thought.\"", "ref_zh": "他想，可惜他很快就会忘记我的名字。", "pred_zh": "“他很快就会忘了我的名字了，”他想着。"}
+{"id": "common_voice_en_356183", "sentence_en": "One picture in the gallery shows how diligent slaves erect the statue of admiral Thompson.", "ref_zh": "画廊里的一幅画展示了劳作的奴隶如何竖立汤普森上将的雕像。", "pred_zh": "画廊里的一张照片展示了奴隶们如何勤奋地建造汤普森 Admiral 的雕像。"}
+{"id": "common_voice_en_624481", "sentence_en": "Imperial diet", "ref_zh": "帝国饮食", "pred_zh": "帝国议会"}
+{"id": "common_voice_en_18191384", "sentence_en": "Bitcoin mining can be done with graphics cards or with specialized hardware.", "ref_zh": "比特币挖掘可以通过绘图卡或专用硬件来完成。", "pred_zh": "比特币挖掘可以用图形卡完成，也可以用专门的硬件设备完成。"}
+{"id": "common_voice_en_556929", "sentence_en": "And at that I told him, and he took my place.", "ref_zh": "我告诉了他，他取代了我的位置。", "pred_zh": "而我告诉他之后，他就接替了我的位置。"}
+{"id": "common_voice_en_503727", "sentence_en": "\"I thought I'd give the kids a treat.\"", "ref_zh": "我想我会给孩子们一个惊喜。", "pred_zh": "\"我想给孩子们一个惊喜。\""}
+{"id": "common_voice_en_10850", "sentence_en": "Hold your nose to keep the smell from disabling your motor functions.", "ref_zh": "捏住你的鼻子，防止气味破坏你的运动功能。", "pred_zh": "捏住鼻子以防止气味干扰你的运动功能。"}
+{"id": "common_voice_en_207029", "sentence_en": "That sounds like their problem.", "ref_zh": "这听起来像是他们的问题。", "pred_zh": "那听起来像是他们自己的问题。"}
+{"id": "common_voice_en_17726270", "sentence_en": "How can you say that?", "ref_zh": "你怎么能这么说？", "pred_zh": "你怎么能这么说？"}
+{"id": "common_voice_en_19596836", "sentence_en": "\"He claimed two wickets in England's only innings as Border were beaten comprehensively.\"", "ref_zh": "在英格兰仅有的两局中，他击出两记三柱，因为边锋被全面击败。", "pred_zh": "“他在英格兰仅有的一个 innings 中拿下了两个关键的 wicket，从而帮助 Borders 队以压倒性的优势赢得了比赛。” \n\n为了更简洁地翻译这句话，可以调整为：\n\n“他在英格兰队仅有的 innings 中拿下两个 wicket，使 Borders 队取得了全面胜利。”"}
+{"id": "common_voice_en_18944256", "sentence_en": "Before entering politics Williams was a highly successful lawyer and businessman.", "ref_zh": "在从政之前，Williams 是一名非常成功的律师和商人。", "pred_zh": "在进入政界之前，威廉姆斯是一位非常成功的律师和商人。"}
+{"id": "common_voice_en_126571", "sentence_en": "Some went away while I was there, and other people came.", "ref_zh": "我在那里的时候，有些人走了，有些人来了。", "pred_zh": "我在这里的时候有些人离开了，而其他的人又来了。"}
+{"id": "common_voice_en_630075", "sentence_en": "Tobias tried to inject contempt into his tone.", "ref_zh": "Tobias 试图在他的语气中注入轻蔑。", "pred_zh": "托比亚斯试图在语调中加入轻蔑。"}
+{"id": "common_voice_en_240426", "sentence_en": "I have to work this Saturday.", "ref_zh": "这个星期六我必须工作。", "pred_zh": "我这个周六得上班。"}
+{"id": "common_voice_en_458159", "sentence_en": "The great rulers found the squeaky grate was grating on their nerves.", "ref_zh": "伟大的统治者们发现吱吱作响的壁炉令他们心烦意乱。", "pred_zh": "伟大的统治者发现吱吱作响的铁栅栏让他们感到烦躁。"}
+{"id": "common_voice_en_662353", "sentence_en": "When the blinding dust had settled a bit, the boy trembled at what he saw.", "ref_zh": "当蒙眼的灰尘已经稍稍落了下来稍停时，那个男孩看到什么东西而发抖。", "pred_zh": "当刺眼的尘土稍微平息后，男孩颤抖着看到了眼前的一切。"}
+{"id": "common_voice_en_7255875", "sentence_en": "The early phase of life moves fast.", "ref_zh": "生命的早期发展很快。", "pred_zh": "人生的早期阶段过得很快。"}
+{"id": "common_voice_en_19686833", "sentence_en": "When the Midnight Shift apprehended him, he revealed his new origins.", "ref_zh": "当夜班人员逮捕他时，他透露了自己的新血统。", "pred_zh": "当夜班人员逮捕他时，他揭露了自己新的身世。"}
+{"id": "common_voice_en_19950105", "sentence_en": "It is one of three Swedish prisons housing the most notorious and dangerous inmates.", "ref_zh": "这是瑞典关押着最臭名昭著、最危险的囚犯的三所监狱之一。", "pred_zh": "它是瑞典三家关押最臭名昭著和危险囚犯的监狱之一。"}
+{"id": "common_voice_en_18778827", "sentence_en": "These extra cards were inserted randomly into packs.", "ref_zh": "这些额外的卡片被随机地插入包中。", "pred_zh": "这些额外的卡片被随机插入到每包中。"}
+{"id": "common_voice_en_18125371", "sentence_en": "In origin, heroin was supposed to be the “non-addictive morphine substitute.”", "ref_zh": "最初，海洛因被认为是“不会上瘾的吗啡替代品”", "pred_zh": "最初，海洛因被设计为“非成瘾性的吗啡替代品”。"}
+{"id": "common_voice_en_18139951", "sentence_en": "\"Those who don't learn from history are doomed to repeat it.\"", "ref_zh": "那些不从历史吸取经验教训的人注定要重蹈覆辙。", "pred_zh": "“那些不吸取历史教训的人注定会重蹈覆辙。”"}
+{"id": "common_voice_en_98260", "sentence_en": "I couldn’t stop staring at it.", "ref_zh": "我不停地盯着它。", "pred_zh": "我忍不住盯着它看。"}
+{"id": "common_voice_en_17864433", "sentence_en": "If we actually do want it solved, it will be.", "ref_zh": "如果我们真的想解决它，它是会解决的。", "pred_zh": "如果我们真的想解决它，它就会被解决。"}
+{"id": "common_voice_en_18109357", "sentence_en": "The fruit of a fig tree is apple shaped.", "ref_zh": "无花果树的果实是苹果形的。", "pred_zh": "fig树的果实是苹果形状的。"}
+{"id": "common_voice_en_17956817", "sentence_en": "Fair exchange is no robbery.", "ref_zh": "公平交易不是抢劫。", "pred_zh": "公平交易不算抢劫。"}
+{"id": "common_voice_en_18247590", "sentence_en": "What you eat today walks and talks tomorrow.", "ref_zh": "你今天吃的东西，明天就能走路说话。", "pred_zh": "你今天吃的是，明天的走路说话的人。"}
+{"id": "common_voice_en_534603", "sentence_en": "\"Why didn't you say something?\"", "ref_zh": "你为什么不说些什么？", "pred_zh": "\"你为什么不早点说？\""}
+{"id": "common_voice_en_17798541", "sentence_en": "Have you seen Omar?", "ref_zh": "你见过奥马尔吗？", "pred_zh": "你见过奥马尔吗？"}
+{"id": "common_voice_en_17922905", "sentence_en": "I could go on for days about the delicious wines produced in this part of the world.", "ref_zh": "我可以连续几天谈论世界这一地区出产的美味葡萄酒。", "pred_zh": "我可以滔滔不绝地介绍这个地区生产的美味葡萄酒。"}
+{"id": "common_voice_en_19747437", "sentence_en": "The Act did not prohibit paying a representative to appear in court.", "ref_zh": "该法案并没有禁止花钱请代理人出庭。", "pred_zh": "该法案并未禁止支付代表出庭的费用。"}
+{"id": "common_voice_en_19973905", "sentence_en": "Lombardi was born in Frugarolo, a small town in Piedmont.", "ref_zh": "Lombardi 出生在 Frugarolo，它是皮埃蒙特的一个小镇。", "pred_zh": "伦巴第出生在皮埃蒙特地区的一个小城镇弗古拉罗。"}
+{"id": "common_voice_en_17347856", "sentence_en": "Can we please leave now?", "ref_zh": "我们可以走了吗？", "pred_zh": "我们可以现在离开吗？"}
+{"id": "common_voice_en_19637973", "sentence_en": "Turpin succeeded Indira Samarasekera, who saw the university through a period of strong growth.", "ref_zh": "Turpin 接替了 Indira Samarasekera，后者见证了该大学的强劲发展。", "pred_zh": "特尔普接替了印度·萨马塞克拉的工作，后者带领大学度过了一个快速增长的时期。"}
+{"id": "common_voice_en_699466", "sentence_en": "Here I am, between my flock and my treasure, the boy thought.", "ref_zh": "我在这里，在我的羊群和我的财宝之间，男孩想。", "pred_zh": "我就在这儿，介于我的羊群和我的宝贝之间，男孩想。"}
+{"id": "common_voice_en_18266024", "sentence_en": "Why does that plane keep going over?", "ref_zh": "为什么那架飞机一直飞过？", "pred_zh": "为什么那架飞机老是飞过来？"}
+{"id": "common_voice_en_131269", "sentence_en": "\"I've done this before with VirtualBox with good results.\"", "ref_zh": "我以前用 VirtualBox 做过这个，效果很好。", "pred_zh": "“我之前用VirtualBox做过，效果不错。”"}
+{"id": "common_voice_en_17273670", "sentence_en": "What did you eat for dinner?", "ref_zh": "你晚餐吃了什么？", "pred_zh": "你晚餐吃了什么？"}
+{"id": "common_voice_en_19477044", "sentence_en": "It then returns to the church, ascends at the altar and disappears.", "ref_zh": "然后它回到教堂，在圣坛上升并消失。", "pred_zh": "然后它返回到教堂，登上祭坛消失不见了。"}
+{"id": "common_voice_en_350841", "sentence_en": "You cannot lose what you never had.", "ref_zh": "你不能失去你从未拥有的东西。", "pred_zh": "你从未拥有过的东西你也不会失去。"}
+{"id": "common_voice_en_540082", "sentence_en": "\"That's the kind of stuff they want.\"", "ref_zh": "那是他们想要的东西。", "pred_zh": "“这就是他们想要的。”"}
+{"id": "common_voice_en_18210900", "sentence_en": "Hope for the best and prepare for the worst.", "ref_zh": "抱最大的希望，做最坏的打算。", "pred_zh": "希望最好，准备最坏。"}
+{"id": "common_voice_en_19618682", "sentence_en": "Initially, the weight loss was attained strictly by diet.", "ref_zh": "最初，减肥完全是通过饮食来实现的。", "pred_zh": "最初，减肥完全是通过饮食实现的。"}
+{"id": "common_voice_en_17268027", "sentence_en": "Will it rain tomorrow?", "ref_zh": "明天会下雨吗？", "pred_zh": "明天下雨吗？"}
+{"id": "common_voice_en_19547275", "sentence_en": "The Beaver River briefly enters the east-central part of the township.", "ref_zh": "比弗河短暂地流入该镇的中东部。", "pred_zh": "Beaver河短暂流经该镇的东中部。"}
+{"id": "common_voice_en_19118303", "sentence_en": "\"This bridge is unofficially referred to as \"\"Blackwater Bridge\"\" by Coalition Forces operating there.\"", "ref_zh": "这座桥被那里的联军非正式地称为“黑水桥”。", "pred_zh": "“这座桥在当地联军部队中非正式地被称为‘黑水桥’。”"}
+{"id": "common_voice_en_3427", "sentence_en": "\"\"\"This is the first phase of the job,\"\" he said.\"", "ref_zh": "“这是这项工作的第一阶段，”他说。", "pred_zh": "他说：“这是工作的第一阶段。”"}
+{"id": "common_voice_en_216062", "sentence_en": "The two large dogs are running through sand.", "ref_zh": "两条大狗正在沙地里奔跑。", "pred_zh": "两只大狗在沙子里奔跑。"}
+{"id": "common_voice_en_2611201", "sentence_en": "\"The actor's authentic facial expression was convincing the jury.\"", "ref_zh": "演员真实的面部表情让陪审团信服。", "pred_zh": "\"演员的真实面部表情说服了陪审团。\""}
+{"id": "common_voice_en_19451197", "sentence_en": "All songs written by Neal Morse except where noted.", "ref_zh": "这是 Neal Morse 写的所有歌曲，注明的除外。", "pred_zh": "所有歌曲均由Neal Morse作词，除非另有说明。"}
+{"id": "common_voice_en_18011638", "sentence_en": "Kirsten shrugged her shoulders.", "ref_zh": "Kirsten 耸了耸肩。", "pred_zh": "Kirsten � 抖了抖肩膀。"}
+{"id": "common_voice_en_19747785", "sentence_en": "The Conservatives fell to seven seats provincially, and Kennedy remained an opposition member.", "ref_zh": "保守党在各省的席位减少至 7 席，肯尼迪仍然是反对党成员。", "pred_zh": "保守党在省级选举中失去了七个席位，而肯尼迪仍是一名反对党成员。"}
+{"id": "common_voice_en_67966", "sentence_en": "She crouched down to lace her shoes and spotted a four leaf clover.", "ref_zh": "她蹲下来系鞋带，发现了一棵四叶草。", "pred_zh": "她蹲下系鞋带，发现了一片四叶草。"}
+{"id": "common_voice_en_18714427", "sentence_en": "The city took its name after one of these colonists, Phanagoras.", "ref_zh": "这座城市以其中一个殖民者——Phanagoras 命名。", "pred_zh": "这座城市是以这些殖民地居民中的一个人Phanagoras的名字命名的。"}
+{"id": "common_voice_en_4988538", "sentence_en": "Guess the result from the first scores.", "ref_zh": "从第一个分数猜测结果。", "pred_zh": "根据最初的比分猜结果。"}
+{"id": "common_voice_en_17513226", "sentence_en": "Can I pay in cash?", "ref_zh": "我可以用现金支付吗？", "pred_zh": "我可以现金支付吗？"}
+{"id": "common_voice_en_17972773", "sentence_en": "\"If you tell me why you came here, I'll show you the project I've been working on.\"", "ref_zh": "如果你告诉我你为什么来这里，我会给你看我一直在做的项目。", "pred_zh": "“如果你告诉我你为什么来这里，我就给你看看我一直在做的那个项目。”"}
+{"id": "common_voice_en_200392", "sentence_en": "I was scared, but wasted no time in going out and crossing the bridge to the sand pits.", "ref_zh": "我很害怕，但还是不失时机地出去，穿过桥来到这些沙坑。", "pred_zh": "我害怕，但没有浪费时间，直接出去过了桥到了沙坑。"}
+{"id": "common_voice_en_19816222", "sentence_en": "Due to its path, scientists theorized that Kohoutek was an Oort-cloud object.", "ref_zh": "由于它的路径，科学家理论上认为科胡特克彗星是奥尔特云物体。", "pred_zh": "由于其运行轨迹，科学家们推测柯伊伯特是一颗奥尔特云物体。"}
+{"id": "common_voice_en_18009607", "sentence_en": "Use not today what tomorrow will need.", "ref_zh": "不要把明天需要的东西用在今天。", "pred_zh": "不要今天就用掉明天也需要的东西。"}
+{"id": "common_voice_en_18222295", "sentence_en": "A whiff of it will cure the most stubborn cold.", "ref_zh": "一点点就能治好最顽固的感冒。", "pred_zh": "一点就能治愈最顽固的感冒。"}
+{"id": "common_voice_en_19451160", "sentence_en": "Writing across the curriculum is a school-wide initiative.", "ref_zh": "贯穿整个课程的写作是一项全校性的举措。", "pred_zh": "跨学科写作是全校性的倡议。"}
+{"id": "common_voice_en_101198", "sentence_en": "The leopard does not change his spots.", "ref_zh": "江山易改，本性难移。", "pred_zh": "leopard 不改斑点 。 \n\n更常见的表达是：\n leopard 依然保持着它的斑点。 或者\n 一个人的本质是不会改变的。"}
+{"id": "common_voice_en_585968", "sentence_en": "She biked home, smiling all the way, knowing that she had won.", "ref_zh": "她骑车回家，一路上面带微笑，知道自己赢了。", "pred_zh": "她骑车回家，一路上都在笑，知道她赢了。"}
+{"id": "common_voice_en_98284", "sentence_en": "His hands were abraded and exhausted, but he listened to his heart.", "ref_zh": "他的手擦伤了，他筋疲力尽，但他倾听自己的心声。", "pred_zh": "他的手磨破了，感到疲惫，但听从了内心。"}
+{"id": "common_voice_en_18692861", "sentence_en": "It is a tourist destination, and fishing, camping and other activities are permitted.", "ref_zh": "这是一个旅游目的地，允许钓鱼、露营和进行其他活动。", "pred_zh": "它是一个旅游目的地，允许进行钓鱼、野营以及其他活动。"}
+{"id": "common_voice_en_18011378", "sentence_en": "I am sorry for it.", "ref_zh": "对此我很抱歉。", "pred_zh": "对不起。"}
+{"id": "common_voice_en_699382", "sentence_en": "The table was adorned with lavish decorations.", "ref_zh": "桌子上装饰着奢华的装饰品。", "pred_zh": "桌子摆满了豪华的装饰。"}
+{"id": "common_voice_en_590515", "sentence_en": "The boy looked around him at the date palms.", "ref_zh": "男孩看着周围的椰枣树。", "pred_zh": "男孩环顾四周，看着日期 palm（注：日期应为“日期”或“棕榈”中的一个，此处假设为“棕榈”）。正确的句子应该是：\n\n男孩环顾四周，看着周围的棕榈树。"}
+{"id": "common_voice_en_17300202", "sentence_en": "\"\"\"Never to come on a green twig;\"\" not to get on in the world.\"", "ref_zh": "“永远不要出现在一根绿枝上”不要在这个世界上混下去。", "pred_zh": "“不生青梢；不成器。”"}
+{"id": "common_voice_en_19596930", "sentence_en": "Their presence was necessary because of strong civil unrest in the area.", "ref_zh": "他们的存在是必要的，因为该地区发生了强烈的内乱。", "pred_zh": "他们的存在是因为该地区存在严重的社会动荡。"}
+{"id": "common_voice_en_214166", "sentence_en": "The newspaper articles had prepared everyone for the reception of the idea.", "ref_zh": "报纸上的文章使每个人都为接受这个理念做好了准备。", "pred_zh": "报纸文章已经为接受这个想法做了准备。"}
+{"id": "common_voice_en_19614753", "sentence_en": "The Attock Campus has gained a commendable reputation in a short time.", "ref_zh": "Attock 校园在短时间内获得了值得称赞的声誉。", "pred_zh": "阿托克校区在短时间内赢得了良好的声誉。"}
+{"id": "common_voice_en_19616280", "sentence_en": "Braddock Heights is part of the Middletown School District.", "ref_zh": "Braddock 高地是米德尔顿学区的一部分。", "pred_zh": "布雷德福 Heights 属于middletown学区。"}
+{"id": "common_voice_en_669288", "sentence_en": "men that are not included in the line, the reserve, Militia Never mind, Farewell", "ref_zh": "不在队伍里的人，预备役，民兵，没关系，再见", "pred_zh": "不在编制内、预备役、民兵这些人员，就此告别。"}
+{"id": "common_voice_en_18776674", "sentence_en": "After the season, he became a free agent.", "ref_zh": "赛季结束后，他成为了自由球员。", "pred_zh": "赛季结束后，他成为自由球员。"}
+{"id": "common_voice_en_18833945", "sentence_en": "He was killed by Nicaea.", "ref_zh": "他被 Nicaea 杀死了。", "pred_zh": "他在尼卡亚被杀。"}
+{"id": "common_voice_en_17854891", "sentence_en": "The sun shines on both sides of the hedge.", "ref_zh": "阳光照射在树篱的两边。", "pred_zh": "篱笆两边都是阳光。"}
+{"id": "common_voice_en_250", "sentence_en": "\"It's hard to compare something necessary and mundane with something I'm excited about.\"", "ref_zh": "很难将一些必要的和平凡的事情与我感兴趣的事情相提并论。", "pred_zh": "“把一种必不可少但又平常的事物与我感到兴奋的事情相比是很难的。”"}
+{"id": "common_voice_en_20060201", "sentence_en": "There was also a prosperous manufacture of starch belonging to the Legrain family.", "ref_zh": "莱格兰家族的淀粉生产也很兴旺。", "pred_zh": "勒格兰家族也有一个繁荣的淀粉制造业。"}
+{"id": "common_voice_en_17270533", "sentence_en": "Where did you find that apple?", "ref_zh": "你在哪里找到那个苹果的？", "pred_zh": "你在哪里找到那个苹果？"}
+{"id": "common_voice_en_17270618", "sentence_en": "Where are they now?", "ref_zh": "他们现在在哪里？", "pred_zh": "他们现在在哪里？"}
+{"id": "common_voice_en_17821885", "sentence_en": "Another pot ! Try the teapot.", "ref_zh": "又一口锅！试试茶壶。", "pred_zh": "又一个茶壶！试试这个茶壶。"}
+{"id": "common_voice_en_19695254", "sentence_en": "Miller later wrote that the strategy was faultless on paper.", "ref_zh": "Miller 后来写道，该战略在理论上是完美的。", "pred_zh": "米勒后来写道，这一策略在纸上是无懈可击的。"}
+{"id": "common_voice_en_13635750", "sentence_en": "That damn mouse could sense my anger.", "ref_zh": "那只该死的老鼠能感觉到我的愤怒。", "pred_zh": "那只该死的老鼠能感觉到我的愤怒。"}
+{"id": "common_voice_en_13812908", "sentence_en": "You know, gifts are, by definition, free.", "ref_zh": "你知道，很明显，礼物是免费的。", "pred_zh": "你知道，礼物本质上是免费的。"}
+{"id": "common_voice_en_19693201", "sentence_en": "Through Effingham it is Fayette Avenue and Willow Street.", "ref_zh": "穿过埃芬厄姆，就是费耶特大街和柳树街。", "pred_zh": "通过Effingham是Fayette大街和Willow街。"}
+{"id": "common_voice_en_19954083", "sentence_en": "The artist made a mistake with the boundaries between Peru and Ecuador.", "ref_zh": "这位艺术家弄错了秘鲁和厄瓜多尔的边界。", "pred_zh": "艺术家在秘鲁和厄瓜多尔的边界之间画错了线。"}
+{"id": "common_voice_en_19464263", "sentence_en": "It grows along the borders of lakes, ponds and streams and in marshes.", "ref_zh": "它沿着湖泊、池塘、溪流和沼泽的边缘生长。", "pred_zh": "它生长在湖泊、池塘和溪流的边缘以及沼泽地中。"}
+{"id": "common_voice_en_17270648", "sentence_en": "To her amazement, she found a supermarket trolley lying on the seabed.", "ref_zh": "令她惊讶的是，她发现一辆超市手推车沉在海底。", "pred_zh": "令她惊讶的是，她在海底发现了一辆超市手推车。"}
+{"id": "common_voice_en_17939383", "sentence_en": "The news was chilling, to say the least.", "ref_zh": "至少可以说，这个消息令人不寒而栗。", "pred_zh": "消息令人震惊，至少可以说。"}
+{"id": "common_voice_en_18262555", "sentence_en": "I have Celtic ancestry.", "ref_zh": "我有凯尔特血统。", "pred_zh": "我有凯尔特血统。"}
+{"id": "common_voice_en_479690", "sentence_en": "\"That's true, the boy thought.\"", "ref_zh": "那是真的，男孩想。", "pred_zh": "“那是对的，男孩想。”"}
+{"id": "common_voice_en_179143", "sentence_en": "They could barely see the boy.", "ref_zh": "他们几乎看不见那个男孩。", "pred_zh": "他们几乎看不见那个男孩。"}
+{"id": "common_voice_en_17266332", "sentence_en": "Toffee coated all the surfaces, it was disgustingly sticky.", "ref_zh": "太妃糖覆盖了所有的表面，非常粘，令人讨厌。", "pred_zh": "太妃糖覆盖了所有表面，粘得令人作呕。"}
+{"id": "common_voice_en_546260", "sentence_en": "I got drunk yesterday and thought I built a super computer.", "ref_zh": "我昨天喝醉了，以为我造了一台超级电脑。", "pred_zh": "我昨天喝醉了，觉得自己造了一台超级计算机。"}
+{"id": "common_voice_en_17285961", "sentence_en": "Why are gully covers round?", "ref_zh": "为什么泄水沟盖是圆的？", "pred_zh": "为什么沟盖板是圆的？"}
+{"id": "common_voice_en_18274482", "sentence_en": "The questionnaire is too simplistic.", "ref_zh": "问卷太简单了。", "pred_zh": "问卷过于简单化。"}
+{"id": "common_voice_en_1580525", "sentence_en": "What is the matter?", "ref_zh": "怎么了？", "pred_zh": "有什么事吗？"}
+{"id": "common_voice_en_490419", "sentence_en": "In a little while.", "ref_zh": "一会儿。", "pred_zh": "一会儿。"}
+{"id": "common_voice_en_19326078", "sentence_en": "\"Especially Liddell Hart wrote many books about the subject, partly propagating Fuller's theories.\"", "ref_zh": "尤其是 Liddell Hart 写了许多关于这个主题的书，部分地宣传了 Fuller 的理论。", "pred_zh": "\"尤其是利德尔·哈特写了大量关于这一主题的书籍，部分原因是宣传富勒的理论。\""}
+{"id": "common_voice_en_658583", "sentence_en": "\"You'd better get your friends.\"", "ref_zh": "你最好去找你的朋友。", "pred_zh": "\"你最好把你的朋友叫上来。\""}
+{"id": "common_voice_en_287747", "sentence_en": "I heard the land where the hobbits live, the Shire, has actually been filmed in New Zealand.", "ref_zh": "我听说霍比特人居住的地方夏尔实际上是在新西兰拍摄的。", "pred_zh": "我听说霍比特人居住的夏尔其实是在那里拍摄的，是在新西兰拍的。"}
+{"id": "common_voice_en_558785", "sentence_en": "I wish I could go back to the hospital.", "ref_zh": "我希望我能回到医院。", "pred_zh": "我wish我想回到医院去。"}
+{"id": "common_voice_en_684752", "sentence_en": "\"Don't press the red button!\"", "ref_zh": "不要按红色按钮！", "pred_zh": "“不要按红色按钮！”"}
+{"id": "common_voice_en_443534", "sentence_en": "The illumination created a cozy atmosphere.", "ref_zh": "灯饰创造了一种舒适的气氛。", "pred_zh": "照明创造了一个温馨的氛围。"}
+{"id": "common_voice_en_12163032", "sentence_en": "John looked out the window of the show-house, happy he had mortgage approval, but worried about the repayments.", "ref_zh": "约翰望着橱窗外的房子，很高兴他的抵押贷款得到了批准，但又担心要还的贷款。", "pred_zh": "约翰看着样板房的窗户，高兴自己已经获得了按揭批准，但又担心还款问题。"}
+{"id": "common_voice_en_19345521", "sentence_en": "\"She noted that Rwanda was \"\"not looking for revenge\"\".\"", "ref_zh": "她指出，卢旺达“不是在寻求报复”。", "pred_zh": "“她指出，卢旺达‘并不寻求复仇’。”"}
+{"id": "common_voice_en_17857209", "sentence_en": "If anything can go wrong, it will.", "ref_zh": "如果有什么事情会出错，那一定会。", "pred_zh": "如果有任何事情可能出错，它就会出错。"}
+{"id": "common_voice_en_664616", "sentence_en": "I have the diet of a kid who found twenty dollars.", "ref_zh": "我有一个发现了二十美元的孩子的食谱。", "pred_zh": "我就像找到二十美元的 kid 一样饮食。"}
+{"id": "common_voice_en_169237", "sentence_en": "An old man in a yellow shirt standing in a doorway.", "ref_zh": "一个穿着黄色衬衫的老人站在门口。", "pred_zh": "一位穿着黄色衬衫的老人站在门道里。"}
+{"id": "common_voice_en_16759015", "sentence_en": "\"\"", "ref_zh": "", "pred_zh": "空"}
+{"id": "common_voice_en_18330877", "sentence_en": "Cathy took two hundred and ten pounds out of her bank account,", "ref_zh": "凯茜从她的银行账户中取出 210 英镑，", "pred_zh": "凯西从她的银行账户里取了二百十英镑。"}
+{"id": "common_voice_en_8957952", "sentence_en": "Make hay while the sun shines.", "ref_zh": "趁晴晒草，抓紧时机。", "pred_zh": "趁太阳 shining 时割草。 \n\n注：这里的\"sun shines\"是一个习语，直译为“太阳 shining”，在中文中更自然的表达是保留这个习语的意思，即“趁太阳好的时候”。所以更常见的翻译是：“趁太阳好的时候割草。”"}
+{"id": "common_voice_en_18180240", "sentence_en": "Desperate diseases must have desperate remedies.", "ref_zh": "绝症须用绝药医(在非常时刻必须采取非常手段) 。", "pred_zh": "绝望的疾病需要绝望的疗法。"}
+{"id": "common_voice_en_75748", "sentence_en": "Henderson was taking it in.", "ref_zh": "Henderson 接受了。", "pred_zh": "亨德森正在接受它。"}
+{"id": "common_voice_en_18343883", "sentence_en": "\"But we'll just postpone this.\"", "ref_zh": "但是我们会推迟的。", "pred_zh": "\"但我们只能把这个推迟一下了。\""}
+{"id": "common_voice_en_18523329", "sentence_en": "The Queen will hear you.", "ref_zh": "女王会听到你的。", "pred_zh": "女王会听你的。"}
+{"id": "common_voice_en_329504", "sentence_en": "Our group played guitars while the others randomly hit resonant objects.", "ref_zh": "我们组演奏吉他，而其他人随机敲击共振物体。", "pred_zh": "我们的小组弹奏吉他，而其他人则随机敲击共振物体。"}
+{"id": "common_voice_en_4495636", "sentence_en": "Nothing lost for lack of asking", "ref_zh": "不闻不问，何所失", "pred_zh": "nothing 因为没有询问而丢失。"}
+{"id": "common_voice_en_697653", "sentence_en": "It would be ideal if the WiFi were gratis.", "ref_zh": "如果 WiFi 是免费的，那就太理想了。", "pred_zh": "如果WiFi是免费提供的会更好。"}
+{"id": "common_voice_en_17685828", "sentence_en": "Can I get you a drink?", "ref_zh": "要喝点什么吗?", "pred_zh": "我可以给你拿杯 drink 吗？（根据具体的饮品类型，需要替换为具体的饮品名称，例如：我可以给你拿杯水吗？/我可以给你拿杯茶吗？）"}
+{"id": "common_voice_en_17762228", "sentence_en": "To fall into the house with the door to blurt out something to put it bluntly.", "ref_zh": "开门进屋脱口而出直截了当地说。", "pred_zh": "直截了当地说，就是闯入房间然后脱口说出一些话。"}
+{"id": "common_voice_en_43186", "sentence_en": "I want my baby to look like you.", "ref_zh": "我希望我的孩子长得像你。", "pred_zh": "我想要我的宝宝长成你这样的样子。"}
+{"id": "common_voice_en_193582", "sentence_en": "Then the two went off to have some more tea.", "ref_zh": "然后两个人又去喝了些茶。", "pred_zh": "然后两人又去喝了些茶。"}
+{"id": "common_voice_en_17866026", "sentence_en": "Some scientists believe the origin of this oscillating signal to be a neutron star.", "ref_zh": "一些科学家认为这种振荡信号的起源是中子星。", "pred_zh": "一些科学家认为这种振荡信号的来源是中子星。"}
+{"id": "common_voice_en_18274134", "sentence_en": "How do I close this window?", "ref_zh": "我如何关闭这个窗口？", "pred_zh": "如何关闭这个窗口？"}
+{"id": "common_voice_en_19062822", "sentence_en": "He died of a mysterious illness or, according to some sources, a snakebite.", "ref_zh": "他死于一种神秘的疾病，或者，根据一些消息来源，死于蛇咬伤。", "pred_zh": "他死于一种神秘的疾病，或者根据某些资料，是被蛇咬死的。"}
+{"id": "common_voice_en_623620", "sentence_en": "I have already described the appearance of that colossal bulk which was embedded in the ground.", "ref_zh": "我已经描述了埋在地下的那个巨大物体的外观。", "pred_zh": "我已经描述过那个嵌入地面的巨大身躯的外观。"}
+{"id": "common_voice_en_19371512", "sentence_en": "The university belongs to the Council of Rectors of Traditional Chilean Universities.", "ref_zh": "该大学属于智利传统大学校长理事会。", "pred_zh": "该大学属于传统智利大学校长理事会。"}
+{"id": "common_voice_en_18770692", "sentence_en": "The next day, the mine opens and work begins.", "ref_zh": "第二天，矿井打开，工作开始了。", "pred_zh": "第二天，矿井开启，工作开始。"}
+{"id": "common_voice_en_19540621", "sentence_en": "One of them, Ashur-nadin-apli, would succeed him on the throne.", "ref_zh": "其中一个，Ashur-nadin-apli，将继承他的王位。", "pred_zh": "其中一位，阿舒尔-纳丁-阿普利（Ashur-nadin-apli），将会继承他的王位。"}
+{"id": "common_voice_en_19949408", "sentence_en": "Usually, town members adorn the town streets with colorful decorations and other things.", "ref_zh": "通常，镇上的成员用彩色的装饰品和其他东西来装饰街道。", "pred_zh": "通常，镇上的居民会装饰街道，挂上五彩缤纷的装饰品和其他物品。"}
+{"id": "common_voice_en_18504848", "sentence_en": "The boy threw back his head with pride.", "ref_zh": "男孩骄傲地仰起头。", "pred_zh": "男孩骄傲地仰起了头。"}
+{"id": "common_voice_en_111963", "sentence_en": "He had suddenly remembered that, in Tarifa, there was an old woman who interpreted dreams.", "ref_zh": "他突然想起，在 Tarifa，有一个老女人解梦。", "pred_zh": "他突然想起，在塔里法有一个老妇人能解释梦境。"}
+{"id": "common_voice_en_17822648", "sentence_en": "No one paid any attention to him.", "ref_zh": "没有人注意他。", "pred_zh": "没有人注意到他。"}
+{"id": "common_voice_en_208488", "sentence_en": "I left my father, my mother, and the town castle behind.", "ref_zh": "我离开了我的父亲、母亲和城堡。", "pred_zh": "我留下了父亲、母亲以及镇上的城堡。"}
+{"id": "common_voice_en_19641122", "sentence_en": "\"Stout's political career started with his election to the Otago Provincial Council.\"", "ref_zh": "Stout 的政治生涯始于他当选奥塔哥省议会议员。", "pred_zh": "斯图特的政治生涯始于他当选奥塔哥省议会。"}
+{"id": "common_voice_en_83205", "sentence_en": "The boy could certainly resist causing that kind of anxiety for the baker.", "ref_zh": "这个男孩当然不会给面包师带来那种焦虑。", "pred_zh": "这个男孩当然不会故意让面包师感到那样的焦虑。"}
+{"id": "common_voice_en_18155363", "sentence_en": "Fake stones shine but cost little.", "ref_zh": "假宝石闪闪发光，但价格低廉。", "pred_zh": "假石发光但成本低廉。"}
+{"id": "common_voice_en_18014311", "sentence_en": "\"One of the world's biggest problems is the growth of the human population.\"", "ref_zh": "世界上最大的问题之一是人口的增长。", "pred_zh": "“人类人口的增长是世界上一个最大的问题之一。”"}
+{"id": "common_voice_en_17356834", "sentence_en": "And who are you?", "ref_zh": "你是谁？", "pred_zh": "你是谁？"}
+{"id": "common_voice_en_19642043", "sentence_en": "A court date is yet to be set.", "ref_zh": "开庭日期尚未确定。", "pred_zh": "法庭日期尚未确定。"}
+{"id": "common_voice_en_587112", "sentence_en": "What he said reminded the boy of the old king.", "ref_zh": "他说的话让男孩想起了老国王。", "pred_zh": "他所说的话让男孩想起了老国王。"}
+{"id": "common_voice_en_18485414", "sentence_en": "I need to refer to my notes at this point.", "ref_zh": "在这一点上我需要参考下我的笔记。", "pred_zh": "我现在需要参考我的笔记。"}
+{"id": "common_voice_en_114319", "sentence_en": "The boy laughed — out of happiness.", "ref_zh": "男孩笑了——出于幸福。", "pred_zh": "男孩笑了——那是幸福的笑声。"}
+{"id": "common_voice_en_18649762", "sentence_en": "Remotely lock my car.", "ref_zh": "遥控锁住我的车。", "pred_zh": "远程锁定我的车。"}
+{"id": "common_voice_en_42452", "sentence_en": "Hey, what do you say?", "ref_zh": "嘿，你说呢？", "pred_zh": "嘿，你怎么说？"}
+{"id": "common_voice_en_511317", "sentence_en": "And what became of him?", "ref_zh": "他后来怎么样了？", "pred_zh": "他后来怎么样了？"}
+{"id": "common_voice_en_18057388", "sentence_en": "Compare the checksum to verify its integrity.", "ref_zh": "比较校验和以验证其完整性。", "pred_zh": "比较校验和以验证其完整性。"}
+{"id": "common_voice_en_39175", "sentence_en": "\"\"\"Why did you want to see me?\"\" the boy asked.\"", "ref_zh": "“你为什么想见我？”男孩问道。", "pred_zh": "\"你为什么想见我？\"男孩问道。"}
+{"id": "common_voice_en_18154502", "sentence_en": "\"Aren't the two rather intertwined?\"", "ref_zh": "这两者不是很纠结吗？", "pred_zh": "\"这两个不是彼此交织在一起的吗？\""}
+{"id": "common_voice_en_18124933", "sentence_en": "Also there was a decrease in trade interest between east and west.", "ref_zh": "东西方之间的贸易利益也有所下降。", "pred_zh": "东西方之间的贸易兴趣也有所下降。"}
+{"id": "common_voice_en_19994389", "sentence_en": "Many see this as a sign of growing reconciliation on the grass-roots level.", "ref_zh": "许多人认为这是基层变得日益和解的标志。", "pred_zh": "许多人认为这是民间和解日益加深的迹象。"}
+{"id": "common_voice_en_169749", "sentence_en": "It took him a while to get to the office.", "ref_zh": "他花了一段时间才到达办公室。", "pred_zh": "他花了些时间才到办公室。"}
+{"id": "common_voice_en_573812", "sentence_en": "Add autry inman to my Hanging Out and Relaxing playlist.", "ref_zh": "在我的“过把瘾”和“放松”播放列表中添加 autry inman。", "pred_zh": "将Autry Inman 加入我的休闲播放列表。"}
+{"id": "common_voice_en_18478719", "sentence_en": "So now, as I say, the talk rather hung fire.", "ref_zh": "所以现在，正如我所说的，谈话悬而未决。", "pred_zh": "所以现在，如我所说，谈话有些拖延了。"}
+{"id": "common_voice_en_503430", "sentence_en": "Proteins have many functions in the human body.", "ref_zh": "蛋白质在人体内有许多功能。", "pred_zh": "蛋白质在人体中有许多功能。"}
+{"id": "common_voice_en_19125679", "sentence_en": "The song was written by Rich Cronin, Dow Brain, and Brad Young.", "ref_zh": "这首歌是由 Rich Cronin、 Dow Brain 和 Brad Young 创作的。", "pred_zh": "这首歌由Rich Cronin、Dow Brain和Brad Young创作。"}
+{"id": "common_voice_en_18828505", "sentence_en": "Five peaks overlooked on that list are indicated with an asterisk.", "ref_zh": "该列表中被忽略的五个峰值用星号表示。", "pred_zh": "那份名单中被五座山峰所 overlooking 应该翻译为“那份名单中被列为五座山峰的，则用*号标注”。但是更自然的表达方式是：“那份名单中还有五座山峰被特别标注出来，用*号表示。” \n\n所以最终的翻译可以是：\n\n那份名单中还有五座山峰被特别标注出来，用*号表示。"}
+{"id": "common_voice_en_93470", "sentence_en": "My mind ran on the possibilities of its content.", "ref_zh": "我在思考它内容的可能性。", "pred_zh": "我的思绪在它的内容上驰骋。"}
+{"id": "common_voice_en_17860890", "sentence_en": "\"When you're at a party and somebody says \"\"banana bread\"\", a sniper might be near you.\"", "ref_zh": "当你在派对上，有人说“香蕉面包”时，狙击手可能就在你身边。", "pred_zh": "“当你在聚会上听到有人提到‘香蕉面包’时，附近可能有一个狙击手。”"}
+{"id": "common_voice_en_19947235", "sentence_en": "Large packets are also problematic in the presence of communications errors.", "ref_zh": "存在通信错误时，大数据包也是有问题的。", "pred_zh": "大包在通信错误的情况下也会引起问题。"}
+{"id": "common_voice_en_555031", "sentence_en": "\"She went over to Mr. Jared's house.\"", "ref_zh": "她去了 Jared 先生的家。", "pred_zh": "\"她去了贾德先生的家。\""}
+{"id": "common_voice_en_604310", "sentence_en": "\"It's lavender and old lace.\"", "ref_zh": "这是淡紫色和旧花边。", "pred_zh": "“这是薰衣草色和旧蕾丝。”"}
+{"id": "common_voice_en_17818263", "sentence_en": "\"Their application for asylum has been accepted, since they're victims of political persecution.\"", "ref_zh": "他们的庇护申请被受理了，因为他们是政治迫害的受害者。", "pred_zh": "“他们的避难申请已被接受，因为他们是政治迫害的受害者。”"}
+{"id": "common_voice_en_467493", "sentence_en": "In the discotheque, the DJ played progressive house music and trance.", "ref_zh": "在迪斯科舞厅，DJ 播放着经过改进的室内音乐和迷幻舞曲。", "pred_zh": "在迪厅里，DJ 播放着 progressive house 音乐和 trance。"}
+{"id": "common_voice_en_403844", "sentence_en": "There is a way.", "ref_zh": "有办法。", "pred_zh": "有一条路。"}
+{"id": "common_voice_en_19197695", "sentence_en": "Maps are available in English, French, German, Japanese and Spanish.", "ref_zh": "地图有英语、法语、德语、日语和西班牙语版本。", "pred_zh": "地图有提供英文、法文、德文、日文和西班牙文版本。"}
+{"id": "common_voice_en_18960259", "sentence_en": "Fairchild Aircraft also evaluated the prototype at its Hagerstown, Maryland, headquarters.", "ref_zh": "费尔柴尔德飞机公司也在其马里兰州黑格斯敦总部评估了原型机。", "pred_zh": "费尔奇德飞机公司也在其马里兰州哈格斯特朗总部评估了原型机。"}
+{"id": "common_voice_en_159743", "sentence_en": "The old man leafed through the book, and fell to reading a page he came to.", "ref_zh": "老人迅速翻阅了一下这本书，开始阅读他读到的一页。", "pred_zh": "老人翻阅着书，停下来阅读他碰到的一页。"}
+{"id": "common_voice_en_16441", "sentence_en": "Maybe no one here knows what an alchemist is!", "ref_zh": "也许这里没有人知道炼金术士是什么样的人！", "pred_zh": "也许这里没有人知道什么是炼金师！"}
+{"id": "common_voice_en_13629954", "sentence_en": "With emphasis", "ref_zh": "强调", "pred_zh": "强调"}
+{"id": "common_voice_en_18254275", "sentence_en": "Excuse me, nudism is not allowed on this part of the beach.", "ref_zh": "对不起，海滩的这一部分区域不允许裸体。", "pred_zh": "对不起，这里不允许裸体。"}
+{"id": "common_voice_en_573656", "sentence_en": "\"He decided to return to his friend's stable by the longest route possible.\"", "ref_zh": "他决定走尽可能长的路回到朋友的马厩。", "pred_zh": "“他决定走最远的路线返回朋友的马厩。”"}
+{"id": "common_voice_en_17249769", "sentence_en": "\"No, we don't laminate our business cards.\"", "ref_zh": "不，我们不层叠我们的名片。", "pred_zh": "“不，我们不会对我们的名片进行覆膜处理。”"}
+{"id": "common_voice_en_90800", "sentence_en": "The lumberjack jumped up the tree.", "ref_zh": "伐木工人跳上了树。", "pred_zh": "伐木工跳上了树。"}
+{"id": "common_voice_en_19697258", "sentence_en": "They speak a dialect of Georgian.", "ref_zh": "他们说格鲁吉亚方言。", "pred_zh": "他们说的是格鲁吉亚语方言。"}
+{"id": "common_voice_en_19712546", "sentence_en": "Presently he made a faint sound in his throat.", "ref_zh": "不一会儿，他喉咙里发出微弱的声音。", "pred_zh": "他喉咙里发出一声轻微的声音。"}
+{"id": "common_voice_en_207470", "sentence_en": "There were three hundred wells, fifty thousand date trees, and innumerable colored tents spread among them.", "ref_zh": "那里有三百口井，五万棵枣树，还有数不清的彩色帐篷。", "pred_zh": "这里有三百口水井，五万棵枣椰树，以及无数色彩斑斓的帐篷散布其间。"}
+{"id": "common_voice_en_19611589", "sentence_en": "At its southern end is the city of Cairns.", "ref_zh": "在其南端是凯恩斯城。", "pred_zh": "其南端是凯恩斯市。"}
+{"id": "common_voice_en_18210132", "sentence_en": "How can we obtain a priori knowledge for each individual?", "ref_zh": "我们如何才能获得每个人的先验知识？", "pred_zh": "我们如何获得每个个体的先验知识？"}
+{"id": "common_voice_en_658281", "sentence_en": "\"If I had told you, you wouldn't have seen the Pyramids.\"", "ref_zh": "如果我告诉你，你就不会看到金字塔了。", "pred_zh": "“如果我早点告诉你，你就有机会看到金字塔了。”"}
+{"id": "common_voice_en_17278109", "sentence_en": "When Alvin was a little boy, he loved to watch Bud Spencer and Terence Hill.", "ref_zh": "当 Alvin 还是个小男孩的时候，他喜欢看 Bud Spencer 和 Terence Hill。", "pred_zh": "当阿文还是个小男孩的时候，他喜欢看布德·斯宾塞和特伦斯·希兰的电影。"}
+{"id": "common_voice_en_532087", "sentence_en": "This is a little boy and his dad playing a board game.", "ref_zh": "这是一个小男孩和他的爸爸在玩棋盘游戏。", "pred_zh": "这是一个小男孩和他的爸爸在玩桌面游戏。"}
+{"id": "common_voice_en_18596040", "sentence_en": "Possession is nothing to me.", "ref_zh": "占有对我来说不算什么。", "pred_zh": "possessions 对我来说一文不值。"}
+{"id": "common_voice_en_18497461", "sentence_en": "Fly the flag.", "ref_zh": "升起旗帜。", "pred_zh": "升旗。"}
+{"id": "common_voice_en_159311", "sentence_en": "\"Certainly I'm sure I'm comfortable!\"", "ref_zh": "当然，我肯定我很舒服！", "pred_zh": "“当然，我肯定很舒服！”"}
+{"id": "common_voice_en_10057619", "sentence_en": "Hey look, a flying pig!", "ref_zh": "嘿，看，一只飞猪！", "pred_zh": "嘿，看一只会飞的猪！"}
+{"id": "common_voice_en_18277460", "sentence_en": "He was driving under the influence.", "ref_zh": "他在酒后驾车。", "pred_zh": "他酒后驾车。"}
+{"id": "common_voice_en_18276595", "sentence_en": "Tuna is expensive.", "ref_zh": "金枪鱼很贵。", "pred_zh": "tuna 很贵。"}
+{"id": "common_voice_en_362797", "sentence_en": "Do you think so?", "ref_zh": "你这么认为吗？", "pred_zh": "你认为呢？"}
+{"id": "common_voice_en_18121423", "sentence_en": "What sort of man is he?", "ref_zh": "他是什么样的人？", "pred_zh": "他是什么样的人？"}
+{"id": "common_voice_en_18481621", "sentence_en": "\"I'm not drivelling.\"", "ref_zh": "我没有胡说八道。", "pred_zh": "“我不是在口吃。”"}
+{"id": "common_voice_en_18745766", "sentence_en": "The postwar years found him back in his hometown of Munich.", "ref_zh": "战后几年，他回到了家乡慕尼黑。", "pred_zh": "战后，他回到了家乡慕尼黑。"}
+{"id": "common_voice_en_18275104", "sentence_en": "I left it downstairs.", "ref_zh": "我把它忘在楼下了。", "pred_zh": "我把它留在楼下了。"}
+{"id": "common_voice_en_18137261", "sentence_en": "Survival of the casualties stays our top priority!", "ref_zh": "伤亡人员的生存仍然是我们的头等大事！", "pred_zh": "幸存者的生存是我们最优先考虑的事情！"}
+{"id": "common_voice_en_445659", "sentence_en": "After the prince had been rescued, he showed evidence of Stockholm syndrome.", "ref_zh": "王子获救后，他出示了斯德哥尔摩综合症的证据。", "pred_zh": "王子获救后，表现出 stockholm 综合征的症状。"}
+{"id": "common_voice_en_9555", "sentence_en": "There was a full moon, and the boy told the Englishman the story of his life.", "ref_zh": "月圆的一天，男孩告诉了英国人他的生活故事。", "pred_zh": "满月的时候，男孩向英国人讲述了自己的人生故事。"}
+{"id": "common_voice_en_19762442", "sentence_en": "All are native to Nebraska.", "ref_zh": "都是内布拉斯加州本地的。", "pred_zh": "所有这些都是内布拉斯加的土生土长的。"}
+{"id": "common_voice_en_17977735", "sentence_en": "The allusion is not an illusion.", "ref_zh": "这个典故不是幻觉。", "pred_zh": "引用不是幻觉。"}
+{"id": "common_voice_en_18253023", "sentence_en": "There is an increasing number of people being internally displaced due to climate change.", "ref_zh": "由于气候发生变化，越来越多的人在国内流离失所。", "pred_zh": "由于气候变化，越来越多的人成为内部流离失所者。"}
+{"id": "common_voice_en_557994", "sentence_en": "\"I'm going to wait here for you every day.\"", "ref_zh": "我会每天在这里等你。", "pred_zh": "\"我每天都会在这里等你。\""}
+{"id": "common_voice_en_674093", "sentence_en": "It was as if it quivered, but really this was the telescope vibrating.", "ref_zh": "它好像在抖动，但实际上这是望远镜在振动。", "pred_zh": "它似乎在颤抖，但实际上这是望远镜在振动。"}
+{"id": "common_voice_en_18017593", "sentence_en": "\"Nobody's intending to build a wall.\"", "ref_zh": "没有人打算建一堵墙。", "pred_zh": "\"没有人打算建墙。\""}
+{"id": "common_voice_en_19611669", "sentence_en": "Gephyrin has been shown to be necessary for GlyR clustering at inhibitory synapses.", "ref_zh": "在抑制性突触中， 已经证明桥蛋白对于甘氨酸受体 集群是必要的。", "pred_zh": "gephyrin 已经被证明对于抑制性突触处 GlyR 的聚集是必要的。"}
+{"id": "common_voice_en_19451645", "sentence_en": "When the cloud is thin the beam of light may penetrate into the cloud.", "ref_zh": "当云很薄时，光束可能会穿透云层。", "pred_zh": "当云层稀薄时，光线可能穿透云层。"}
+{"id": "common_voice_en_523806", "sentence_en": "Let me see it!", "ref_zh": "让我看看！", "pred_zh": "让我看看！"}
+{"id": "common_voice_en_18096505", "sentence_en": "Better to have than to wish.", "ref_zh": "拥有胜过心想。", "pred_zh": "有更好的 than 而没有 想要的。"}
+{"id": "common_voice_en_499909", "sentence_en": "Thanks for dropping around.", "ref_zh": "谢谢你来看我。", "pred_zh": "谢谢来访。"}
+{"id": "common_voice_en_19451125", "sentence_en": "However, the pilot was not picked up by the network.", "ref_zh": "然而，该飞行员没有被网络选中。", "pred_zh": "然而，试飞员并没有被网络接走。"}
+{"id": "common_voice_en_19780407", "sentence_en": "\"In some cases the symbols are \"\"punning\"\".\"", "ref_zh": "在某些情况下，这些符号是“双关语”。", "pred_zh": "“在某些情况下，这些符号是双关的。”"}
+{"id": "common_voice_en_17755763", "sentence_en": "\"You can't live on bread alone.\"", "ref_zh": "你不能仅靠面包生活。", "pred_zh": "“光靠面包是不行的。”"}
+{"id": "common_voice_en_19705553", "sentence_en": "You are what you are, you are who you are.", "ref_zh": "你还是你，你就是你自己。", "pred_zh": "你就是你，是你自己。"}
+{"id": "common_voice_en_17831001", "sentence_en": "Money burns a hole in your pocket.", "ref_zh": "一有钱就想花。", "pred_zh": "你的口袋里有钱就像有个窟窿。"}
+{"id": "common_voice_en_19767287", "sentence_en": "However, this port was cancelled a few months later.", "ref_zh": "然而，几个月后，这个港口被取消了。", "pred_zh": "然而，几个月后这个港口建设项目被取消了。"}
+{"id": "common_voice_en_19690676", "sentence_en": "The Petite Ceinture had become a popular mode of transport by then.", "ref_zh": "那时，“Petite Ceinture”铁路已经成为一种流行的交通方式。", "pred_zh": "到那时， Petite Ceinture 已经成为一种流行的运输方式。"}
+{"id": "common_voice_en_80343", "sentence_en": "We want some action in these pictures.", "ref_zh": "我们想要在这些画面中添加一些情节。", "pred_zh": "我们在这些图片中想要看到一些行动。"}
+{"id": "common_voice_en_537507", "sentence_en": "I was impatient to see it opened.", "ref_zh": "我迫不及待地想看到它被打开。", "pred_zh": "我急切地想要看到它被打开。"}
+{"id": "common_voice_en_129916", "sentence_en": "A person is bowling in this blurry action shot.", "ref_zh": "一个人在这个模糊的动作镜头中打保龄球。", "pred_zh": "这张模糊的动作照片中，有人在玩保龄球。"}
+{"id": "common_voice_en_19641981", "sentence_en": "\"Before his election, she criticized Barack Obama as \"\"an elitist who worked with words\"\".\"", "ref_zh": "在当选前，她批评巴拉克·奥巴马是“说大话的精英”。", "pred_zh": "“在选举他之前，她批评巴拉克·奥巴马是‘一个喜欢玩弄语言的精英人士’。”"}
+{"id": "common_voice_en_161952", "sentence_en": "Once again he was experiencing the language without words...", "ref_zh": "他再一次经历了欲语而无言...", "pred_zh": "他又一次体验到了无言的语言……"}
+{"id": "common_voice_en_19979435", "sentence_en": "The next day he was no where to be found.", "ref_zh": "第二天，他不见了。", "pred_zh": "第二天他就不见了。"}
+{"id": "common_voice_en_18471299", "sentence_en": "It was my intention to have a word with Angela.", "ref_zh": "我本想和 Angela 说句话。", "pred_zh": "我的本意是和安吉拉说几句话。"}
+{"id": "common_voice_en_17152441", "sentence_en": "The stairs creaked under his weight as he climbed to the darkened upper floor.", "ref_zh": "当他爬到黑暗的楼上时，楼梯在他的重压下嘎吱作响。", "pred_zh": "他爬上了黑暗的 upstairs，楼梯在他体重的作用下发出吱吱声。"}
+{"id": "common_voice_en_17760198", "sentence_en": "The longest way round is the sweetest way home.", "ref_zh": "甜美的回家路，绕道不觉远。", "pred_zh": "绕远路才是最甜的回家路。"}
+{"id": "common_voice_en_19718328", "sentence_en": "\"Competitors disliked the company's business practices, but consumers liked the lower prices.\"", "ref_zh": "竞争者不喜欢公司的商业惯例，但消费者喜欢较低的价格。", "pred_zh": "“竞争对手不喜欢公司的商业做法，但消费者喜欢更低的价格。”"}
+{"id": "common_voice_en_18922522", "sentence_en": "His wife, Dame Sukhi Turner, is a former mayor of Dunedin.", "ref_zh": "他的妻子 Sukhi Turner 夫人是但尼丁的前市长。", "pred_zh": "他的妻子杜基·特纳女爵士曾是达尼丁市的市长。"}
+{"id": "common_voice_en_17249680", "sentence_en": "From trivial things, great contests often arise.", "ref_zh": "琐碎的事情往往会引起激烈的争论。", "pred_zh": "小事往往能引发激烈的竞争。"}
+{"id": "common_voice_en_19711879", "sentence_en": "\"Teaching units at this University were originally called \"\"department\"\".\"", "ref_zh": "这所大学的教学单位最初被称为“系”。", "pred_zh": "\"这个大学的教学单位原来称为‘系’。\""}
+{"id": "common_voice_en_6292629", "sentence_en": "Out of debt, out of danger", "ref_zh": "无债一身轻", "pred_zh": "脱债脱险"}
+{"id": "common_voice_en_19641045", "sentence_en": "\"I've been unable to do my job ever since I read the piece.\"", "ref_zh": "自从我读了这篇文章，我就一直不能做我的工作。", "pred_zh": "“自从读了那篇文章后，我就无法做好我的工作了。”"}
+{"id": "common_voice_en_17811656", "sentence_en": "\"Did you know that the word \"\"commercial\"\" could mean the same as \"\"advertisement\"\"?\"", "ref_zh": "你知道“商业”这个词和“广告”的含义是一样的吗？", "pred_zh": "你知道吗，“商业”这个词有时和“广告”意思相同？"}
+{"id": "common_voice_en_18004367", "sentence_en": "What does it all mean?", "ref_zh": "这一切意味着什么？", "pred_zh": "那一切是什么意思？"}
+{"id": "common_voice_en_20008988", "sentence_en": "He contributed to the team and helped France win the Grand Slam that year.", "ref_zh": "他为球队做出了贡献，并帮助法国赢得了当年的大满贯。", "pred_zh": "他为团队做出了贡献，并帮助法国队赢得了那年的大满贯。"}
+{"id": "common_voice_en_18712894", "sentence_en": "Notable cast members include Laura Harris, Enuka Okuma, and Ryan Reynolds.", "ref_zh": "著名的演员包括 Laura Harris、Enuka Okuma 和 Ryan Reynolds。", "pred_zh": "值得注意的演员包括Laura Harris、Enuka Okuma和Ryan Reynolds。"}
+{"id": "common_voice_en_17981602", "sentence_en": "The fur of cats goes by many names.", "ref_zh": "猫的皮毛有很多名称。", "pred_zh": "猫的毛皮有许多称呼。"}
+{"id": "common_voice_en_19179485", "sentence_en": "\"It is part of Saint Andrew's Parish.\"", "ref_zh": "它是圣安德鲁教区的一部分。", "pred_zh": "它是圣安德鲁斯教区的一部分。"}
+{"id": "common_voice_en_128199", "sentence_en": "He appeared with the first stars of evening.", "ref_zh": "他和夜晚的第一颗星星一起出现了。", "pred_zh": "他随着傍晚的第一颗星星出现。"}
+{"id": "common_voice_en_80307", "sentence_en": "But the boy never took his eye off his new friend.", "ref_zh": "但是这个男孩的视线一直没有离开他的新朋友。", "pred_zh": "但是那个男孩一直不拿眼睛离开他的新朋友。"}
+{"id": "common_voice_en_17276707", "sentence_en": "Well, I can guess how that turned out.", "ref_zh": "好吧，我能猜到结果如何。", "pred_zh": "well, 我可以猜猜那结果怎么样了。"}
+{"id": "common_voice_en_655167", "sentence_en": "\"I'm addicted to recycling.\"", "ref_zh": "我沉迷于回收利用。", "pred_zh": "“我沉迷于回收利用。”"}
+{"id": "common_voice_en_17783571", "sentence_en": "No, I have not seen it.", "ref_zh": "不，我没见过它。", "pred_zh": "没有，我没有看过。"}
+{"id": "common_voice_en_19688583", "sentence_en": "There are three extant epigrams attributed to Erinna.", "ref_zh": "有三句现存的警句被认为是 Erinna 写的。", "pred_zh": "有三首铭文诗归咎于埃琳娜。"}
+{"id": "common_voice_en_17893142", "sentence_en": "They are given in their original form.", "ref_zh": "它们是以原来的形式给予。", "pred_zh": "它们保留了原始形式。"}
+{"id": "common_voice_en_105289", "sentence_en": "They met with a bunch of people in the pub.", "ref_zh": "他们在酒吧遇到了一群人。", "pred_zh": "他们在一个酒吧里见了一群人。"}
+{"id": "common_voice_en_17920623", "sentence_en": "\"Oh, I don't know.\"", "ref_zh": "哦，我不知道。", "pred_zh": "“哦，我不知道。”"}
+{"id": "common_voice_en_17262736", "sentence_en": "\"Hey, don't go there!\"", "ref_zh": "嘿，别去那里！", "pred_zh": "\"嘿，别去那儿！\""}
+{"id": "common_voice_en_17741869", "sentence_en": "Are you all right?", "ref_zh": "你还好吗？", "pred_zh": "你没事吧？"}
+{"id": "common_voice_en_521537", "sentence_en": "\"\"\"Well then, why did you let me do it?\"\" the boy asked.\"", "ref_zh": "“那么，你为什么让我做这件事？”男孩问道。", "pred_zh": "\"那你为什么让我做的？\"男孩问道。"}
+{"id": "common_voice_en_17848494", "sentence_en": "This was too much.", "ref_zh": "这太过分了。", "pred_zh": "这太多了吧。"}
+{"id": "common_voice_en_18431580", "sentence_en": "\"He hasn't had a square meal for years.\"", "ref_zh": "他已经好几年没吃过一顿像样的饭了。", "pred_zh": "“他已经好几年没有吃过一顿像样的饭了。”"}
+{"id": "common_voice_en_524053", "sentence_en": "what is the forecast for Nevada for First Day Of Sukkot", "ref_zh": "内华达州住棚节首日的天气怎么样", "pred_zh": "犹太教节日住棚节（ Suckot）的第一天内华达州的天气预报是什么？"}
+{"id": "common_voice_en_353205", "sentence_en": "Glue the sheet to the dark blue background.", "ref_zh": "将表单粘到深蓝色背景上。", "pred_zh": "将这张纸贴在深蓝色的背景上。"}
+{"id": "common_voice_en_20018271", "sentence_en": "\"He attended the University of Southern California, earning a bachelor's degree in vocal performance.\"", "ref_zh": "他曾就读于南加州大学，并获得声乐表演学士学位。", "pred_zh": "他毕业于南加州大学，获得声乐表演学士学位。"}
+{"id": "common_voice_en_18258973", "sentence_en": "Machine Learning can be used to predict and mitigate natural disasters.", "ref_zh": "机器学习可以用来预测和减轻自然灾害。", "pred_zh": "机器学习可以用于预测和减轻自然灾害。"}
+{"id": "common_voice_en_652451", "sentence_en": "I wished I had a light to smoke by.", "ref_zh": "我希望我可以抽支烟", "pred_zh": "我真希望身边有一盏可以抽烟的灯。"}
+{"id": "common_voice_en_18762118", "sentence_en": "\"At one point some of Bate's troops broke and ran.\"", "ref_zh": "Bate 的一些部队一度溃逃。", "pred_zh": "“有一段时间，贝特的一些士兵溃败逃跑了。”"}
+{"id": "common_voice_en_17879821", "sentence_en": "The attic was dark and smelt of old dust.", "ref_zh": "阁楼很暗，散发着旧灰尘的味道。", "pred_zh": "阁楼又暗又散发着陈年灰尘的味道。"}
+{"id": "common_voice_en_19962796", "sentence_en": "Each organization requires an advisor, a constitution and board of education recognition.", "ref_zh": "每个组织都需要一个顾问、一个章程和一个教育认可委员会。", "pred_zh": "每个组织都需要一个顾问、一个章程以及教育部门的认可。"}
+{"id": "common_voice_en_19948983", "sentence_en": "\"It is possible that Aristander's writings were, instead, a product of an Aristandrian school.\"", "ref_zh": "Aristander 的作品可能是 Aristandrian 学派的产物。", "pred_zh": "“亚里士丹德的著作可能是亚里士丹德学派的作品。”"}
+{"id": "common_voice_en_19597541", "sentence_en": "\"Havelok invades England, overthrows Godrich in battle and claims the throne in Goldborow's name.\"", "ref_zh": "Havelok 入侵英格兰，在战斗中推翻了 Godrich，并以 Goldborow 的名义获得王位。", "pred_zh": "“霍维尔克入侵英格兰，在与戈德里奇的战斗中获胜，并以金伯沃的名义夺取王位。”"}
+{"id": "common_voice_en_18274329", "sentence_en": "Useless as a screen door on a submarine.", "ref_zh": "在潜艇上不能当纱门使用。", "pred_zh": "像潜艇上的屏风一样没用。"}
+{"id": "common_voice_en_76428", "sentence_en": "Based on the omens of the present.", "ref_zh": "基于现在的预兆。", "pred_zh": "基于现在的预兆。"}
+{"id": "common_voice_en_77697", "sentence_en": "\"I'm never more aware of a room's acoustics than when I'm trying to enjoy a snack I have no intention of sharing.\"", "ref_zh": "当我试图独享一份并不打算分享的零食时，我从来没有像现在这样意识到房间的音响效果。", "pred_zh": "“在我试图享受一份我无意与人分享的零食时，我比任何时候都更能意识到房间的音效特点。”"}
+{"id": "common_voice_en_19627180", "sentence_en": "His rhetoric has been learned by rote.", "ref_zh": "他华丽的词赋是死记硬背的。", "pred_zh": "他的说辞是死记硬背来的。"}
+{"id": "common_voice_en_17928241", "sentence_en": "I am so happy!", "ref_zh": "我太高兴了！", "pred_zh": "我太开心了！"}
+{"id": "common_voice_en_497292", "sentence_en": "And so it was.", "ref_zh": "果然如此。", "pred_zh": "于是便发生了那样的事情。"}
+{"id": "common_voice_en_639334", "sentence_en": "It would have been visible to me, had I only looked up as it passed.", "ref_zh": "我只有在它经过的时候抬起头来，我才看见它。", "pred_zh": "要是我抬头看一眼，就会看到它飞过。"}
+{"id": "common_voice_en_18860884", "sentence_en": "Here he made useful contacts, including Bob Hope, Betty Grable and Rita Hayworth.", "ref_zh": "在这里，他结识了（对他）有帮助的人士，包括 Bob Hope、Betty Grable 和 Rita Hayworth。", "pred_zh": "在这里，他结识了有益的联系人，包括鲍勃·霍普、贝蒂·格拉布尔和丽塔·海沃德。"}
+{"id": "common_voice_en_19710254", "sentence_en": "Furthermore, the Armenian Kingdom of Cilicia became a vassal state of the Mongols.", "ref_zh": "此外，亚美尼亚的西里西亚王国成了蒙古的附庸国。", "pred_zh": "此外，亚美尼亚塞浦路斯王国成为蒙古的附庸国。"}
+{"id": "common_voice_en_18524927", "sentence_en": "I used to watch teenage mutant ninja hero turtles.", "ref_zh": "我曾经看过《忍者神龟》。", "pred_zh": "我过去常常看 Teenage Mutant Ninja 海龟英雄。"}
+{"id": "common_voice_en_88103", "sentence_en": "Pull the hook to toggle the jukebox.", "ref_zh": "拉动挂钩来切换点唱机。", "pred_zh": "拉钩子以切换自动点唱机。"}
+{"id": "common_voice_en_17843148", "sentence_en": "Grumbling makes the loaf no larger.", "ref_zh": "抱怨不会使面包变大。", "pred_zh": "抱怨让面包变不了更大。"}
+{"id": "common_voice_en_17767052", "sentence_en": "No western movie without a brawl in a saloon.", "ref_zh": "西部片都有酒吧里争吵的情节。", "pred_zh": "没有酒吧里的打斗，就没有西部电影。"}
+{"id": "common_voice_en_699485", "sentence_en": "His arm seemed to be battling with whatever was in the hole.", "ref_zh": "他的手臂似乎在和洞里的东西搏斗。", "pred_zh": "他的手臂似乎在和洞里什么东西搏斗。"}
+{"id": "common_voice_en_19738885", "sentence_en": "This approach often uses other media and breaks accepted conventions and practices.", "ref_zh": "这种方法经常使用其他媒体，打破公认的惯例和做法。", "pred_zh": "这种做法往往使用其他媒介，并打破传统的惯例和做法。"}
+{"id": "common_voice_en_17051", "sentence_en": "So the boy was disappointed; he decided that he would never again believe in dreams.", "ref_zh": "所以男孩很失望；他决定不再相信梦想。", "pred_zh": "所以那个男孩感到失望；他决定再也不相信梦了。"}
+{"id": "common_voice_en_19524811", "sentence_en": "Despite the tantalizing possibilities, Laws hedges his bets and never cuts loose.", "ref_zh": "尽管有诱人的可能性，但劳斯规避风险，从不放弃。", "pred_zh": "尽管前景诱人，Laws 仍持保留态度，从不彻底放开。"}
+{"id": "common_voice_en_217461", "sentence_en": "\"But you know that I'm not going to go to Mecca.\"", "ref_zh": "但是你知道我并不打算去麦加。", "pred_zh": "“但是你知道我不会去麦加。”"}
+{"id": "common_voice_en_596064", "sentence_en": "But the Tradition also says that we should believe the messages of the desert.", "ref_zh": "但是惯例也告诉我们应该相信沙漠的讯息。", "pred_zh": "但是传统也告诉我们应该相信沙漠中的信息。"}
+{"id": "common_voice_en_19878214", "sentence_en": "He continued to use the Seneca view camera for all other work.", "ref_zh": "他继续使用塞内卡相机进行所有其他工作。", "pred_zh": "他继续使用Seneca视相机完成其他所有工作。"}
+{"id": "common_voice_en_17961601", "sentence_en": "In an undertone, or whisper.", "ref_zh": "在低声耳语中", "pred_zh": "低声地，或者耳语。"}
+{"id": "common_voice_en_480248", "sentence_en": "Unpaid employees held protest outside the building.", "ref_zh": "无薪员工在大楼外举行抗议。", "pred_zh": "未支付工资的员工在大楼外举行了抗议活动。"}
+{"id": "common_voice_en_155988", "sentence_en": "Man in Santa suit socializes at holiday event.", "ref_zh": "在节日活动中，男人穿着圣诞老人的服饰进行社交活动。", "pred_zh": "穿着圣诞服的人在节日活动中社交。"}
+{"id": "common_voice_en_122502", "sentence_en": "To continue his search for the treasure meant that he had to abandon Fatima.", "ref_zh": "继续寻找宝藏意味着他不得不抛弃法蒂玛。", "pred_zh": "继续他的寻宝之旅意味着他必须放弃Fatima。"}
+{"id": "common_voice_en_209524", "sentence_en": "People passing water balloons in the street", "ref_zh": "人们在街上传递水球", "pred_zh": "街道上人们传递水气球"}
+{"id": "common_voice_en_507708", "sentence_en": "Bad nerves are jangled by a door slam.", "ref_zh": "砰的一声关上门会使人神经紧张。", "pred_zh": "坏心情被一声关门声搅得更糟。"}
+{"id": "common_voice_en_18156336", "sentence_en": "Kill two birds with the one stone.", "ref_zh": "一举两得。", "pred_zh": "一石二鸟。"}
+{"id": "common_voice_en_19622175", "sentence_en": "Jefferson subsequently served as president of the organization.", "ref_zh": "Jefferson 随后担任该组织的主席。", "pred_zh": "杰斐逊随后担任该组织的主席。"}
+{"id": "common_voice_en_104156", "sentence_en": "\"It's true that everything has its destiny, but one day that destiny will be realized.\"", "ref_zh": "万事万物确实都有它自己的命运，然而命运总有一天会实现。", "pred_zh": "“一切都有其命运，但总有一天，那个命运会实现。”"}
+{"id": "common_voice_en_20002083", "sentence_en": "The six young men arise, feeling at their neckties.", "ref_zh": "六个年轻人站起来，摸着他们的领带。", "pred_zh": "六位年轻人站起身来，摸了摸自己的领带。"}
+{"id": "common_voice_en_17304352", "sentence_en": "As they packed their bags, the tsunami sirens sounded once more across the bleak shores.", "ref_zh": "当他们收拾行李时，海啸警报再次在荒凉的海岸上响起。", "pred_zh": "当他们收拾行李时，凄凉的海岸上传来了海啸警报声再次响起。"}
+{"id": "common_voice_en_19442319", "sentence_en": "Various types of onboard train toilet facilities may also be provided.", "ref_zh": "还可以提供各种类型的列车厕所设施。", "pred_zh": "各种类型的列车车载厕所设施也可能提供。"}
+{"id": "common_voice_en_102654", "sentence_en": "\"I'm going to tell your mother on you.\"", "ref_zh": "我要向你母亲告发你。", "pred_zh": "“我要把你的事情告诉你妈妈。”"}
+{"id": "common_voice_en_19945699", "sentence_en": "As a singleton applicant, the station is likely to be granted a construction permit.", "ref_zh": "作为单独的申请人，该车站很可能获得建筑许可证。", "pred_zh": "作为单身申请人，该站点可能被授予建设许可。"}
+{"id": "common_voice_en_19692810", "sentence_en": "\"It is also used on the Internet to correct one's spelling.\"", "ref_zh": "它也可以在互联网上用来更正拼写错误。", "pred_zh": "“它也被用于互联网上纠正拼写错误。”"}
+{"id": "common_voice_en_19417611", "sentence_en": "He was the head of the first engineering department of University of Tehran.", "ref_zh": "他是德黑兰大学第一工程系的系主任。", "pred_zh": "他是德黑兰大学第一任工程学院院长。"}
+{"id": "common_voice_en_20161995", "sentence_en": "\"The \"\"waka\"\" poet Ariwara no Narihira was one of his grandsons.\"", "ref_zh": "“和歌”诗人 Ariwara no Narihira 是他的一个孙子。", "pred_zh": "\"他的曾孙 Ariwara no Narihira 是一位和歌诗人。\""}
+{"id": "common_voice_en_3249374", "sentence_en": "I never thought of that.", "ref_zh": "我没想过这个。", "pred_zh": "我 Never thought of that. 没有想到那个。 \n\n为了使句子更加自然流畅，可以稍微调整为：\n我从来没有想到过那个。"}
+{"id": "common_voice_en_17625609", "sentence_en": "I assume this was your doing?", "ref_zh": "我猜这是你做的？", "pred_zh": "我假设这是你干的？"}
+{"id": "common_voice_en_20025414", "sentence_en": "\"After graduating from the primary school, students take a test called \"\"Matura\"\".\"", "ref_zh": "小学毕业后，学生们参加一场名为“会考”的测试。", "pred_zh": "\"完成小学学业后，学生参加一个叫做‘Matura’的考试。\""}
+{"id": "common_voice_en_662224", "sentence_en": "\"It's the only answer.\"", "ref_zh": "这是唯一的答案。", "pred_zh": "\"这是唯一的答案。\""}
+{"id": "common_voice_en_17918057", "sentence_en": "Smile when you say nasty words.", "ref_zh": "说脏话时你笑了。", "pred_zh": "你说难听的话时也带着微笑。"}
+{"id": "common_voice_en_691095", "sentence_en": "They formed heaps that are visible a mile and a half away.", "ref_zh": "他们堆积在一起，一英里半以外都可以看到。", "pred_zh": "它们堆成山，远在一英里半外都能看见。"}
+{"id": "common_voice_en_19675968", "sentence_en": "To eliminate this problem, he drew up a new medical dissertation at old age.", "ref_zh": "为了消除这个问题，他在晚年写了一份新的医学论文。", "pred_zh": "为了解决这个问题，他在晚年撰写了一篇新的医学论文。"}
+{"id": "common_voice_en_17271156", "sentence_en": "What would you do?", "ref_zh": "你会怎么做？", "pred_zh": "你会怎么做？"}
+{"id": "common_voice_en_18322991", "sentence_en": "Tack this picture to the wall.", "ref_zh": "把这幅画钉在墙上。", "pred_zh": "把这张照片贴到墙上。"}
+{"id": "common_voice_en_19018415", "sentence_en": "In this decade cafes and tourist accommodation was built along the beachfront.", "ref_zh": "在这十年里，沿着海滨建起了咖啡馆和旅游住宿房。", "pred_zh": "在本世纪这十年里，海滩沿线建起了咖啡馆和旅游住宿设施。"}
+{"id": "common_voice_en_18890550", "sentence_en": "It has a semi-prehensile tail, needle sharp teeth and a long snout.", "ref_zh": "它有半卷的尾巴、锋利的针状牙齿和长长的鼻子。", "pred_zh": "它有一条半prehensile 尾巴，尖利的牙齿和长鼻子。"}
+{"id": "common_voice_en_18087859", "sentence_en": "She learned how to play the piano in music school.", "ref_zh": "她在音乐学校学会了如何弹钢琴。", "pred_zh": "她在音乐学校学会了弹钢琴。"}
+{"id": "common_voice_en_524127", "sentence_en": "\"The sun was setting when the boy's heart sounded a danger signal.\"", "ref_zh": "夕阳西下，男孩心头一紧，嗅到了危险的气息。", "pred_zh": "\"当太阳下山时，男孩的心里响起了危险的信号。\""}
+{"id": "common_voice_en_19985256", "sentence_en": "The event received mixed reaction from the American press.", "ref_zh": "美国媒体对这一事件的反应不一。", "pred_zh": "该事件在美国媒体上引起了褒贬不一的反应。"}
+{"id": "common_voice_en_20142713", "sentence_en": "The Akban School organizes international seminars for students of Akban veteran instructors.", "ref_zh": "Akban 学校为 Akban 资深教师的学生组织国际研讨会。", "pred_zh": "阿克班学校为阿克班的资深教师组织国际研讨会。"}
+{"id": "common_voice_en_130627", "sentence_en": "Few people realise the immensity of vacancy.", "ref_zh": "很少有人意识到巨大的空缺。", "pred_zh": "很少有人意识到空缺的浩瀚。"}
+{"id": "common_voice_en_18278016", "sentence_en": "Tomato Risotto.", "ref_zh": "番茄意大利调味饭。", "pred_zh": "番茄烩饭。"}
+{"id": "common_voice_en_18122999", "sentence_en": "My trip to Belgium was a disaster.", "ref_zh": "我的比利时之旅是一场灾难。", "pred_zh": "我的比利时之旅是一场灾难。"}
+{"id": "common_voice_en_17255495", "sentence_en": "What does he look like?", "ref_zh": "他长什么样？", "pred_zh": "他长什么样子？"}
+{"id": "common_voice_en_19855168", "sentence_en": "The Second Clash.", "ref_zh": "第二次冲突。", "pred_zh": "第二次碰撞。"}
+{"id": "common_voice_en_496709", "sentence_en": "Where are you going?", "ref_zh": "你要去哪里？", "pred_zh": "你打算去哪？"}
+{"id": "common_voice_en_558025", "sentence_en": "She likes you.", "ref_zh": "她喜欢你。", "pred_zh": "她喜欢你。"}
+{"id": "common_voice_en_19703653", "sentence_en": "However this assessment has been contradicted.", "ref_zh": "然而，这一评估遭到了反驳。", "pred_zh": "然而这一评估已被反驳。"}
+{"id": "common_voice_en_19964682", "sentence_en": "There were to be no political parties in the new province.", "ref_zh": "这个新成立的省份将没有政党。", "pred_zh": "新省将不允许有政治党派。"}
+{"id": "common_voice_en_679997", "sentence_en": "\"It was as if the world had fallen silent because the boy's soul had.\"", "ref_zh": "仿佛世界因为男孩的灵魂而陷入了沉静。", "pred_zh": "仿佛世界为之寂静，因为那个男孩的灵魂已然离去。"}
+{"id": "common_voice_en_19488126", "sentence_en": "\"Abduh's collected works have been compiled and published in five volumes by Muhammad Imarah.\"", "ref_zh": "Muhammad Imarah 将 Abduh 的文集汇编成五卷出版。", "pred_zh": "\"穆罕默德·伊马rah编纂并出版了阿卜杜勒·阿兹兹·阿卜杜尔·瓦哈比的著作五卷本。\" \n\n或者更简洁地表达为：\n\n\"阿布杜勒·阿兹兹·阿卜杜尔·瓦哈比的著作由穆罕默德·伊马rah编纂并出版了五卷本。\"\n\n根据上下文，如果需要更具体指明是哪位人物的作品，可以使用“阿卜杜勒·阿兹兹·阿卜杜尔·瓦哈比”这个名字。但如果上下文已经"}
+{"id": "common_voice_en_603285", "sentence_en": "What do you want done with them tomorrow morning?", "ref_zh": "明天早上你想怎么处理它们？", "pred_zh": "你明天早上想怎么处理他们？"}
+{"id": "common_voice_en_12259699", "sentence_en": "Children and fools speak truth", "ref_zh": "孩子和傻瓜说真话", "pred_zh": "儿童和傻子说真话。"}
+{"id": "common_voice_en_19764927", "sentence_en": "Also, plans to extend Orange Line to Bowie have been proposed.", "ref_zh": "此外，还提出了将橙色线延伸至 Bowie 的计划。", "pred_zh": "此外，还提出了将Orange线延伸至Bowie的计划。"}
+{"id": "common_voice_en_17793450", "sentence_en": "The Internet of uncontrolled things brought us a distributed denial of service attack once again.", "ref_zh": "物联网的失控又一次给我们带来了分布式拒绝服务攻击。", "pred_zh": "不受控制的物联网设备再次带来了分布式拒绝服务攻击。"}
+{"id": "common_voice_en_17309248", "sentence_en": "The hare springs out, when one thinks not of it.", "ref_zh": "兔子会跳出来，只要你不去想它。", "pred_zh": "兔子一想到的时候就跳出来了。"}
+{"id": "common_voice_en_680766", "sentence_en": "\"No, he's loyal.\"", "ref_zh": "不，他很忠诚。", "pred_zh": "\"不，他很忠诚。\""}
+{"id": "common_voice_en_18344498", "sentence_en": "Billinger may arrive in time.", "ref_zh": "比林格可能会及时到达。", "pred_zh": "比林杰可能来得及。"}
+{"id": "common_voice_en_18125269", "sentence_en": "Yesterday, he went to an STD clinic to test for herpes.", "ref_zh": "昨天，他去性病诊所检查疱疹。", "pred_zh": "昨天，他去了一个性病诊所检查是否感染了疱疹。"}
+{"id": "common_voice_en_666232", "sentence_en": "the name given in Spain and Portugal", "ref_zh": "在西班牙和葡萄牙所给予的名称", "pred_zh": "在西班牙和葡萄牙使用的名称"}
+{"id": "common_voice_en_18439270", "sentence_en": "The Lord is my Shepherd.", "ref_zh": "上帝是我的牧师。", "pred_zh": "主是我的牧者。"}
+{"id": "common_voice_en_623698", "sentence_en": "It was only when I got this close to it that the strangeness of it was at all evident to me.", "ref_zh": "只有当我离它如此之近时，我才发现它的奇异之处是如此明显。", "pred_zh": "只有当我靠近它时，我才意识到它的奇异之处。"}
+{"id": "common_voice_en_194112", "sentence_en": "A monk dressed in black came to the gates.", "ref_zh": "一个穿着黑色衣服的僧侣来到了门口。", "pred_zh": "一位穿着黑色僧衣的和尚来到了大门前。"}
+{"id": "common_voice_en_18430719", "sentence_en": "\"Self-confidence seemed to ooze from the fellow's every pore.\"", "ref_zh": "自信似乎从这个家伙的每个毛孔都渗出来了。", "pred_zh": "“这位男士的每一毛孔似乎都在散发着自信。”"}
+{"id": "common_voice_en_630409", "sentence_en": "Just as your grandfather taught you.", "ref_zh": "就像你爷爷教你的那样。", "pred_zh": "就像你祖父教给你的那样。"}
+{"id": "common_voice_en_26827", "sentence_en": "\"It's extremely suspicious that there's no information about brains that didn't come from a brain.\"", "ref_zh": "非常可疑的是，关于大脑的信息竟然都来自于大脑", "pred_zh": "“没有任何关于非脑来源的大脑的信息这一点极其可疑。”"}
+{"id": "common_voice_en_18971547", "sentence_en": "Plans for objective based multiplayer modes and online play were also scrapped.", "ref_zh": "基于多人模式和在线游戏的目标计划也被取消。", "pred_zh": "基于目标的多人模式和在线玩法的计划也被取消了。"}
+{"id": "common_voice_en_18886267", "sentence_en": "There is also a spin-off comic book series, The Batman Strikes!", "ref_zh": "还有一个衍生漫画系列，《蝙蝠侠出击》！", "pred_zh": "还有一个衍生漫画系列，《蝙蝠侠出击！》！"}
+{"id": "common_voice_en_19601212", "sentence_en": "The Town of Opdyke West is served by the Levelland Independent School District.", "ref_zh": "Opdyke West 镇由 Levelland 独立学区提供服务。", "pred_zh": "奥普迪克西镇由莱维尔兰德独立学区提供服务。"}
+{"id": "common_voice_en_631094", "sentence_en": "\"You've got just ten minutes.\"", "ref_zh": "你只有十分钟时间。", "pred_zh": "\"你只剩下十分钟了。\""}
+{"id": "common_voice_en_65555", "sentence_en": "One can imagine these two, covered with sand, running up the little street in the bright sunlight.", "ref_zh": "一个人可以想象这两个人，满身沙子，在灿烂的阳光下沿着小街奔跑。", "pred_zh": "可以想象，这两人在阳光下被沙子覆盖着跑上了这条小街。"}
+{"id": "common_voice_en_17961936", "sentence_en": "How long will you be away?", "ref_zh": "你要离开多久？", "pred_zh": "你将离开多久？"}
+{"id": "common_voice_en_19961158", "sentence_en": "During this period, Gregor published in major philosophical, political science, and security journals.", "ref_zh": "在此期间，Gregor 在主要的哲学、政治学和安全杂志上发表了文章。", "pred_zh": "在这一时期，格雷戈尔在重要的哲学、政治科学和安全期刊上发表了文章。"}
+{"id": "common_voice_en_64022", "sentence_en": "One dog wades in the water while another dog is on land.", "ref_zh": "一只狗在水中涉水，而另一只狗在陆地上。", "pred_zh": "一只狗在水中涉水而行，另一只狗在岸上。"}
+{"id": "common_voice_en_18124422", "sentence_en": "\"Give them an inch and they'll take a mile.\"", "ref_zh": "他们会得寸进尺。", "pred_zh": "“给你一点好处，他们就会索要更多。”"}
+{"id": "common_voice_en_17889764", "sentence_en": "A bad excuse is better then none.", "ref_zh": "敷衍了事道个歉总比没有好。", "pred_zh": "一个糟糕的借口也比没有借口好。"}
+{"id": "common_voice_en_57331", "sentence_en": "The Englishman was unable to sleep one night.", "ref_zh": "一天晚上，这个英国人无法入睡。", "pred_zh": "那个英国人有一个晚上睡不着觉。"}
+{"id": "common_voice_en_17873663", "sentence_en": "\"At a round table there's no dispute about the place.\"", "ref_zh": "在圆桌会议上，对这个地方没有争议。", "pred_zh": "“圆桌会议上不存在争座位的问题。”"}
+{"id": "common_voice_en_19629765", "sentence_en": "This knowledge is delivered in summaries of the most relevant books.", "ref_zh": "最相关的书籍摘要中提供了这些知识。", "pred_zh": "这些知识是以最相关书籍的摘要形式呈现的。"}
+{"id": "common_voice_en_530054", "sentence_en": "And one or two persons were returning.", "ref_zh": "一两个人回来了。", "pred_zh": "并且有一两个人正在返回。"}
+{"id": "common_voice_en_627575", "sentence_en": "A group of people load suitcases into a vehicle.", "ref_zh": "一群人把手提箱装进汽车。", "pred_zh": "一群人在往一辆车里装行李箱。"}
+{"id": "common_voice_en_584501", "sentence_en": "Only one way you can help me.", "ref_zh": "你能帮我的只有一个方法。", "pred_zh": "你只能帮我一个办法。"}
+{"id": "common_voice_en_17791297", "sentence_en": "The wise man may change his opinion, but the fool , never.", "ref_zh": "智者可能会改变他的观点，但傻瓜，从来没有。", "pred_zh": "明智的人可能会改变他的观点，但愚昧的人永远不会。"}
+{"id": "common_voice_en_265856", "sentence_en": "When she tried to withdraw some money from her bank account, the ATM claimed her card was invalid.", "ref_zh": "当她试图从银行账户上取钱时，自动取款机提示她的卡无效。", "pred_zh": "当她尝试从银行账户取钱时，ATM 称她的卡无效。"}
+{"id": "common_voice_en_18935482", "sentence_en": "The comic was published in Humo.", "ref_zh": "这幅漫画发表在《幽默》杂志上。", "pred_zh": "这本漫画发表在Humo上。"}
+{"id": "common_voice_en_18377603", "sentence_en": "Here are the twelve items I was referring to.", "ref_zh": "这是我提到的 12 个项目。", "pred_zh": "这里是我刚才提到的十二项内容。"}
+{"id": "common_voice_en_19747215", "sentence_en": "This was probably one of the first ever ship launchings to be filmed.", "ref_zh": "这可能是首批拍摄的飞船发射之一。", "pred_zh": "这可能是有史以来第一次被拍摄下来的船只下水仪式。"}
+{"id": "common_voice_en_18032923", "sentence_en": "What’s to be done?", "ref_zh": "该怎么办？", "pred_zh": "该怎么做？"}
+{"id": "common_voice_en_18709603", "sentence_en": "Aristotle wrote about the idea of four causes in nature.", "ref_zh": "Aristotle 写了关于自然界四大元素的观点。", "pred_zh": "亚里士多德曾写过关于自然界四种原因的思想。"}
+{"id": "common_voice_en_53412", "sentence_en": "A woman is soldering a piece of metal as a man watches.", "ref_zh": "一个男人看着一个女人正在焊接一块金属", "pred_zh": "一位妇女正在焊接一块金属，而一名男子在旁边观看。"}
+{"id": "common_voice_en_640981", "sentence_en": "\"They had gone away to breakfast at Henderson's house.\"", "ref_zh": "他们去 Henderson 家吃早餐了。", "pred_zh": "他们去了亨德森家吃早餐。"}
+{"id": "common_voice_en_19698791", "sentence_en": "He attended Carnegie Mellon University.", "ref_zh": "他就读于卡内基梅隆大学。", "pred_zh": "他 attends 卡内基梅隆大学。"}
+{"id": "common_voice_en_19956821", "sentence_en": "The farm is open to tourists.", "ref_zh": "这个农场对游客开放。", "pred_zh": "农场对游客开放。"}
+{"id": "common_voice_en_551776", "sentence_en": "No mercy for cop killers!", "ref_zh": "对杀害警察的杀手不留情！", "pred_zh": "杀警无情！"}
+{"id": "common_voice_en_19624144", "sentence_en": "All Oryx species prefer near-desert conditions and can survive without water for long periods.", "ref_zh": "所有的羚羊都喜欢接近沙漠的环境，并且可以在没有水的情况下长期生存。", "pred_zh": "所有羚羊种类都偏好近荒漠环境，且可以在长时间内不喝水的情况下生存。"}
+{"id": "common_voice_en_18297913", "sentence_en": "Jenny reminded us that politics is still news.", "ref_zh": "Jenny 提醒我们政治仍然是新闻。", "pred_zh": "詹妮提醒我们，政治仍然是新闻。"}
+{"id": "common_voice_en_17245950", "sentence_en": "\"Jade's cordless drill has become faulty.\"", "ref_zh": "Jade 的无绳电钻出了毛病。", "pred_zh": "“ Jade 的 电动钻 失效 了 。”"}
+{"id": "common_voice_en_19720098", "sentence_en": "It also considers post audit objections.", "ref_zh": "它还考虑了审计后的异议。", "pred_zh": "它也考虑了后续审计中的异议。"}
+{"id": "common_voice_en_19266307", "sentence_en": "In its early years the division was occasionally referred to as Speedlink Distribution.", "ref_zh": "在最初几年，这种划分有时被称为速联分配。", "pred_zh": "在早期，该部门偶尔被称为Speedlink 分销。"}
+{"id": "common_voice_en_113298", "sentence_en": "A girl in a red shirt is rock climbing.", "ref_zh": "一个穿着红色衬衫的女孩正在攀岩。", "pred_zh": "穿着红色T恤的女孩在进行岩攀。"}
+{"id": "common_voice_en_20048720", "sentence_en": "The company has a production plant in Changwon, South Korea.", "ref_zh": "该公司在韩国昌原有一个生产工厂。", "pred_zh": "该公司在韩国昌原设有生产厂。"}
+{"id": "common_voice_en_167486", "sentence_en": "People are walking through a Christmas themed market", "ref_zh": "人们正在走过一个圣诞主题商场", "pred_zh": "人们正在一个圣诞主题的市场里行走。"}
+{"id": "common_voice_en_175185", "sentence_en": "The thirteenth of march is meant to be unlucky.", "ref_zh": "三月十三日是指不吉利的日子。", "pred_zh": "十三号被认为是不吉利的。"}
+{"id": "common_voice_en_17984784", "sentence_en": "\"A friend's frown is better than a fool's smile.\"", "ref_zh": "朋友对你皱眉,胜过傻瓜对你微笑。", "pred_zh": "“朋友的皱眉胜过愚人的微笑。”"}
+{"id": "common_voice_en_20002043", "sentence_en": "However, his real father arrives and exposes the whole truth.", "ref_zh": "然而，他真正的父亲来了，揭露了全部真相。", "pred_zh": "然而，他的真正在世的父亲出现了，揭露了全部真相。"}
+{"id": "common_voice_en_675661", "sentence_en": "\"\"\"What is an alchemist?\"\" he asked, finally.\"", "ref_zh": "“什么是炼金术士？”他终于问道。", "pred_zh": "他终于问道：“什么是炼金师？”"}
+{"id": "common_voice_en_31681", "sentence_en": "Curse the moment I met that old man, he thought.", "ref_zh": "“诅咒我遇见那个老人的那一刻，”他想。", "pred_zh": "诅咒我遇到那个老人的那一刻，他就是觉得。"}
+{"id": "common_voice_en_17353779", "sentence_en": "\"They found all sorts of drugs at Howard's house: Cocaine, meth, heroine...\"", "ref_zh": "他们在霍华德家发现了各种各样的毒品：可卡因、冰毒、海洛因……", "pred_zh": "他们在霍华德的房子里找到了各种毒品：可卡因、甲基苯丙胺、海洛因……"}
+{"id": "common_voice_en_630824", "sentence_en": "Maybe these desert birds could explain to him the meaning of love without ownership.", "ref_zh": "也许这些沙漠之鸟可以向他解释没有所有权的爱的含义。", "pred_zh": "或许这些沙漠中的鸟类能够向他解释爱而不占有真正的含义。"}
+{"id": "common_voice_en_636914", "sentence_en": "Three people are organizing a dorm room", "ref_zh": "三个人正在组成一个宿舍", "pred_zh": "三个人在整理宿舍床位"}
+{"id": "common_voice_en_105031", "sentence_en": "\"I've got a mother and two kid sisters to care for.\"", "ref_zh": "我有一个母亲和两个年幼的妹妹要照顾。", "pred_zh": "“我有妈妈和两个妹妹需要照顾。”"}
+{"id": "common_voice_en_18886161", "sentence_en": "Again, this did not originate from writings by Karl May.", "ref_zh": "同样，这不是源于 Karl May 的作品。", "pred_zh": "再次强调，这并非源自卡尔·迈的著作。"}
+{"id": "common_voice_en_184547", "sentence_en": "I want to get back to my sheep faster.", "ref_zh": "我想快点回到我的羊身边。", "pred_zh": "我想更快地回到我的羊群那里。"}
+{"id": "common_voice_en_17938608", "sentence_en": "By accepting our privacy policy, you agree that we save your data for twenty-one days to detect frauds.", "ref_zh": "同意我们的隐私政策，即表示您同意我们将您的数据保存 21 天以检测。", "pred_zh": "通过接受我们的隐私政策，您同意我们将您的数据保存21天以检测欺诈行为。"}
+{"id": "common_voice_en_655272", "sentence_en": "They stood there looking at the moon.", "ref_zh": "他们站在那里看着月亮。", "pred_zh": "他们站在那里看着月亮。"}
+{"id": "common_voice_en_18944155", "sentence_en": "Steve Carlton and Randy Johnson are the only left-handed pitchers in this group.", "ref_zh": "Steve Carlton 和 Randy Johnson 是这一组中唯一的左撇子投手。", "pred_zh": "史蒂夫·卡尔顿和兰迪·约翰逊是这群投手中唯一的左撇子投手。"}
+{"id": "common_voice_en_18096330", "sentence_en": "Turning the air conditioning on leads to increased fuel consumption.", "ref_zh": "打开空调会导致油耗增加。", "pred_zh": "开启空调会导致燃油消耗增加。"}
+{"id": "common_voice_en_17870703", "sentence_en": "Now what is it?", "ref_zh": "现在是什么？", "pred_zh": "现在是什么？"}
+{"id": "common_voice_en_485578", "sentence_en": "For some reason, we were blocked from entering.", "ref_zh": "出于某种原因，我们被阻止进入。", "pred_zh": "不知什么原因，我们被阻止进入。"}
+{"id": "common_voice_en_216368", "sentence_en": "\"That's a lot of hooey.\"", "ref_zh": "那是一派胡言。", "pred_zh": "“那都是胡说八道。”"}
+{"id": "common_voice_en_18825845", "sentence_en": "All fruits and vegetables should be rinsed before eating.", "ref_zh": "所有的水果和蔬菜都应该在食用前清洗干净。", "pred_zh": "所有水果和蔬菜在食用前都应冲洗干净。"}
+{"id": "common_voice_en_19933793", "sentence_en": "A flat white traditionally does not incorporate latte art.", "ref_zh": "白咖啡传统上不包含咖啡拉花艺术。", "pred_zh": "传统的Flat White 不会加入拉花。"}
+{"id": "common_voice_en_18652554", "sentence_en": "\"Here is my friend's excellent house.\"", "ref_zh": "这是我朋友的漂亮房子。", "pred_zh": "\"这是我朋友的 excellent 房子，应该是‘优秀’或者‘很好的’房子。” \n\n为了使句子更通顺，通常我们会将“excellent”翻译为“优秀”的或“很好的”。所以更常见的翻译可能是：\n\n“这是我朋友的一栋很好/优秀的房子。”"}
+{"id": "common_voice_en_18311707", "sentence_en": "It was a deep, dark and desolate place.", "ref_zh": "这是一个又深又暗又荒凉的地方。", "pred_zh": "那是一个深邃、黑暗且荒凉的地方。"}
+{"id": "common_voice_en_596704", "sentence_en": "Well then stand up.", "ref_zh": "Well 然后站起来。", "pred_zh": "那么就站起来吧。"}
+{"id": "common_voice_en_17266280", "sentence_en": "Does that imply I can no longer play badminton?", "ref_zh": "这是否意味着我不能再打羽毛球了？", "pred_zh": "这是否意味着我将不再能打羽毛球了？"}
+{"id": "common_voice_en_19985577", "sentence_en": "Gunther belonged to a military family.", "ref_zh": "Gunther 属于一个军人家庭。", "pred_zh": "Gunther 来自一个军事家庭。"}
+{"id": "common_voice_en_19552206", "sentence_en": "Wiconisco Township is in the northern part of Dauphin County.", "ref_zh": "Wiconisco 镇位于多芬县的北部。", "pred_zh": "威康科镇位于达顿县的北部。"}
+{"id": "common_voice_en_485178", "sentence_en": "They whisked themselves into a frenzy.", "ref_zh": "他们突然陷入疯狂。", "pred_zh": "他们陷入了狂热。"}
+{"id": "common_voice_en_17252148", "sentence_en": "What did he grow?", "ref_zh": "他种什么了？", "pred_zh": "他种了什么？"}
+{"id": "common_voice_en_166378", "sentence_en": "The boy had met the alchemist.", "ref_zh": "这个男孩遇到了炼金术士。", "pred_zh": "男孩见到了炼金师。"}
+{"id": "common_voice_en_252158", "sentence_en": "No, my aunt never wanted her to do that.", "ref_zh": "不，我姑姑从来不希望她这么做。", "pred_zh": "不，我阿姨从来没有想过让她那样做。"}
+{"id": "common_voice_en_19732114", "sentence_en": "\"This is not a rock – it's an artistic concept.\"", "ref_zh": "这不是一块石头，而是一个艺术概念。", "pred_zh": "“这不仅仅是一块石头——这是一个艺术概念。”"}
+{"id": "common_voice_en_17758449", "sentence_en": "A siege will crack the strong defense.", "ref_zh": "攻城战能攻破坚固的防御工事。", "pred_zh": "围攻会瓦解坚固的防御。"}
+{"id": "common_voice_en_19704522", "sentence_en": "A Game Boy Advance release of ChuChu Rocket!", "ref_zh": "GBA平台游戏咻咻火箭发布", "pred_zh": "一款《 ChuChu 火箭 》的 Game Boy Advance 版本！"}
+{"id": "common_voice_en_19708705", "sentence_en": "They often graze on water plants in tropical seas.", "ref_zh": "他们经常以热带海洋的水生植物为食。", "pred_zh": "它们经常在热带海水中啃食水生植物。"}
+{"id": "common_voice_en_17763984", "sentence_en": "Are you on the guest list?", "ref_zh": "你在客人名单上吗？", "pred_zh": "你在这次活动中吗？/ 你是受邀嘉宾吗？"}
+{"id": "common_voice_en_17268492", "sentence_en": "As they watched the waves crashing into each other, Alice thought of home.", "ref_zh": "当他们看着海浪互相撞击时，Alice 想家了。", "pred_zh": "当她们看着波浪互相撞击时，爱丽丝想起了家。"}
+{"id": "common_voice_en_17903487", "sentence_en": "What can we do?", "ref_zh": "我们能做什么？", "pred_zh": "我们可以做些什么？"}
+{"id": "common_voice_en_18689424", "sentence_en": "Black Hoof was accused in the witch-hunt, but was not harmed.", "ref_zh": "黑蹄在狩猎女巫中被指控，但并未受到伤害", "pred_zh": "黑蹄在猎巫行动中被指控，但并未受到伤害。"}
+{"id": "common_voice_en_19080309", "sentence_en": "The airframe was old at the time of the accident.", "ref_zh": "事故发生时，机体已经陈旧。", "pred_zh": "事故发生时，机架年龄较大。"}
+{"id": "common_voice_en_17489892", "sentence_en": "There was an accident at work, a camel stampede nearly killed the janitor.", "ref_zh": "工作中发生了事故，一场骆驼踩踏事故几乎杀死看门人。", "pred_zh": "工作中发生了一起事故，一群骆驼几乎把清洁工给踩死了。"}
+{"id": "common_voice_en_651174", "sentence_en": "Can you remember anything at all?", "ref_zh": "你还记得什么吗？", "pred_zh": "你能记得任何事情吗？"}
+{"id": "common_voice_en_18280432", "sentence_en": "Our plans right now are hazy.", "ref_zh": "我们计划现在模糊不清。", "pred_zh": "我们现在计划得很模糊。"}
+{"id": "common_voice_en_503798", "sentence_en": "How did you find out?", "ref_zh": "你是怎么发现的？", "pred_zh": "你是怎么发现的？"}
+{"id": "common_voice_en_573238", "sentence_en": "And then he perceived it very slowly.", "ref_zh": "然后他慢慢地察觉到了。", "pred_zh": "然后他慢慢察觉到了。"}
+{"id": "common_voice_en_1371137", "sentence_en": "It takes a good trap to capture a bear.", "ref_zh": "捕获一只熊需要很好的陷阱。", "pred_zh": "好的陷阱才能捕到熊。"}
+{"id": "common_voice_en_18843870", "sentence_en": "On top of this, a fire is stacked and lit.", "ref_zh": "最重要的是，一堆火被点燃了。", "pred_zh": "此外，还堆了一把火并点着了。"}
+{"id": "common_voice_en_691319", "sentence_en": "But, as time passed, Tangier had changed.", "ref_zh": "但是，随着时间的推移，Tangier 变了。", "pred_zh": "但随着时间的推移，丹吉尔已经发生了变化。"}
+{"id": "common_voice_en_584389", "sentence_en": "Tires screeched as the cars raced around the corner.", "ref_zh": "汽车在拐角处疾驰时，轮胎发出刺耳的声音。", "pred_zh": "轮胎发出尖叫声，汽车在拐角处疾驰而过。"}
+{"id": "common_voice_en_19981532", "sentence_en": "These incorporate a minimalist and meta-theatrical style.", "ref_zh": "这些结合了极简主义和元戏剧风格。", "pred_zh": "这些采用了极简主义和元戏剧风格。"}
+{"id": "common_voice_en_7863256", "sentence_en": "Is Lena flirting with me or just making compliments?", "ref_zh": "Lena 是在和我调情还是在恭维我？", "pred_zh": "莉娜是对我有意还是只是在夸我？"}
+{"id": "common_voice_en_19826449", "sentence_en": "The Basin, which is susceptible to long periods of deep flooding, is sparsely inhabited.", "ref_zh": "该盆地人口稀少，易受长期深洪的影响。", "pred_zh": "该盆地易发生长时间的深水洪水，人口稀少。"}
+{"id": "common_voice_en_19721856", "sentence_en": "Coatings may be applied as liquids, gases or solids.", "ref_zh": "涂层可以以液体、气体或固体的形式涂覆。", "pred_zh": "涂层可以以液体、气体或固体的形式施加。"}
+{"id": "common_voice_en_154676", "sentence_en": "The boy was sad as he left her that day.", "ref_zh": "那天，当男孩离开她时很伤心。", "pred_zh": "那天离开她时，男孩很伤心。"}
+{"id": "common_voice_en_17252806", "sentence_en": "She put on her slippers, scaled the stairs, and went to bed.", "ref_zh": "她穿上拖鞋，爬楼梯，然后上床睡觉。", "pred_zh": "她穿上拖鞋，爬上了楼梯，然后上床睡觉了。"}
+{"id": "common_voice_en_619458", "sentence_en": "And he told what he had seen.", "ref_zh": "他讲述了他所看到的东西。", "pred_zh": "他讲述了他所见到的。"}
+{"id": "common_voice_en_222048", "sentence_en": "A lot of these people are out of work.", "ref_zh": "这些人中很多人失业了。", "pred_zh": "这些人当中有很多已经失业了。"}
+{"id": "common_voice_en_18260627", "sentence_en": "The rotor spun at incredible speeds.", "ref_zh": "转子以令人难以置信的速度旋转。", "pred_zh": "转子以惊人的速度旋转。"}
+{"id": "common_voice_en_69820", "sentence_en": "What do you want to know?", "ref_zh": "你想知道什么？", "pred_zh": "你想知道什么？"}
+{"id": "common_voice_en_19733205", "sentence_en": "The President must be elected with a simple majority of the popular vote.", "ref_zh": "总统必须以简单多数的普选产生。", "pred_zh": "总统必须通过简单多数的普选票选出。"}
+{"id": "common_voice_en_18313898", "sentence_en": "\"I'm starving. Shall we get some fish and chips at the chip shop?\"", "ref_zh": "我饿死了。我们去薯条店买些鱼和薯条好吗？", "pred_zh": "\"我饿死了。我们去炸鱼店买点鱼和薯条吧？\""}
+{"id": "common_voice_en_18235906", "sentence_en": "Divers found a body in the lake.", "ref_zh": "潜水员在湖里发现了一具尸体。", "pred_zh": "潜水员在湖里发现了一具尸体。"}
+{"id": "common_voice_en_699437", "sentence_en": "But the alchemist continued to look to the horizon.", "ref_zh": "但是炼金术士继续向地平线望去。", "pred_zh": "但炼金师继续望着地平线。"}
+{"id": "common_voice_en_667066", "sentence_en": "He got up early with the idea of finding it.", "ref_zh": "他起得很早，想找到它。", "pred_zh": "他早早起床，打算去找它。"}
+{"id": "common_voice_en_19627327", "sentence_en": "The statue is today exhibited at the Archaeological Museum of Olympia.", "ref_zh": "这座雕像今天在奥林匹亚考古博物馆展出。", "pred_zh": "这座雕像今天在奥林匹亚考古博物馆展出。"}
+{"id": "common_voice_en_158625", "sentence_en": "\"It didn't bring with it the smell of the desert, nor the threat of Moorish invasion.\"", "ref_zh": "它没有带来沙漠的气息，也没有摩尔人入侵的威胁。", "pred_zh": "“它没有带来沙漠的气味，也没有带来摩尔人入侵的威胁。”"}
+{"id": "common_voice_en_18554229", "sentence_en": "There is much more to ponder in greater depth.", "ref_zh": "还有很多值得深入思考的地方。", "pred_zh": "还有许多内容值得更深入地思考。"}
+{"id": "common_voice_en_17846855", "sentence_en": "How long have you had this bruise?", "ref_zh": "你这瘀伤多久了？", "pred_zh": "你这个瘀伤有多久了？"}
+{"id": "common_voice_en_17151232", "sentence_en": "Vandalism could relay funny message, too!", "ref_zh": "故意破坏也能传递有趣的信息！", "pred_zh": "恶意破坏也可能会传达有趣的信息！"}
+{"id": "common_voice_en_20059753", "sentence_en": "Many Christian denominations are present in the town.", "ref_zh": "镇上有许多基督教教派。", "pred_zh": "该镇有许多基督教派别。"}
+{"id": "common_voice_en_509026", "sentence_en": "The alchemist turned to the boy.", "ref_zh": "炼金术士转向那个男孩。", "pred_zh": "炼金师转向了男孩。"}
+{"id": "common_voice_en_684756", "sentence_en": "He had already seen many people come and go, and the desert remained as it was.", "ref_zh": "他已经看到许多人来来去去，沙漠依然如故。", "pred_zh": "他已经见过很多人来来去去，而沙漠依旧 unchanged."}
+{"id": "common_voice_en_19607044", "sentence_en": "Wood began writing compositions at a young age.", "ref_zh": "Wood 很小就开始写作。", "pred_zh": "木头在年轻的时候就开始写乐章了。"}
+{"id": "common_voice_en_19998319", "sentence_en": "The show revolves around two different lifestyles that clashed repeatedly.", "ref_zh": "这部剧围绕着两种反复冲突的不同生活方式展开。", "pred_zh": "这个节目围绕着两种不断冲突的生活方式展开。"}
+{"id": "common_voice_en_8046", "sentence_en": "\"\"\"I'm surprised,\"\" the boy said.\"", "ref_zh": "“我很惊讶，”男孩说。", "pred_zh": "男孩说：“我没想到。”"}
+{"id": "common_voice_en_18254939", "sentence_en": "So, what now?", "ref_zh": "那么，现在怎么办？", "pred_zh": "那么，现在怎么办？"}
+{"id": "common_voice_en_19601707", "sentence_en": "Higher education did not fare as well under Carroll.", "ref_zh": "在 Carroll，高等教育并不顺利。", "pred_zh": "卡尔罗（Carroll）时期高等教育并没有得到很好的发展。"}
+{"id": "common_voice_en_17761564", "sentence_en": "Have you visited that famous bat cave, Albert?", "ref_zh": "Albert，你参观过那个著名的蝙蝠洞吗？", "pred_zh": "你去过那个著名的蝙蝠洞，阿尔伯特？"}
+{"id": "common_voice_en_18071654", "sentence_en": "First come, first served.", "ref_zh": "先到先得。", "pred_zh": "先到先得。"}
+{"id": "common_voice_en_19745335", "sentence_en": "\"She assisted in the creation of \"\"Metropol\"\".\"", "ref_zh": "她协助创建了 “都会”。", "pred_zh": "“她参与创造了《Metropol》。”"}
+{"id": "common_voice_en_193485", "sentence_en": "You want the moon?", "ref_zh": "你想要月亮？", "pred_zh": "你想得到月亮吗？"}
+{"id": "common_voice_en_18418785", "sentence_en": "That will protect the upstairs rooms from water damage.", "ref_zh": "这将保护楼上的房间免受水的破坏。", "pred_zh": "这将保护楼上房间不受水损。"}
+{"id": "common_voice_en_19602146", "sentence_en": "The group leave the mall, none speaking to each other.", "ref_zh": "这群人离开了购物中心，没有人互相交谈。", "pred_zh": "这群人离开了商场，彼此没有说话。"}
+{"id": "common_voice_en_143932", "sentence_en": "The streamer of gas came out towards us.", "ref_zh": "气体飘带向我们飘来。", "pred_zh": "气体的喷流朝我们这边涌来。"}
+{"id": "common_voice_en_17623430", "sentence_en": "Where did Charlotte leave her keys?", "ref_zh": "Charlotte 把钥匙放在哪里了？", "pred_zh": "夏洛特把钥匙忘在哪里了？"}
+{"id": "common_voice_en_655595", "sentence_en": "\"\"\"This is for you,\"\" he said, holding one of the parts out to the monk.\"", "ref_zh": "“这是给你的，”他说着，把其中的一部分拿给了僧侣。", "pred_zh": "他说：“这是给你的，“说着，将一个部件递给了僧人。\""}
+{"id": "common_voice_en_17819209", "sentence_en": "Down that road is the way to the grain farmer.", "ref_zh": "沿着那条路是去粮农的路。", "pred_zh": "那条路上去的是种粮农民的方向。"}
+{"id": "common_voice_en_17840469", "sentence_en": "Those people are kick-ass samba dancers!", "ref_zh": "那些人是活力充沛的桑巴舞者！", "pred_zh": "那些人是棒极了的桑巴舞者！"}
+{"id": "common_voice_en_38274", "sentence_en": "Many telescopes were pointed at it.", "ref_zh": "许多望远镜都对准了它。", "pred_zh": "许多望远镜都对准了它。"}
+{"id": "common_voice_en_19595596", "sentence_en": "Then Pentangle withdrew from their record company, Transatlantic, in a bitter dispute regarding royalties.", "ref_zh": "大西洋彼岸，在一场关于版税的激烈争论中，五角星乐队 退出了他们的唱片公司。", "pred_zh": "然后，由于版税问题与Transatlantic唱片公司产生了激烈的争执，平塔尔特莱乐队退出了该公司。"}
+{"id": "common_voice_en_18237142", "sentence_en": "The college decided to ebb their plan for increasing their parking spaces.", "ref_zh": "学院决定放弃增加停车位的计划。", "pred_zh": "学院决定缩减他们增加停车位的计划。"}
+{"id": "common_voice_en_19212949", "sentence_en": "\"The chairman also has a seat in the university's Board of Governors.\"", "ref_zh": "主席在大学的董事会中也有一个席位。", "pred_zh": "\"主席在大学董事会也有一个席位。\""}
+{"id": "common_voice_en_19064780", "sentence_en": "When Sabretooth betrayed and attacked the team, Polaris was severely injured.", "ref_zh": "当 “剑齿虎” 背叛并攻击团队时，“北极星”受了重伤。", "pred_zh": "当Sabretooth背叛并攻击团队时，Polaris受了重伤。"}
+{"id": "common_voice_en_19597591", "sentence_en": "\"Captains complained of bulky buildings on the canal's edge blocking the line of sight.\"", "ref_zh": "船长抱怨运河边上庞大的建筑挡住了视线。", "pred_zh": "“船长们抱怨岸边的建筑物过于庞大，挡住了视野。”"}
+{"id": "common_voice_en_18041350", "sentence_en": "Can you file these files, please?", "ref_zh": "你能把这些文件归档吗？", "pred_zh": "请把这些文件整理一下。"}
+{"id": "common_voice_en_18342344", "sentence_en": "A ladybird is a type of red and black flying insect", "ref_zh": "瓢虫是一种红黑相间的飞行昆虫", "pred_zh": "一种瓢虫是一种带有红色和黑色斑纹的飞行昆虫。"}
+{"id": "common_voice_en_19430104", "sentence_en": "It is located in Uppsala.", "ref_zh": "它位于乌普萨拉。", "pred_zh": "它位于乌普萨拉。"}
+{"id": "common_voice_en_511123", "sentence_en": "A child wearing a white shirt cutting paper with scissors while an adult wearing a blue sweater looks on", "ref_zh": "一个穿着白色衬衫的小孩用剪刀剪纸，一个穿着蓝色毛衣的大人在一旁看着", "pred_zh": "一个穿着白色衬衫的孩子正在用剪刀裁纸，而一个穿着蓝色毛衣的成年人在旁边观看。"}
+{"id": "common_voice_en_19676817", "sentence_en": "\"The volume is represented by the letter \"\"V\"\".\"", "ref_zh": "体积用字母“V”表示。", "pred_zh": "“体积用字母‘V’表示。”"}
+{"id": "common_voice_en_20068707", "sentence_en": "Years of obscurity then followed for the club.", "ref_zh": "多年默默无闻，然后加入了俱乐部。", "pred_zh": "然后俱乐部进入了多年的默默无闻。"}
+{"id": "common_voice_en_55866", "sentence_en": "This is what I wished for.", "ref_zh": "这是我所希望的。", "pred_zh": "这是我所希望的。"}
+{"id": "common_voice_en_561323", "sentence_en": "What a lovely day!", "ref_zh": "多美好的一天啊！", "pred_zh": "多好的一天啊！"}
+{"id": "common_voice_en_18481855", "sentence_en": "\"It's a very good thing to learn about.\"", "ref_zh": "这是一件值得学习的好事情。", "pred_zh": "\"这是一个非常好的学习内容。\""}
+{"id": "common_voice_en_19701207", "sentence_en": "The treasurer, however, objected that the sum was too much.", "ref_zh": "然而，财务主管反对说金额太多了。", "pred_zh": "然而，财政大臣反对说这笔金额太多了。"}
+{"id": "common_voice_en_135207", "sentence_en": "A man and a woman get married in a wedding ceremony.", "ref_zh": "一男一女在婚礼上结婚。", "pred_zh": "一位男士和一位女士在婚礼仪式上结为夫妇。"}
+{"id": "common_voice_en_19546213", "sentence_en": "\"The Lyceum presents one of Sheffield's annual Christmas pantomimes.\"", "ref_zh": "该艺术团上演了谢菲尔德一年一度的圣诞哑剧之一。", "pred_zh": "\"丽斯欧姆剧院将呈现谢菲尔德一年一度的圣诞剧表演。\""}
+{"id": "common_voice_en_18029164", "sentence_en": "Eve had a secret affair with Ronald.", "ref_zh": "Eve 和 Ronald 有秘密恋情。", "pred_zh": "艾ve与罗纳德有一段秘密的情事。"}
+{"id": "common_voice_en_19322868", "sentence_en": "\"\"\"The factor,\"\" said Hart.\"", "ref_zh": "“因素，”哈特说。", "pred_zh": "“因素就是这个，”哈特说。"}
+{"id": "common_voice_en_77702", "sentence_en": "He was thinking about omens, and someone had appeared.", "ref_zh": "他在思考着预兆，有人出现了。", "pred_zh": "他想着预兆，有人出现了。"}
+{"id": "common_voice_en_633986", "sentence_en": "That night, there was another jetting out of gas from the distant planet.", "ref_zh": "那天晚上，又有一股气体从遥远的星球喷射出来。", "pred_zh": "那天晚上，来自遥远星球的另一股气体喷流出现了。"}
+{"id": "common_voice_en_19692643", "sentence_en": "\"Niulakita's junior school is Lotoalofa Primary School.\"", "ref_zh": "纽拉基塔的初中是 Lotoalofa 小学。", "pred_zh": "“尼乌拉基塔的初级学校是洛托阿法小学。”"}
+{"id": "common_voice_en_19599386", "sentence_en": "Cardinal Borromeo gave his collection of paintings and drawings to the library, too.", "ref_zh": "Borromeo 主教也把他收藏的油画和素描捐给了图书馆。", "pred_zh": "卡罗梅诺主教也将他的绘画和素描收藏赠给了图书馆。"}
+{"id": "common_voice_en_585662", "sentence_en": "\"They think I'm working with them.\"", "ref_zh": "他们认为我在和他们一起工作。", "pred_zh": "“他们以为我在和他们合作。”"}
+{"id": "common_voice_en_17356036", "sentence_en": "Breakfast is usually earlier than this, she thought.", "ref_zh": "她想，早餐通常比这更早。", "pred_zh": "她想，早餐通常要比这早得多。"}
+{"id": "common_voice_en_19667096", "sentence_en": "Among others were soldiers from Gush Etzion and defenders of the Jewish quarter.", "ref_zh": "其中有 Gush Etzion 的士兵和犹太人区的守卫者。", "pred_zh": "此外，还有来自古什艾森zon的士兵和耶路撒冷犹太区的守卫者。"}
+{"id": "common_voice_en_125536", "sentence_en": "It has happened many times before.", "ref_zh": "这种事以前发生过很多次。", "pred_zh": "这以前发生过很多次。"}
+{"id": "common_voice_en_314730", "sentence_en": "with or without accompaniment", "ref_zh": "有没有伴奏", "pred_zh": "有伴奏或无伴奏"}
+{"id": "common_voice_en_181403", "sentence_en": "You left out number five.", "ref_zh": "你漏掉了第五个。", "pred_zh": "你漏掉第五个了。"}
+{"id": "common_voice_en_199582", "sentence_en": "\"\"\"But this payment goes well beyond my generosity,\"\" the monk responded.\"", "ref_zh": "“但是这份报答远远超出了我的慷慨，”僧侣回答。", "pred_zh": "“但这笔捐款远远超出了我的慷慨。”僧人回答说。"}
+{"id": "common_voice_en_19668008", "sentence_en": "It is part of the Royal Armoured Corps.", "ref_zh": "它是皇家装甲部队的一部分。", "pred_zh": "这是王室装甲部队的一部分。"}
+{"id": "common_voice_en_132201", "sentence_en": "\"You don't have to sign anything.\"", "ref_zh": "你不需要签任何东西。", "pred_zh": "“你不需要签名。”"}
+{"id": "common_voice_en_10132505", "sentence_en": "He grew strawberries, so you would not like it.", "ref_zh": "他种草莓，所以你不会喜欢它的。", "pred_zh": "他种了草莓，所以你不会喜欢。"}
+{"id": "common_voice_en_651202", "sentence_en": "\"Welcome to Dave's guitar session.\"", "ref_zh": "欢迎来到 Dave 的吉他课。", "pred_zh": "\"欢迎参加Dave的吉他课程。\""}
+{"id": "common_voice_en_18009623", "sentence_en": "Fair words butter no cabbage.", "ref_zh": "甜言蜜语不能当饭吃。", "pred_zh": "好言不似坏心。 \n\n或者更常见的表达方式：\n\n甜言蜜语不成器。"}
+{"id": "common_voice_en_17942551", "sentence_en": "\"My watch wouldn't work without a quartz resonator.\"", "ref_zh": "没了石英谐振器，我的手表就不能工作。", "pred_zh": "“没有石英谐振器，我的手表就无法工作。”"}
+{"id": "common_voice_en_4548657", "sentence_en": "young lady Cheer up !", "ref_zh": "年轻的女士振作起来！", "pred_zh": "年轻女士 加油！"}
+{"id": "common_voice_en_6432674", "sentence_en": "Not everyone is able to read source code.", "ref_zh": "不是每个人都能阅读源代码。", "pred_zh": "不是每个人都能阅读源代码。"}
+{"id": "common_voice_en_538095", "sentence_en": "The treasure is at the Pyramids; that you already knew.", "ref_zh": "宝藏在金字塔里；你已经知道了。", "pred_zh": "宝藏在金字塔那里；你已经知道了。"}
+{"id": "common_voice_en_19996670", "sentence_en": "The former trolleybus loop is still used, by buses.", "ref_zh": "公共汽车仍然使用以前的无轨电车环线。", "pred_zh": "Former有轨电车环线现在仍然被公交车使用。"}
+{"id": "common_voice_en_665614", "sentence_en": "\"Don't ask me why; I don't know why.\"", "ref_zh": "不要问我为什么；我也不知道为什么。", "pred_zh": "“不要问我为什么；我自己也不知道为什么。”"}
+{"id": "common_voice_en_18274251", "sentence_en": "A car has windows, lights, wheels... et cetera.", "ref_zh": "汽车有窗户、灯、轮子...等等。", "pred_zh": "一辆车有窗户、灯光、轮子……等等。"}
+{"id": "common_voice_en_18117033", "sentence_en": "Help the woman get back to her feet.", "ref_zh": "帮助那位女士站起来。", "pred_zh": "帮助那位妇女重新站稳脚跟。"}
+{"id": "common_voice_en_496110", "sentence_en": "I know good crystal from bad, and everything else there is to know about crystal.", "ref_zh": "我能区分水晶的好坏，还有其他关于水晶的一切品质。", "pred_zh": "我知道什么是好水晶，什么是坏水晶，还有关于水晶的一切其他知识。"}
+{"id": "common_voice_en_18255695", "sentence_en": "Time and tide wait for no man.", "ref_zh": "岁月不饶人。", "pred_zh": "时光不待人。"}
+{"id": "common_voice_en_19690870", "sentence_en": "The title of this book borrows a phrase from the writings of Reinhold Niebuhr.", "ref_zh": "这本书的标题借用了 Reinhold Niebuhr 著作中的一句话。", "pred_zh": "这本书的标题借鉴了雷因霍尔德·尼布尔的著作中的一句话。"}
+{"id": "common_voice_en_18093355", "sentence_en": "The CEO of that Japanese company resigned.", "ref_zh": "那家日本公司的首席执行官辞职了。", "pred_zh": "那家日本公司的CEO辞职了。"}
+{"id": "common_voice_en_537247", "sentence_en": "Other servants maintained the fires in the hookahs.", "ref_zh": "其他仆人在水烟袋里保持了火种。", "pred_zh": "其他仆人负责维持水烟壶中的火。"}
+{"id": "common_voice_en_178238", "sentence_en": "\"To realize one's destiny is a person's only real obligation.\"", "ref_zh": "实现自己的命运是一个人唯一真正的职责。", "pred_zh": "“实现自己的命运是人唯一的真正职责。”"}
+{"id": "common_voice_en_18246692", "sentence_en": "Did you do that?", "ref_zh": "是你做的吗？", "pred_zh": "你做了吗？"}
+{"id": "common_voice_en_579986", "sentence_en": "A boy came running towards me.", "ref_zh": "一个男孩向我跑来。", "pred_zh": "一个男孩向我跑来。"}
+{"id": "common_voice_en_15734801", "sentence_en": "Neil Armstrong was the first man to step foot on the moon.", "ref_zh": "Neil Armstrong 是第一个登上月球的人。", "pred_zh": "尼尔·阿姆斯特朗是第一个踏上月球的人。"}
+{"id": "common_voice_en_18214584", "sentence_en": "This place is inaccessible by car due to the broken bridge.", "ref_zh": "由于桥断，汽车无法到达这个地方。", "pred_zh": "这个地方因为桥坏了无法开车进入。"}
+{"id": "common_voice_en_19686751", "sentence_en": "\"Voids were filled that I didn't even realize that I had.\"", "ref_zh": "空虚被填满了，我甚至都没有意识到。", "pred_zh": "“填补了我甚至不知道自己缺失的东西。”"}
+{"id": "common_voice_en_89811", "sentence_en": "\"My name's Heather.\"", "ref_zh": "我叫 Heather。", "pred_zh": "\"我叫海瑟。\""}
+{"id": "common_voice_en_128224", "sentence_en": "In the Shoreland Hotel.", "ref_zh": "在海滨酒店。", "pred_zh": "在海滨酒店。"}
+{"id": "common_voice_en_517405", "sentence_en": "\"I learned the alchemist's secrets in my travels.\"", "ref_zh": "我在旅行中得知了炼金术士的秘密。", "pred_zh": "“我在旅行中学会了炼金术士的秘诀。”"}
+{"id": "common_voice_en_20020157", "sentence_en": "At the time of its construction, the building was the tallest in New York.", "ref_zh": "在建造的时候，这座建筑是纽约最高的。", "pred_zh": "在建造时，这座建筑是纽约最高的建筑。"}
+{"id": "common_voice_en_18224842", "sentence_en": "The Tropic of Capricorn is in the Southern Hemisphere.", "ref_zh": "南回归线在南半球。", "pred_zh": "赤道南半球有一条 Capricorn 纬线。 \n\n更常见的表达方式是：\n南半球有一条赤纬线，即摩羯座带。"}
+{"id": "common_voice_en_18946002", "sentence_en": "This is due to them being named after pixels.", "ref_zh": "这是因为它们是以像素命名的。", "pred_zh": "这归因于它们是以像素命名的。"}
+{"id": "common_voice_en_19353316", "sentence_en": "The book is edited by Chris DiBona, Sam Ockman and Mark Stone.", "ref_zh": "这本书由 Chris DiBona、Sam Ockman 和 Mark Stone 编辑。", "pred_zh": "这本书由克里斯·迪博纳、萨姆·奥克曼和马克·斯通编辑。"}
+{"id": "common_voice_en_19703943", "sentence_en": "There are several non-governmental organisations in Sanski Most.", "ref_zh": "桑斯基莫斯特有几个非政府组织。", "pred_zh": "山斯克-most有几家非政府组织。"}
+{"id": "common_voice_en_18534646", "sentence_en": "Good point! well made.", "ref_zh": "说得好！制作精良。", "pred_zh": "好观点！制作得很好。"}
+{"id": "common_voice_en_521966", "sentence_en": "\"She doesn't look happy.\"", "ref_zh": "她看起来不开心。", "pred_zh": "\"她看起来不开心。\""}
+{"id": "common_voice_en_605311", "sentence_en": "Stick to your clubs.", "ref_zh": "坚持守住您的俱乐部。", "pred_zh": "坚持你的球杆。"}
+{"id": "common_voice_en_18244807", "sentence_en": "He was not able to find the words for his feelings.", "ref_zh": "他找不到表达自己感情的词语。", "pred_zh": "他找不到合适的词来表达自己的感受。"}
+{"id": "common_voice_en_477628", "sentence_en": "He had done this for years, and knew the schedule of everyone who passed.", "ref_zh": "他已经做了很多年了，知道每个通过考试人的时间表。", "pred_zh": "他这样做已经好几年了，知道每个人路过的时间表。"}
+{"id": "common_voice_en_18251068", "sentence_en": "Stick the stamp on the envelope.", "ref_zh": "把邮票贴在信封上。", "pred_zh": "把邮票贴在信封上。"}
+{"id": "common_voice_en_18337536", "sentence_en": "Unlike Joshua, he stood in no need of divine assistance.", "ref_zh": "与 Joshua不 同，他不需要神的帮助。", "pred_zh": "与约书亚不同，他不需要神的帮助。"}
+{"id": "common_voice_en_18171816", "sentence_en": "\"You're going to have a bad time.\"", "ref_zh": "你会过得很糟糕。", "pred_zh": "“你将会度过一段糟糕的时间。”"}
+{"id": "common_voice_en_19953875", "sentence_en": "The home versions allow the player to choose from three difficulty modes.", "ref_zh": "这个家庭版允许玩家从三种难度模式中选择。", "pred_zh": "家用版允许玩家选择三种难度模式。"}
+{"id": "common_voice_en_17563077", "sentence_en": "Can I be used to request invocation of a subsystem on the remote system?", "ref_zh": "我可以用来请求调用远程系统上的子系统吗？", "pred_zh": "我可以用来请求在远程系统上调用一个子系统吗？"}
+{"id": "common_voice_en_324700", "sentence_en": "I did not chose that phrase.", "ref_zh": "我没有选择那种措辞。", "pred_zh": "我没有选择那个词组。"}
+{"id": "common_voice_en_17780603", "sentence_en": "Finally, he lifted one of the boards and after setting it aside carefully, looked into the space beneath the floor.", "ref_zh": "最后，他举起一块木板，小心地放在一边，看着地板下面的空间。", "pred_zh": "最后，他抬起一块木板，小心翼翼地将其移开，然后向地板下面的空间望去。"}
+{"id": "common_voice_en_19693386", "sentence_en": "Its capital is Trinidad.", "ref_zh": "它的首都是特立尼达。", "pred_zh": "它的首都是特里尼达德。"}
+{"id": "common_voice_en_17860478", "sentence_en": "Greediness burst the bag.", "ref_zh": "贪得无厌,自食其果", "pred_zh": "贪心爆了袋。"}
+{"id": "common_voice_en_649371", "sentence_en": "Everything vintage you can imagine that can fit into a small space is there.", "ref_zh": "在那儿，你能想象到的所有古董都有一个适合的小空间。", "pred_zh": "所有你能想象到的复古物品，只要能 fitting 进小空间的，都在那里。 \n\n注：为了使句子更通顺，将“fit into”翻译为“fitting 进”，并根据中文习惯做了适当调整。"}
+{"id": "common_voice_en_120257", "sentence_en": "A woman is using a small scissors on a large net.", "ref_zh": "一个女人正在一张大网上使用一把小剪刀。", "pred_zh": "一位妇女正在用小剪刀修剪一个大网。"}
+{"id": "common_voice_en_128571", "sentence_en": "\"Only it'll be a lot easier with you.\"", "ref_zh": "只有和你在一起才会容易得多。", "pred_zh": "\"有你帮忙就会容易多了。\""}
+{"id": "common_voice_en_579883", "sentence_en": "We chose a torus topology for our network.", "ref_zh": "我们为我们的网络选择了环形拓扑结构。", "pred_zh": "我们为网络选择了环形拓扑结构。"}
+{"id": "common_voice_en_17284341", "sentence_en": "Very well, very well.", "ref_zh": "很好，很好。", "pred_zh": "非常好，非常好。"}
+{"id": "common_voice_en_17290751", "sentence_en": "Well, it seems that I am running out of cereals for breakfast.", "ref_zh": "嗯，看来我的早餐麦片快用完了。", "pred_zh": "看来我早餐的谷物快吃完了。"}
+{"id": "common_voice_en_17738456", "sentence_en": "My cat laid there, soaking up the sunlight.", "ref_zh": "我的猫躺在那里，沐浴着太阳。", "pred_zh": "我的猫躺在那里，享受着阳光。"}
+{"id": "common_voice_en_38803", "sentence_en": "Air was either entering or escaping at the rim with a thin, sizzling sound.", "ref_zh": "空气从边缘的薄弱位置进进出出，发出咝咝的声音。", "pred_zh": "空气要么在边缘处进入，要么在发出细细的嘶嘶声中逸出。"}
+{"id": "common_voice_en_19388916", "sentence_en": "It is also a well-used interchange for passengers between slow and fast services.", "ref_zh": "它也是一个乘客在慢车和快车之间常用的换乘站。", "pred_zh": "它也是乘客换乘慢车和快车的常用站点。"}
+{"id": "common_voice_en_169571", "sentence_en": "Money makes the man", "ref_zh": "人靠金钱马靠鞍", "pred_zh": "钱能买来人品。"}
+{"id": "common_voice_en_18096858", "sentence_en": "Never let the sun set on thy wrath.", "ref_zh": "日落之前，平息怒火吧", "pred_zh": "不要让愤怒在你的心中久留。"}
+{"id": "common_voice_en_19115939", "sentence_en": "Grogan also became a film and television actress.", "ref_zh": "Grogan 也成为了一名电影和电视演员。", "pred_zh": "格罗甘也成为了电影和电视演员。"}
+{"id": "common_voice_en_18281513", "sentence_en": "\"If it ain't broke, don't fix it.\"", "ref_zh": "如果它没坏，就不要修理它。", "pred_zh": "“如果它没坏，就不要修它。”"}
+{"id": "common_voice_en_541237", "sentence_en": "He remembered something his grandfather had once told him: that butterflies were a good omen.", "ref_zh": "他记得祖父曾经告诉过他的一些事：蝴蝶是一个好兆头。", "pred_zh": "他想起了祖父曾经告诉过他的一句话：蝴蝶是一个好兆头。"}
+{"id": "common_voice_en_19645320", "sentence_en": "Many are now damaged or lost through erosion.", "ref_zh": "目前，多数由于侵蚀而被损坏或丢失。", "pred_zh": "许多现在由于侵蚀已经损坏或丢失。"}
+{"id": "common_voice_en_17897007", "sentence_en": "Never let the sun set on angry heart.", "ref_zh": "日落之前，平息心中的怒火吧。", "pred_zh": "不要让愤怒的心在夕阳下消逝。"}
+{"id": "common_voice_en_19260886", "sentence_en": "\"The results of the public voting are combined with the panel's votes.\"", "ref_zh": "公众投票结果与陪审团投票结果相结合。", "pred_zh": "\"公众投票的结果与评审团的投票相结合。\""}
+{"id": "common_voice_en_17267600", "sentence_en": "What could it mean?", "ref_zh": "这意味着什么？", "pred_zh": "这可能意味着什么？"}
+{"id": "common_voice_en_19975480", "sentence_en": "Therefore, the armed citizen-soldier carried the responsibility.", "ref_zh": "因此，武装的公民士兵肩负起了责任。", "pred_zh": "因此，武装公民士兵承担了责任。"}
+{"id": "common_voice_en_559667", "sentence_en": "A cricket batsman swinging", "ref_zh": "挥拍的板球击球手", "pred_zh": "板球棒球手摆动击球"}
+{"id": "common_voice_en_219953", "sentence_en": "\"The Englishman didn't answer him directly.\"", "ref_zh": "英国人没有直接回答他。", "pred_zh": "\"那个英国人没有直接回答他。\""}
+{"id": "common_voice_en_19609", "sentence_en": "\"\"\"These are the spies,\"\" said one of the men.\"", "ref_zh": "“这些是间谍，”其中一个人说。", "pred_zh": "\"这些是间谍，\"其中一人说。"}
+{"id": "common_voice_en_439721", "sentence_en": "\"I don't believe it!\"", "ref_zh": "我不相信！", "pred_zh": "\"我不敢相信！\""}
+{"id": "common_voice_en_18822586", "sentence_en": "\"Stores include an Aldi supermarket, a smaller Foodworks grocery store and a McDonald's restaurant.\"", "ref_zh": "商店包括一家阿尔迪超市、一家较小的 食品工厂 杂货店和一家麦当劳餐厅。", "pred_zh": "\"商店包括一家阿尔迪超市、一家较小的食品虎超市以及一家麦当劳餐厅。\""}
+{"id": "common_voice_en_18032955", "sentence_en": "\"If he had it on him then they'll have that, too.\"", "ref_zh": "如果他身上有，那么他们也会有。", "pred_zh": "\"如果他身上有的话，他们也会拿到那个东西。\""}
+{"id": "common_voice_en_18165242", "sentence_en": "\"Foxes are uncommon where I'm from.\"", "ref_zh": "狐狸在我的家乡很少见。", "pred_zh": "“我那里的狐狸比较少见。”"}
+{"id": "common_voice_en_18308091", "sentence_en": "It took him half an hour to reach the edge of it.", "ref_zh": "他花了半个小时才走到它的边缘。", "pred_zh": "他花了半个多小时才走到它的边缘。"}
+{"id": "common_voice_en_19701111", "sentence_en": "Fully mature fourth-instar larvae are long.", "ref_zh": "完全成熟的四龄幼虫很长。", "pred_zh": "完全成熟的四龄幼虫很长。"}
+{"id": "common_voice_en_19857786", "sentence_en": "The game was won by Baker.", "ref_zh": "Baker 赢了这场比赛。", "pred_zh": "比赛是由贝克赢得的。"}
+{"id": "common_voice_en_133578", "sentence_en": "Four people dressed for warm weather out on a street walking.", "ref_zh": "四个人穿着暖和的衣服在街上散步。", "pred_zh": "四个穿着适合温暖天气的人在街上行走。"}
+{"id": "common_voice_en_588551", "sentence_en": "Mind the gap.", "ref_zh": "注意缝隙。", "pred_zh": "请留意间隙。"}
+{"id": "common_voice_en_19059674", "sentence_en": "It is part of the municipality of Grootegast.", "ref_zh": "它是 Grootegast 市的一部分。", "pred_zh": "这属于格罗特埃斯特市。"}
+{"id": "common_voice_en_1757", "sentence_en": "He was sure the girl would never understand.", "ref_zh": "他确信这个女孩永远不会明白。", "pred_zh": "他确信那个女孩永远不会理解。"}
+{"id": "common_voice_en_634983", "sentence_en": "Look around some time.", "ref_zh": "找个时间四处看看。", "pred_zh": "看看周围。"}
+{"id": "common_voice_en_34404", "sentence_en": "And he gave the boy his blessing.", "ref_zh": "他给了男孩他的祝福。", "pred_zh": "他给那男孩祝福了。"}
+{"id": "common_voice_en_17740261", "sentence_en": "Why, bless my soul!", "ref_zh": "哎呀，天哪!", "pred_zh": "天啊！"}
+{"id": "common_voice_en_19179769", "sentence_en": "Now God has decided to use other methods.", "ref_zh": "现在上帝决定使用其他方法。", "pred_zh": "现在上帝决定使用其他方法。"}
+{"id": "common_voice_en_17298604", "sentence_en": "\"The python wasn't a snake, it was a programming language.\"", "ref_zh": "python 不是蛇，而是一种编程语言。", "pred_zh": "“这条蟒蛇不是一条蛇，而是一种编程语言。”"}
+{"id": "common_voice_en_496244", "sentence_en": "There, the alchemist separated the disk into four parts.", "ref_zh": "在那里，炼金术士将圆盘分成四部分。", "pred_zh": "在那里，炼金师将圆盘分成了四部分。"}
+{"id": "common_voice_en_581584", "sentence_en": "As the sun rose, the men began to beat the boy.", "ref_zh": "太阳升起时，男人们开始打男孩。", "pred_zh": "随着太阳升起，那些男人开始殴打那个男孩。"}
+{"id": "common_voice_en_17252293", "sentence_en": "How do you know that it is correct?", "ref_zh": "你怎么知道它是正确的？", "pred_zh": "你知道这是正确的吗？"}
+{"id": "common_voice_en_18122737", "sentence_en": "This horse will nose his way to the finish.", "ref_zh": "这匹马将小心探索着前进到终点。", "pred_zh": "这匹马将会鼻抵鼻地冲向终点。"}
+{"id": "common_voice_en_17796224", "sentence_en": "I do not know.", "ref_zh": "我不知道。", "pred_zh": "我不知道。"}
+{"id": "common_voice_en_19606815", "sentence_en": "He went on to build a career in insurance.", "ref_zh": "他继续在保险行业发展。", "pred_zh": "他接着在保险业建立起了自己的职业生涯。"}
+{"id": "common_voice_en_19617839", "sentence_en": "It is a quiet farm type suburb at Southern edge of Johannesburg.", "ref_zh": "这是约翰内斯堡南部边缘的一个安静的农场式郊区。", "pred_zh": "它位于约翰内斯堡南部边缘的一个安静的农场风格郊区。"}
+{"id": "common_voice_en_679076", "sentence_en": "Sorry to keep you waiting.", "ref_zh": "抱歉让你久等了。", "pred_zh": "抱歉让你久等了。"}
+{"id": "common_voice_en_17875025", "sentence_en": "They took their kids from the public school.", "ref_zh": "他们把他们的孩子们从公立学校带走。", "pred_zh": "他们把孩子从公立学校接走了。"}
+{"id": "common_voice_en_17248052", "sentence_en": "I like the avenger of the new episode, he really is a badass.", "ref_zh": "我喜欢新一集的复仇者，他真是个坏蛋。", "pred_zh": "我喜欢新一集的复仇者，他真的很强悍。"}
+{"id": "common_voice_en_17264346", "sentence_en": "After twelve hours of rowing, Darius climbed out of the canoe, and lied down on the beach to nap.", "ref_zh": "Darius 划了十二个小时后，爬出独木舟，躺在沙滩上打盹。", "pred_zh": "划船十二小时后，达里乌斯爬出独木舟，在海滩上小睡了一会儿。"}
+{"id": "common_voice_en_18733679", "sentence_en": "They currently hang in Hartwall Areena in Helsinki.", "ref_zh": "他们目前在赫尔辛基的 Hartwall Areena 逗留。", "pred_zh": "它们目前悬挂在赫尔辛基的哈特瓦尔竞技场。"}
+{"id": "common_voice_en_556081", "sentence_en": "\"\"\"Don't let them see that you're afraid,\"\" the alchemist said.\"", "ref_zh": "“不要让他们看到你在害怕，”炼金术士说。", "pred_zh": "“不要让他们看出你害怕了，”炼金师说。"}
+{"id": "common_voice_en_15932926", "sentence_en": "God bless my soul!", "ref_zh": "上帝保佑我的灵魂！", "pred_zh": "上帝保佑我靈魂！"}
+{"id": "common_voice_en_696065", "sentence_en": "From there, he could see Africa in the distance.", "ref_zh": "从那里，他可以看到远处的非洲。", "pred_zh": "从那里，他可以看到远处的非洲。"}
+{"id": "common_voice_en_16953", "sentence_en": "How do you suppose Ken got that gun?", "ref_zh": "你认为 Ken 是怎么拿到那把枪的？", "pred_zh": "你认为肯是怎么得到那把枪的？"}
+{"id": "common_voice_en_18313319", "sentence_en": "Idealism led him to philosophic anarchy, and his family threw him off.", "ref_zh": "理想主义把他引向哲学的无政府状态，而且他的家人把他赶了出来。", "pred_zh": "理想主义让他走向了哲学上的无政府状态，家人因此将他赶出了家门。"}
+{"id": "common_voice_en_97932", "sentence_en": "I can not help but feel that this topic is hopelessly outdated.", "ref_zh": "我不禁觉得这个话题已经过时了，无可救药。", "pred_zh": "我不禁觉得这个话题已经过时了。"}
+{"id": "common_voice_en_18700276", "sentence_en": "Its current permanent population stands at four or five.", "ref_zh": "它目前的常住人口为四到五人。", "pred_zh": "其当前的常住人口为四五百人。"}
+{"id": "common_voice_en_19731284", "sentence_en": "\"One of Jackson's main arguments against the bill was the project's provincial nature.\"", "ref_zh": "Jackson 反对该法案的主要理由之一是该项目的地方性。", "pred_zh": "“杰克逊反对这项法案的主要理由之一是该项目的地域性特征。”"}
+{"id": "common_voice_en_18733382", "sentence_en": "\"Proceeds go to the town's athletic programs.\"", "ref_zh": "收益将用于该镇的体育项目。", "pred_zh": "\"所得款项将用于镇级体育项目。\""}
+{"id": "common_voice_en_18302143", "sentence_en": "There is no place like home.", "ref_zh": "家是世界上最好的地方。", "pred_zh": "家是最温暖的港湾。"}
+{"id": "common_voice_en_17977806", "sentence_en": "Do you understand me?", "ref_zh": "你明白我的意思吗？", "pred_zh": "你明白我的意思吗？"}
+{"id": "common_voice_en_19184993", "sentence_en": "Moving with speed and aggression, the French pushed the Allies over the Aisne river.", "ref_zh": "法国人以迅雷不及掩耳的速度和咄咄逼人的气势把协约国赶过了埃纳河。", "pred_zh": "法国军队迅速而猛烈地推进，将盟军赶过了亚森河。"}
+{"id": "common_voice_en_19964525", "sentence_en": "When he returned to Suriname, he worked in the financial system.", "ref_zh": "当他回到苏里南时，他在金融系统工作。", "pred_zh": "当他回到苏里南后，他在金融系统工作。"}
+{"id": "common_voice_en_19753938", "sentence_en": "Treatment of endemic goiter is medical with iodine and thyroxine preparations.", "ref_zh": "地方性甲状腺肿采用碘和甲状腺素制剂治疗。", "pred_zh": "地方性甲状腺肿的治疗使用碘和甲状腺素制剂进行医疗处理。"}
+{"id": "common_voice_en_621682", "sentence_en": "People saw me coming and welcomed me, he thought.", "ref_zh": "人们看见我来了要欢迎我，他想。", "pred_zh": "人们看到我过来就欢迎我了，他这么想。"}
+{"id": "common_voice_en_19731876", "sentence_en": "The members of the Senate had to be Finnish citizens.", "ref_zh": "参议院成员必须是芬兰公民。", "pred_zh": "参议员必须是芬兰公民。"}
+{"id": "common_voice_en_18034433", "sentence_en": "\"Don't try to teach your grand-mother to suck eggs.\"", "ref_zh": "不要试图班门弄斧。", "pred_zh": "“不要自讨没趣，强行教导你的祖母如何吃蛋。” \n\n或者更简洁的表达方式：\n\n“不要班门弄斧。” \n\n这里的“班门弄斧”是一个成语，意思是自不量力地在行家面前卖弄本领，通常用来形容自己不懂装懂或在行家里手面前出丑。在这个上下文中，它与原句的意思最为接近。"}
+{"id": "common_voice_en_36800", "sentence_en": "A white bird spreads its wings and jumps into the water feet first.", "ref_zh": "一只白色的鸟展开翅膀，先跳到水里。", "pred_zh": "一只白鸟展开翅膀，脚先跳入水中。"}
+{"id": "common_voice_en_18605187", "sentence_en": "How wonderful she must have looked in beach pyjamas!", "ref_zh": "她穿沙滩睡衣一定很好看！", "pred_zh": "她在海滩上穿着睡衣一定非常漂亮！"}
+{"id": "common_voice_en_250855", "sentence_en": "That blond guy over there is a git.", "ref_zh": "那边那个金发的家伙是个饭桶。", "pred_zh": "那边那个金发 guy 真是个混蛋。"}
+{"id": "common_voice_en_33044", "sentence_en": "How can you have any happiness after that?", "ref_zh": "在那之后你怎么会有幸福呢？", "pred_zh": "在那之后，你怎么还能有任何快乐？"}
+{"id": "common_voice_en_130584", "sentence_en": "A man is putting in an order at the kitchen of a restaurant.", "ref_zh": "一名男子正在一家餐馆的厨房点菜。", "pred_zh": "一个人正在餐馆厨房里下单。"}
+{"id": "common_voice_en_125799", "sentence_en": "Of course, the two were unable to do anything.", "ref_zh": "当然，这两个人什么也做不了。", "pred_zh": "当然，两者都无法采取任何行动。"}
+{"id": "common_voice_en_173373", "sentence_en": "And the murmur lasted longer than a simple vow would have.", "ref_zh": "低语持续的时间比简单的誓言还要长。", "pred_zh": "并且呢，这种低语持续的时间比一个简单的誓言要长。"}
+{"id": "common_voice_en_1564420", "sentence_en": "Presumably Ryan never did any sanity checks.", "ref_zh": "想必 Ryan 从未做过任何健康检查。", "pred_zh": "presumably Ryan 从未进行过任何合理性检查。"}
+{"id": "common_voice_en_19617894", "sentence_en": "Born in Cologne, he is the son of composer Karlheinz Stockhausen.", "ref_zh": "他出生在科隆，是作曲家 Karlheinz Stockhausen 的儿子。", "pred_zh": "他出生于科隆，是作曲家卡尔海因茨·斯托克豪森的儿子。"}
+{"id": "common_voice_en_17258887", "sentence_en": "Marry in haste, repent at leisure.", "ref_zh": "草率结婚后悔多。", "pred_zh": "仓促结婚， later 后悔。 (more naturally: 仓促结婚， later 后悔。)"}
+{"id": "common_voice_en_18330018", "sentence_en": "\"Please clear the gangway or we won't be able to get out\"", "ref_zh": "请让开过道，否则我们出不去了", "pred_zh": "\"请清理舷梯，否则我们无法离开。\""}
+{"id": "common_voice_en_384262", "sentence_en": "What do you mean to do?", "ref_zh": "你打算做什么？", "pred_zh": "你打算做什么？"}
+{"id": "common_voice_en_17562784", "sentence_en": "What more do you want?", "ref_zh": "你还想要什么？", "pred_zh": "你想要什么？"}
+{"id": "common_voice_en_18955915", "sentence_en": "\"For more on Radcliffe's shifting role in the University, see Radcliffe College.\"", "ref_zh": "更多关于大学拉德克利夫角色转变的信息，请访问拉德克利夫学院。", "pred_zh": "“有关拉德克利夫在大学中角色的变化，可以参见拉德克利夫学院。”"}
+{"id": "common_voice_en_19562559", "sentence_en": "The Maud Committee reported three years later.", "ref_zh": "Maud 委员会三年后报道。", "pred_zh": "莫德委员会三年后上报了结果。"}
+{"id": "common_voice_en_473339", "sentence_en": "Every path has its puddle.", "ref_zh": "凡事皆有其难处。", "pred_zh": "每条路都有泥潭。"}
+{"id": "common_voice_en_19950479", "sentence_en": "Kuakata is the place of pilgrimage for both Hindu and Buddhist communities.", "ref_zh": "Kuakata 是印度教和佛教团体的朝圣地。", "pred_zh": "库阿塔塔是 Hindus 和 Buddhists 两个宗教社区的朝圣之地。"}
+{"id": "common_voice_en_34693", "sentence_en": "She joined up too.", "ref_zh": "她也加入了。", "pred_zh": "她也报名了。"}
+{"id": "common_voice_en_19041792", "sentence_en": "But it does not allow for adding new members to interfaces.", "ref_zh": "但是它不允许向接口添加新成员。", "pred_zh": "但它不允许向接口添加新的成员。"}
+{"id": "common_voice_en_18150408", "sentence_en": "Patience is a virtue.", "ref_zh": "耐心是一种美德。", "pred_zh": "耐心是一种美德。"}
+{"id": "common_voice_en_18730818", "sentence_en": "\"The story is recounted in Sophocles' \"\"Women of Trachis\"\" and Ovid's \"\"Metamorphoses\"\".\"", "ref_zh": "Sophocles 的《特拉西斯的女人》和 Ovid 的《变形记》讲述了这个故事。", "pred_zh": "这个故事分别记载在索福克勒斯的《特拉奇妇女》和奥维德的《变形记》中。"}
+{"id": "common_voice_en_19824536", "sentence_en": "His manservant was also kidnapped and held with him.", "ref_zh": "他的男仆也被绑架并与他关押在一起。", "pred_zh": "他的男仆也被绑架并和他一起被关押。"}
+{"id": "common_voice_en_681904", "sentence_en": "Ines loves to go swimming.", "ref_zh": "Ines 喜欢去游泳。", "pred_zh": "伊内斯喜欢去游泳。"}
+{"id": "common_voice_en_19754389", "sentence_en": "The old runway near to Mountbatten Road is now called Old Airport Road.", "ref_zh": "靠近蒙巴顿路的旧跑道现在被称为老机场路。", "pred_zh": "靠近蒙巴滕路的旧跑道现在称为老机场路。"}
+{"id": "common_voice_en_17732762", "sentence_en": "Check the main features on the website.", "ref_zh": "在网站上查看主要特点。", "pred_zh": "检查网站上的主要功能。"}
+{"id": "common_voice_en_18266021", "sentence_en": "If life gives you lemons, make lemonade", "ref_zh": "随遇而安,苦中作乐", "pred_zh": "如果生活给你柠檬，就做柠檬水。"}
+{"id": "common_voice_en_17393438", "sentence_en": "Yes, it would be difficult.", "ref_zh": "是的，这将会很难。", "pred_zh": "是的，这会很难。"}
+{"id": "common_voice_en_545557", "sentence_en": "Have a good time.", "ref_zh": "玩得开心。", "pred_zh": "玩得开心。"}
+{"id": "common_voice_en_17934382", "sentence_en": "Help the weak to preserve their strength.", "ref_zh": "帮助弱者保持实力。", "pred_zh": "帮助弱者保存他们的力量。"}
+{"id": "common_voice_en_32883", "sentence_en": "I always said so.", "ref_zh": "我总是这么说。", "pred_zh": "我总是这么说的。"}
+{"id": "common_voice_en_17740082", "sentence_en": "What am I to do with it?", "ref_zh": "我该拿它怎么办？", "pred_zh": "我拿这个怎么办？"}
+{"id": "common_voice_en_19520648", "sentence_en": "This was first done by Bertrand around the same time that Cayley named them.", "ref_zh": "大约在 Cayley 给它们命名的同时， Bertrand 迈出了第一步。", "pred_zh": "这最早是由伯特兰德在凯莱命名它们的同一时期完成的。"}
+{"id": "common_voice_en_480357", "sentence_en": "\"But you've got to leave me alone.\"", "ref_zh": "但你得让我自己待一会。", "pred_zh": "“但你必须让我独处。”"}
+{"id": "common_voice_en_17958975", "sentence_en": "The devil take him!", "ref_zh": "魔鬼带走了他！", "pred_zh": "见鬼去吧他！"}
+{"id": "common_voice_en_447551", "sentence_en": "The agent secretly entered the embassy from the roof.", "ref_zh": "特工从屋顶秘密进入大使馆。", "pred_zh": "特工从屋顶秘密进入了使馆。"}
+{"id": "common_voice_en_610046", "sentence_en": "\"Even though the sheep didn't teach me to speak Arabic.\"", "ref_zh": "尽管羊没有教我说阿拉伯语。", "pred_zh": "\"尽管羊没有教我阿拉伯语。\""}
+{"id": "common_voice_en_96342", "sentence_en": "Then they got ahold of some dough and went goofy.", "ref_zh": "然后他们拿了些钱，就远走高飞了。", "pred_zh": "然后他们弄到了一些钱，就开始胡闹了。"}
+{"id": "common_voice_en_654473", "sentence_en": "That it was unable to deal with this boy who spoke the Language of the World.", "ref_zh": "它无法对付这个说世界语言的男孩。", "pred_zh": "它无法处理这个说世界语的男孩。"}
+{"id": "common_voice_en_404161", "sentence_en": "\"I'll cough a bit for you\"", "ref_zh": "我帮你咳嗽一下", "pred_zh": "\"我咳嗽一下给你看\""}
+{"id": "common_voice_en_604878", "sentence_en": "My review of the sun: one star.", "ref_zh": "我对太阳的评论：一颗恒星。", "pred_zh": "我对太阳的评价：一星。"}
+{"id": "common_voice_en_17877377", "sentence_en": "That is all I have to say.", "ref_zh": "这就是我要说的。", "pred_zh": "这就是我要说的。"}
+{"id": "common_voice_en_19554033", "sentence_en": "The reality is gradual development.", "ref_zh": "现实是逐渐发展的。", "pred_zh": "现实是渐进的发展。"}
+{"id": "common_voice_en_18101571", "sentence_en": "Screen the porch with woven straw mats.", "ref_zh": "用编织的草席遮蔽走廊。", "pred_zh": "用编织的稻草垫屏风遮住露台。"}
+{"id": "common_voice_en_565016", "sentence_en": "The Englishman vanished, too, gone to find the alchemist.", "ref_zh": "那个英国人也消失了，去找炼金术士了。", "pred_zh": "那个英国人也消失了，去寻找炼金师了。"}
+{"id": "common_voice_en_546423", "sentence_en": "\"\"\"Because of the omens,\"\" the alchemist answered.\"", "ref_zh": "“因为预兆，”炼金术士回答。", "pred_zh": "因为有了预兆，炼金师回答说。"}
+{"id": "common_voice_en_49828", "sentence_en": "The men fell into an animated discussion.", "ref_zh": "这些人热烈地讨论起来。", "pred_zh": "这些男人陷入了热烈的讨论中。"}

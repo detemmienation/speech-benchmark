@@ -1,0 +1,15 @@
+{
+  "stage": "unimodal_mt",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "split": "test",
+  "src_lang": "en",
+  "tgt_lang": "zh",
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "batch_size": 1,
+  "max_new_tokens": 128,
+  "examples_done": 1000,
+  "infer_seconds_total": 488.5386744409989,
+  "avg_seconds_per_example": 0.48853867444099885,
+  "avg_examples_per_second": 2.046920852569617
+}

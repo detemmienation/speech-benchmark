@@ -1,0 +1,41 @@
+{
+  "model": "openai/whisper-large-v3",
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "batch_size": 1,
+  "max_audio_seconds": 30.0,
+  "max_new_tokens": 128,
+  "shard_size": 250,
+  "total_examples": 1000,
+  "shards": [
+    {
+      "start": 0,
+      "end": 249,
+      "count": 250,
+      "shard_time_sec": 131.33538627624512,
+      "avg_sec_per_ex": 0.5253415451049804
+    },
+    {
+      "start": 250,
+      "end": 499,
+      "count": 250,
+      "shard_time_sec": 135.1400249004364,
+      "avg_sec_per_ex": 0.5405600996017456
+    },
+    {
+      "start": 500,
+      "end": 749,
+      "count": 250,
+      "shard_time_sec": 136.7362356185913,
+      "avg_sec_per_ex": 0.5469449424743652
+    },
+    {
+      "start": 750,
+      "end": 999,
+      "count": 250,
+      "shard_time_sec": 126.04574227333069,
+      "avg_sec_per_ex": 0.5041829690933227
+    }
+  ],
+  "total_time_sec": 535.6647827625275
+}
