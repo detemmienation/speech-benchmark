@@ -1,0 +1,14 @@
+{
+    "model": "Qwen/Qwen2-Audio-7B-Instruct",
+    "split": "test",
+    "tgt_lang": "cmn",
+    "batch_size": 1,
+    "shard_size": 1000,
+    "max_new_tokens": 256,
+    "device": "cuda",
+    "dtype": "torch.float16",
+    "examples_done": 1000,
+    "infer_seconds_total": 623.3534376621246,
+    "avg_seconds_per_example": 0.6233534376621246,
+    "avg_examples_per_second": 1.6042263338604201
+}
